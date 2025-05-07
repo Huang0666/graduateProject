@@ -1,0 +1,89 @@
+{
+  "best_threshold": 0.8500000000000003,
+  "best_metrics": {
+    "f1": 0.8572860223235289,
+    "precision": 0.8704678319844488,
+    "recall": 0.8577384054194893
+  },
+  "all_results": [
+    {
+      "threshold": 0.5,
+      "overall_precision": 0.8679513408934525,
+      "positive_precision": 0.9303575601776116,
+      "overall_f1": 0.8622344639914248,
+      "positive_f1": 0.8509137544084643,
+      "overall_recall": 0.8622862286228623,
+      "positive_recall": 0.7839700669554943
+    },
+    {
+      "threshold": 0.55,
+      "overall_precision": 0.8674161595286264,
+      "positive_precision": 0.9453883495145631,
+      "overall_f1": 0.8599802569684186,
+      "positive_f1": 0.8469232441835182,
+      "overall_recall": 0.8601544364962812,
+      "positive_recall": 0.767034265458842
+    },
+    {
+      "threshold": 0.6000000000000001,
+      "overall_precision": 0.8692832915490578,
+      "positive_precision": 0.9583436647656831,
+      "overall_f1": 0.8605066969115427,
+      "positive_f1": 0.8484249807924487,
+      "overall_recall": 0.8606755412383343,
+      "positive_recall": 0.7611264277274518
+    },
+    {
+      "threshold": 0.6500000000000001,
+      "overall_precision": 0.8697372626053569,
+      "positive_precision": 0.96527428283845,
+      "overall_f1": 0.8601206804781082,
+      "positive_f1": 0.8475475033141847,
+      "overall_recall": 0.8603439291297551,
+      "positive_recall": 0.7554155179204411
+    },
+    {
+      "threshold": 0.7000000000000002,
+      "overall_precision": 0.8704476250824168,
+      "positive_precision": 0.9705059750826341,
+      "overall_f1": 0.8601361247229674,
+      "positive_f1": 0.8471867717234491,
+      "overall_recall": 0.8603913022881235,
+      "positive_recall": 0.7516738873572273
+    },
+    {
+      "threshold": 0.7500000000000002,
+      "overall_precision": 0.870832056180255,
+      "positive_precision": 0.9755595574993569,
+      "overall_f1": 0.8596759144858167,
+      "positive_f1": 0.8459564974902398,
+      "overall_recall": 0.8599649438628073,
+      "positive_recall": 0.7467506892477354
+    },
+    {
+      "threshold": 0.8000000000000003,
+      "overall_precision": 0.8705230384591859,
+      "positive_precision": 0.9793895121314897,
+      "overall_f1": 0.8583814302839918,
+      "positive_f1": 0.8425541465604309,
+      "overall_recall": 0.8587332417452271,
+      "positive_recall": 0.7392674281213076
+    },
+    {
+      "threshold": 0.8500000000000003,
+      "overall_precision": 0.8704678319844488,
+      "positive_precision": 0.9838496160974318,
+      "overall_f1": 0.8572860223235289,
+      "positive_f1": 0.8392998306041785,
+      "overall_recall": 0.8577384054194893,
+      "positive_recall": 0.7317841669948799
+    }
+  ],
+  "timestamp": "2025-04-28 11:30:11",
+  "model_version": "v4",
+  "model_config": {
+    "model_name": "bert-base-chinese",
+    "num_labels": 4,
+    "max_length": 128
+  }
+}

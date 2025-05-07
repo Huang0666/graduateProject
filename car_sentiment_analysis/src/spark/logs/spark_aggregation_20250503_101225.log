@@ -1,0 +1,159 @@
+2025-05-03 10:12:25,774 - INFO - [car_sentiment_aggregation.py:151] - 开始数据聚合处理
+2025-05-03 10:12:25,774 - INFO - [car_sentiment_aggregation.py:154] - 正在创建Spark会话...
+2025-05-03 10:12:31,693 - INFO - [car_sentiment_aggregation.py:156] - Spark会话创建成功
+2025-05-03 10:12:31,693 - INFO - [car_sentiment_aggregation.py:159] - MySQL连接配置: {'driver': 'com.mysql.cj.jdbc.Driver', 'url': 'jdbc:mysql://localhost:3306/media_crawler_raw_data_dy', 'user': 'root', 'password': 'root'}
+2025-05-03 10:12:37,263 - INFO - [car_sentiment_aggregation.py:233] - 表 toyota_corolla 包含 1328 条记录
+2025-05-03 10:12:37,957 - INFO - [car_sentiment_aggregation.py:255] - 成功处理表 toyota_corolla，耗时 6.26 秒
+2025-05-03 10:12:37,957 - INFO - [car_sentiment_aggregation.py:256] - 统计结果 - 正面: 80, 负面: 77, 中性: 90, 无关: 34
+2025-05-03 10:12:38,139 - INFO - [car_sentiment_aggregation.py:233] - 表 nissan_sylphy 包含 2639 条记录
+2025-05-03 10:12:38,475 - INFO - [car_sentiment_aggregation.py:255] - 成功处理表 nissan_sylphy，耗时 0.52 秒
+2025-05-03 10:12:38,475 - INFO - [car_sentiment_aggregation.py:256] - 统计结果 - 正面: 750, 负面: 538, 中性: 686, 无关: 665
+2025-05-03 10:12:38,633 - INFO - [car_sentiment_aggregation.py:233] - 表 volvo_s60 包含 1792 条记录
+2025-05-03 10:12:38,926 - INFO - [car_sentiment_aggregation.py:255] - 成功处理表 volvo_s60，耗时 0.45 秒
+2025-05-03 10:12:38,926 - INFO - [car_sentiment_aggregation.py:256] - 统计结果 - 正面: 688, 负面: 368, 中性: 486, 无关: 250
+2025-05-03 10:12:39,069 - INFO - [car_sentiment_aggregation.py:233] - 表 volkswagen_lavida 包含 2105 条记录
+2025-05-03 10:12:39,320 - INFO - [car_sentiment_aggregation.py:255] - 成功处理表 volkswagen_lavida，耗时 0.39 秒
+2025-05-03 10:12:39,320 - INFO - [car_sentiment_aggregation.py:256] - 统计结果 - 正面: 579, 负面: 466, 中性: 617, 无关: 443
+2025-05-03 10:12:39,437 - INFO - [car_sentiment_aggregation.py:233] - 表 buick_excelle_gt 包含 1203 条记录
+2025-05-03 10:12:39,686 - INFO - [car_sentiment_aggregation.py:255] - 成功处理表 buick_excelle_gt，耗时 0.37 秒
+2025-05-03 10:12:39,687 - INFO - [car_sentiment_aggregation.py:256] - 统计结果 - 正面: 267, 负面: 229, 中性: 514, 无关: 193
+2025-05-03 10:12:39,831 - INFO - [car_sentiment_aggregation.py:233] - 表 volkswagen_sagitar 包含 2691 条记录
+2025-05-03 10:12:40,037 - INFO - [car_sentiment_aggregation.py:255] - 成功处理表 volkswagen_sagitar，耗时 0.35 秒
+2025-05-03 10:12:40,037 - INFO - [car_sentiment_aggregation.py:256] - 统计结果 - 正面: 579, 负面: 808, 中性: 1022, 无关: 282
+2025-05-03 10:12:40,145 - INFO - [car_sentiment_aggregation.py:233] - 表 volkswagen_passat 包含 1461 条记录
+2025-05-03 10:12:40,331 - INFO - [car_sentiment_aggregation.py:255] - 成功处理表 volkswagen_passat，耗时 0.29 秒
+2025-05-03 10:12:40,331 - INFO - [car_sentiment_aggregation.py:256] - 统计结果 - 正面: 402, 负面: 353, 中性: 643, 无关: 63
+2025-05-03 10:12:40,476 - INFO - [car_sentiment_aggregation.py:233] - 表 cadillac_ct4 包含 1166 条记录
+2025-05-03 10:12:40,660 - INFO - [car_sentiment_aggregation.py:255] - 成功处理表 cadillac_ct4，耗时 0.33 秒
+2025-05-03 10:12:40,660 - INFO - [car_sentiment_aggregation.py:256] - 统计结果 - 正面: 378, 负面: 258, 中性: 515, 无关: 15
+2025-05-03 10:12:40,795 - INFO - [car_sentiment_aggregation.py:233] - 表 chery_arrizo_8 包含 1664 条记录
+2025-05-03 10:12:40,963 - INFO - [car_sentiment_aggregation.py:255] - 成功处理表 chery_arrizo_8，耗时 0.30 秒
+2025-05-03 10:12:40,964 - INFO - [car_sentiment_aggregation.py:256] - 统计结果 - 正面: 375, 负面: 404, 中性: 829, 无关: 56
+2025-05-03 10:12:41,091 - INFO - [car_sentiment_aggregation.py:233] - 表 honda_civic 包含 1650 条记录
+2025-05-03 10:12:41,257 - INFO - [car_sentiment_aggregation.py:255] - 成功处理表 honda_civic，耗时 0.29 秒
+2025-05-03 10:12:41,257 - INFO - [car_sentiment_aggregation.py:256] - 统计结果 - 正面: 330, 负面: 628, 中性: 634, 无关: 58
+2025-05-03 10:12:41,463 - INFO - [car_sentiment_aggregation.py:233] - 表 honda_accord 包含 1566 条记录
+2025-05-03 10:12:41,646 - INFO - [car_sentiment_aggregation.py:255] - 成功处理表 honda_accord，耗时 0.39 秒
+2025-05-03 10:12:41,647 - INFO - [car_sentiment_aggregation.py:256] - 统计结果 - 正面: 375, 负面: 369, 中性: 723, 无关: 99
+2025-05-03 10:12:41,859 - INFO - [car_sentiment_aggregation.py:233] - 表 geely_preface 包含 1838 条记录
+2025-05-03 10:12:42,127 - INFO - [car_sentiment_aggregation.py:255] - 成功处理表 geely_preface，耗时 0.48 秒
+2025-05-03 10:12:42,127 - INFO - [car_sentiment_aggregation.py:256] - 统计结果 - 正面: 300, 负面: 430, 中性: 693, 无关: 415
+2025-05-03 10:12:42,240 - INFO - [car_sentiment_aggregation.py:233] - 表 geely_emgrand 包含 1162 条记录
+2025-05-03 10:12:42,425 - INFO - [car_sentiment_aggregation.py:255] - 成功处理表 geely_emgrand，耗时 0.30 秒
+2025-05-03 10:12:42,426 - INFO - [car_sentiment_aggregation.py:256] - 统计结果 - 正面: 0, 负面: 0, 中性: 0, 无关: 0
+2025-05-03 10:12:42,568 - INFO - [car_sentiment_aggregation.py:233] - 表 hongqi_h5 包含 2442 条记录
+2025-05-03 10:12:42,783 - INFO - [car_sentiment_aggregation.py:255] - 成功处理表 hongqi_h5，耗时 0.36 秒
+2025-05-03 10:12:42,783 - INFO - [car_sentiment_aggregation.py:256] - 统计结果 - 正面: 655, 负面: 349, 中性: 1023, 无关: 415
+2025-05-03 10:12:42,902 - INFO - [car_sentiment_aggregation.py:233] - 表 changan_eado 包含 1510 条记录
+2025-05-03 10:12:43,097 - INFO - [car_sentiment_aggregation.py:255] - 成功处理表 changan_eado，耗时 0.31 秒
+2025-05-03 10:12:43,097 - INFO - [car_sentiment_aggregation.py:256] - 统计结果 - 正面: 300, 负面: 405, 中性: 606, 无关: 199
+2025-05-03 10:12:43,230 - INFO - [car_sentiment_aggregation.py:233] - 表 geely_xingyue_l 包含 1646 条记录
+2025-05-03 10:12:43,430 - INFO - [car_sentiment_aggregation.py:255] - 成功处理表 geely_xingyue_l，耗时 0.33 秒
+2025-05-03 10:12:43,430 - INFO - [car_sentiment_aggregation.py:256] - 统计结果 - 正面: 412, 负面: 354, 中性: 673, 无关: 207
+2025-05-03 10:12:43,606 - INFO - [car_sentiment_aggregation.py:233] - 表 haval_h5 包含 1439 条记录
+2025-05-03 10:12:43,777 - INFO - [car_sentiment_aggregation.py:255] - 成功处理表 haval_h5，耗时 0.35 秒
+2025-05-03 10:12:43,777 - INFO - [car_sentiment_aggregation.py:256] - 统计结果 - 正面: 202, 负面: 165, 中性: 425, 无关: 204
+2025-05-03 10:12:43,886 - INFO - [car_sentiment_aggregation.py:233] - 表 tank_300 包含 1048 条记录
+2025-05-03 10:12:44,027 - INFO - [car_sentiment_aggregation.py:255] - 成功处理表 tank_300，耗时 0.25 秒
+2025-05-03 10:12:44,027 - INFO - [car_sentiment_aggregation.py:256] - 统计结果 - 正面: 332, 负面: 87, 中性: 440, 无关: 189
+2025-05-03 10:12:44,119 - INFO - [car_sentiment_aggregation.py:233] - 表 byd_song_pro 包含 1450 条记录
+2025-05-03 10:12:44,271 - INFO - [car_sentiment_aggregation.py:255] - 成功处理表 byd_song_pro，耗时 0.24 秒
+2025-05-03 10:12:44,272 - INFO - [car_sentiment_aggregation.py:256] - 统计结果 - 正面: 217, 负面: 326, 中性: 716, 无关: 191
+2025-05-03 10:12:44,373 - INFO - [car_sentiment_aggregation.py:233] - 表 saic_volkswagen_tiguan_l_pro 包含 1395 条记录
+2025-05-03 10:12:44,547 - INFO - [car_sentiment_aggregation.py:255] - 成功处理表 saic_volkswagen_tiguan_l_pro，耗时 0.28 秒
+2025-05-03 10:12:44,547 - INFO - [car_sentiment_aggregation.py:256] - 统计结果 - 正面: 129, 负面: 204, 中性: 189, 无关: 268
+2025-05-03 10:12:44,646 - INFO - [car_sentiment_aggregation.py:233] - 表 bmw_x3 包含 1299 条记录
+2025-05-03 10:12:44,795 - INFO - [car_sentiment_aggregation.py:255] - 成功处理表 bmw_x3，耗时 0.25 秒
+2025-05-03 10:12:44,796 - INFO - [car_sentiment_aggregation.py:256] - 统计结果 - 正面: 365, 负面: 374, 中性: 405, 无关: 155
+2025-05-03 10:12:44,903 - INFO - [car_sentiment_aggregation.py:233] - 表 audi_q5l 包含 1706 条记录
+2025-05-03 10:12:45,046 - INFO - [car_sentiment_aggregation.py:255] - 成功处理表 audi_q5l，耗时 0.25 秒
+2025-05-03 10:12:45,047 - INFO - [car_sentiment_aggregation.py:256] - 统计结果 - 正面: 454, 负面: 361, 中性: 641, 无关: 250
+2025-05-03 10:12:45,157 - INFO - [car_sentiment_aggregation.py:233] - 表 buick_envision 包含 5836 条记录
+2025-05-03 10:12:45,311 - INFO - [car_sentiment_aggregation.py:255] - 成功处理表 buick_envision，耗时 0.26 秒
+2025-05-03 10:12:45,311 - INFO - [car_sentiment_aggregation.py:256] - 统计结果 - 正面: 1186, 负面: 1212, 中性: 2200, 无关: 1238
+2025-05-03 10:12:45,416 - INFO - [car_sentiment_aggregation.py:233] - 表 chevrolet_equinox 包含 1193 条记录
+2025-05-03 10:12:45,556 - INFO - [car_sentiment_aggregation.py:255] - 成功处理表 chevrolet_equinox，耗时 0.24 秒
+2025-05-03 10:12:45,556 - INFO - [car_sentiment_aggregation.py:256] - 统计结果 - 正面: 353, 负面: 221, 中性: 493, 无关: 126
+2025-05-03 10:12:45,659 - INFO - [car_sentiment_aggregation.py:233] - 表 jeep_compass 包含 1344 条记录
+2025-05-03 10:12:45,824 - INFO - [car_sentiment_aggregation.py:255] - 成功处理表 jeep_compass，耗时 0.27 秒
+2025-05-03 10:12:45,824 - INFO - [car_sentiment_aggregation.py:256] - 统计结果 - 正面: 164, 负面: 114, 中性: 250, 无关: 154
+2025-05-03 10:12:45,926 - INFO - [car_sentiment_aggregation.py:233] - 表 gac_trumpchi_m8 包含 1138 条记录
+2025-05-03 10:12:46,075 - INFO - [car_sentiment_aggregation.py:255] - 成功处理表 gac_trumpchi_m8，耗时 0.25 秒
+2025-05-03 10:12:46,076 - INFO - [car_sentiment_aggregation.py:256] - 统计结果 - 正面: 251, 负面: 321, 中性: 337, 无关: 229
+2025-05-03 10:12:46,166 - INFO - [car_sentiment_aggregation.py:233] - 表 buick_gl8 包含 1066 条记录
+2025-05-03 10:12:46,309 - INFO - [car_sentiment_aggregation.py:255] - 成功处理表 buick_gl8，耗时 0.23 秒
+2025-05-03 10:12:46,310 - INFO - [car_sentiment_aggregation.py:256] - 统计结果 - 正面: 323, 负面: 235, 中性: 350, 无关: 158
+2025-05-03 10:12:46,447 - INFO - [car_sentiment_aggregation.py:233] - 表 honda_odyssey 包含 1577 条记录
+2025-05-03 10:12:46,602 - INFO - [car_sentiment_aggregation.py:255] - 成功处理表 honda_odyssey，耗时 0.29 秒
+2025-05-03 10:12:46,602 - INFO - [car_sentiment_aggregation.py:256] - 统计结果 - 正面: 398, 负面: 402, 中性: 554, 无关: 223
+2025-05-03 10:12:46,721 - INFO - [car_sentiment_aggregation.py:233] - 表 toyota_sienna 包含 1300 条记录
+2025-05-03 10:12:46,899 - INFO - [car_sentiment_aggregation.py:255] - 成功处理表 toyota_sienna，耗时 0.30 秒
+2025-05-03 10:12:46,899 - INFO - [car_sentiment_aggregation.py:256] - 统计结果 - 正面: 303, 负面: 345, 中性: 467, 无关: 185
+2025-05-03 10:12:47,089 - INFO - [car_sentiment_aggregation.py:233] - 表 saic_volkswagen_viloran 包含 1960 条记录
+2025-05-03 10:12:47,230 - INFO - [car_sentiment_aggregation.py:255] - 成功处理表 saic_volkswagen_viloran，耗时 0.33 秒
+2025-05-03 10:12:47,231 - INFO - [car_sentiment_aggregation.py:256] - 统计结果 - 正面: 233, 负面: 171, 中性: 297, 无关: 188
+2025-05-03 10:12:47,381 - INFO - [car_sentiment_aggregation.py:233] - 表 byd_han 包含 1433 条记录
+2025-05-03 10:12:47,517 - INFO - [car_sentiment_aggregation.py:255] - 成功处理表 byd_han，耗时 0.29 秒
+2025-05-03 10:12:47,517 - INFO - [car_sentiment_aggregation.py:256] - 统计结果 - 正面: 305, 负面: 305, 中性: 458, 无关: 365
+2025-05-03 10:12:47,630 - INFO - [car_sentiment_aggregation.py:233] - 表 gac_aion_aion_s 包含 1702 条记录
+2025-05-03 10:12:47,811 - INFO - [car_sentiment_aggregation.py:255] - 成功处理表 gac_aion_aion_s，耗时 0.29 秒
+2025-05-03 10:12:47,811 - INFO - [car_sentiment_aggregation.py:256] - 统计结果 - 正面: 362, 负面: 158, 中性: 232, 无关: 142
+2025-05-03 10:12:47,934 - INFO - [car_sentiment_aggregation.py:233] - 表 tesla_model_3 包含 1178 条记录
+2025-05-03 10:12:48,132 - INFO - [car_sentiment_aggregation.py:255] - 成功处理表 tesla_model_3，耗时 0.32 秒
+2025-05-03 10:12:48,133 - INFO - [car_sentiment_aggregation.py:256] - 统计结果 - 正面: 278, 负面: 350, 中性: 414, 无关: 136
+2025-05-03 10:12:48,225 - INFO - [car_sentiment_aggregation.py:233] - 表 bmw_i3 包含 1123 条记录
+2025-05-03 10:12:48,364 - INFO - [car_sentiment_aggregation.py:255] - 成功处理表 bmw_i3，耗时 0.23 秒
+2025-05-03 10:12:48,364 - INFO - [car_sentiment_aggregation.py:256] - 统计结果 - 正面: 272, 负面: 294, 中性: 396, 无关: 161
+2025-05-03 10:12:48,464 - INFO - [car_sentiment_aggregation.py:233] - 表 mercedes_benz_eqc 包含 1066 条记录
+2025-05-03 10:12:48,626 - INFO - [car_sentiment_aggregation.py:255] - 成功处理表 mercedes_benz_eqc，耗时 0.26 秒
+2025-05-03 10:12:48,626 - INFO - [car_sentiment_aggregation.py:256] - 统计结果 - 正面: 138, 负面: 91, 中性: 169, 无关: 131
+2025-05-03 10:12:48,745 - INFO - [car_sentiment_aggregation.py:233] - 表 byd_qin_plus_ev 包含 1474 条记录
+2025-05-03 10:12:48,908 - INFO - [car_sentiment_aggregation.py:255] - 成功处理表 byd_qin_plus_ev，耗时 0.28 秒
+2025-05-03 10:12:48,908 - INFO - [car_sentiment_aggregation.py:256] - 统计结果 - 正面: 168, 负面: 162, 中性: 199, 无关: 139
+2025-05-03 10:12:49,010 - INFO - [car_sentiment_aggregation.py:233] - 表 nio_et5 包含 2491 条记录
+2025-05-03 10:12:49,194 - INFO - [car_sentiment_aggregation.py:255] - 成功处理表 nio_et5，耗时 0.28 秒
+2025-05-03 10:12:49,194 - INFO - [car_sentiment_aggregation.py:256] - 统计结果 - 正面: 675, 负面: 572, 中性: 896, 无关: 348
+2025-05-03 10:12:49,292 - INFO - [car_sentiment_aggregation.py:233] - 表 xpeng_p7 包含 1008 条记录
+2025-05-03 10:12:49,409 - INFO - [car_sentiment_aggregation.py:255] - 成功处理表 xpeng_p7，耗时 0.22 秒
+2025-05-03 10:12:49,409 - INFO - [car_sentiment_aggregation.py:256] - 统计结果 - 正面: 394, 负面: 124, 中性: 323, 无关: 167
+2025-05-03 10:12:49,519 - INFO - [car_sentiment_aggregation.py:233] - 表 xiaomi_su7 包含 1028 条记录
+2025-05-03 10:12:49,662 - INFO - [car_sentiment_aggregation.py:255] - 成功处理表 xiaomi_su7，耗时 0.25 秒
+2025-05-03 10:12:49,662 - INFO - [car_sentiment_aggregation.py:256] - 统计结果 - 正面: 212, 负面: 138, 中性: 387, 无关: 291
+2025-05-03 10:12:49,758 - INFO - [car_sentiment_aggregation.py:233] - 表 chery_fengyun_a8 包含 678 条记录
+2025-05-03 10:12:49,921 - INFO - [car_sentiment_aggregation.py:255] - 成功处理表 chery_fengyun_a8，耗时 0.26 秒
+2025-05-03 10:12:49,921 - INFO - [car_sentiment_aggregation.py:256] - 统计结果 - 正面: 0, 负面: 0, 中性: 0, 无关: 0
+2025-05-03 10:12:50,047 - INFO - [car_sentiment_aggregation.py:233] - 表 byd_song_plus_ev 包含 768 条记录
+2025-05-03 10:12:50,172 - INFO - [car_sentiment_aggregation.py:255] - 成功处理表 byd_song_plus_ev，耗时 0.25 秒
+2025-05-03 10:12:50,172 - INFO - [car_sentiment_aggregation.py:256] - 统计结果 - 正面: 0, 负面: 0, 中性: 0, 无关: 0
+2025-05-03 10:12:50,264 - INFO - [car_sentiment_aggregation.py:233] - 表 gac_aion_aion_y 包含 1326 条记录
+2025-05-03 10:12:50,419 - INFO - [car_sentiment_aggregation.py:255] - 成功处理表 gac_aion_aion_y，耗时 0.25 秒
+2025-05-03 10:12:50,419 - INFO - [car_sentiment_aggregation.py:256] - 统计结果 - 正面: 0, 负面: 0, 中性: 0, 无关: 0
+2025-05-03 10:12:50,547 - INFO - [car_sentiment_aggregation.py:233] - 表 tesla_model_y 包含 1509 条记录
+2025-05-03 10:12:50,698 - INFO - [car_sentiment_aggregation.py:255] - 成功处理表 tesla_model_y，耗时 0.28 秒
+2025-05-03 10:12:50,698 - INFO - [car_sentiment_aggregation.py:256] - 统计结果 - 正面: 0, 负面: 0, 中性: 0, 无关: 0
+2025-05-03 10:12:50,787 - INFO - [car_sentiment_aggregation.py:233] - 表 nio_es6 包含 1187 条记录
+2025-05-03 10:12:50,921 - INFO - [car_sentiment_aggregation.py:255] - 成功处理表 nio_es6，耗时 0.22 秒
+2025-05-03 10:12:50,921 - INFO - [car_sentiment_aggregation.py:256] - 统计结果 - 正面: 0, 负面: 0, 中性: 0, 无关: 0
+2025-05-03 10:12:51,011 - INFO - [car_sentiment_aggregation.py:233] - 表 xpeng_g6 包含 889 条记录
+2025-05-03 10:12:51,177 - INFO - [car_sentiment_aggregation.py:255] - 成功处理表 xpeng_g6，耗时 0.26 秒
+2025-05-03 10:12:51,177 - INFO - [car_sentiment_aggregation.py:256] - 统计结果 - 正面: 0, 负面: 0, 中性: 0, 无关: 0
+2025-05-03 10:12:51,282 - INFO - [car_sentiment_aggregation.py:233] - 表 voyah_dreamer 包含 746 条记录
+2025-05-03 10:12:51,413 - INFO - [car_sentiment_aggregation.py:255] - 成功处理表 voyah_dreamer，耗时 0.24 秒
+2025-05-03 10:12:51,413 - INFO - [car_sentiment_aggregation.py:256] - 统计结果 - 正面: 0, 负面: 0, 中性: 0, 无关: 0
+2025-05-03 10:12:51,495 - INFO - [car_sentiment_aggregation.py:233] - 表 denza_d9 包含 889 条记录
+2025-05-03 10:12:51,630 - INFO - [car_sentiment_aggregation.py:255] - 成功处理表 denza_d9，耗时 0.22 秒
+2025-05-03 10:12:51,630 - INFO - [car_sentiment_aggregation.py:256] - 统计结果 - 正面: 0, 负面: 0, 中性: 0, 无关: 0
+2025-05-03 10:12:51,724 - INFO - [car_sentiment_aggregation.py:233] - 表 gac_trumpchi_e9 包含 1429 条记录
+2025-05-03 10:12:51,845 - INFO - [car_sentiment_aggregation.py:255] - 成功处理表 gac_trumpchi_e9，耗时 0.21 秒
+2025-05-03 10:12:51,846 - INFO - [car_sentiment_aggregation.py:256] - 统计结果 - 正面: 0, 负面: 0, 中性: 0, 无关: 0
+2025-05-03 10:12:51,920 - INFO - [car_sentiment_aggregation.py:233] - 表 saic_roewe_imax8_ev 包含 986 条记录
+2025-05-03 10:12:52,097 - INFO - [car_sentiment_aggregation.py:255] - 成功处理表 saic_roewe_imax8_ev，耗时 0.25 秒
+2025-05-03 10:12:52,097 - INFO - [car_sentiment_aggregation.py:256] - 统计结果 - 正面: 0, 负面: 0, 中性: 0, 无关: 0
+2025-05-03 10:12:52,242 - INFO - [car_sentiment_aggregation.py:233] - 表 xpeng_x9 包含 1238 条记录
+2025-05-03 10:12:52,441 - INFO - [car_sentiment_aggregation.py:255] - 成功处理表 xpeng_x9，耗时 0.34 秒
+2025-05-03 10:12:52,442 - INFO - [car_sentiment_aggregation.py:256] - 统计结果 - 正面: 0, 负面: 0, 中性: 0, 无关: 0
+2025-05-03 10:13:04,571 - INFO - [car_sentiment_aggregation.py:278] - 成功将统计结果写入目标表
+2025-05-03 10:13:04,571 - INFO - [car_sentiment_aggregation.py:287] - 数据聚合处理完成
+2025-05-03 10:13:04,571 - INFO - [car_sentiment_aggregation.py:288] - 总耗时: 38.80 秒
+2025-05-03 10:13:04,571 - INFO - [car_sentiment_aggregation.py:289] - 成功处理表数量: 50
+2025-05-03 10:13:04,572 - INFO - [car_sentiment_aggregation.py:290] - 失败表数量: 0

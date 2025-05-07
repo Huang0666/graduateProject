@@ -1,0 +1,6 @@
+{
+    "best_threshold": 0.4,
+    "description": "基于V4模型优化后的最佳阈值",
+    "model_version": "v4",
+    "optimization_date": "2024-03"
+} 

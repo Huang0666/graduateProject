@@ -1,0 +1,59 @@
+2025-05-03 17:55:54,698 - INFO - [car_comment_aggregation.py:191] - 开始评论数据聚合处理
+2025-05-03 17:55:54,699 - INFO - [car_comment_aggregation.py:194] - 正在创建Spark会话...
+2025-05-03 17:56:01,299 - INFO - [car_comment_aggregation.py:196] - Spark会话创建成功
+2025-05-03 17:56:01,299 - INFO - [car_comment_aggregation.py:199] - MySQL连接配置: {'driver': 'com.mysql.cj.jdbc.Driver', 'url': 'jdbc:mysql://localhost:3306/media_crawler_raw_data_dy', 'user': 'root', 'password': 'root'}
+2025-05-03 17:56:04,979 - INFO - [car_comment_aggregation.py:271] - 成功处理表 toyota_corolla，耗时 3.68 秒
+2025-05-03 17:56:05,288 - INFO - [car_comment_aggregation.py:271] - 成功处理表 nissan_sylphy，耗时 0.31 秒
+2025-05-03 17:56:05,572 - INFO - [car_comment_aggregation.py:271] - 成功处理表 volvo_s60，耗时 0.28 秒
+2025-05-03 17:56:05,827 - INFO - [car_comment_aggregation.py:271] - 成功处理表 volkswagen_lavida，耗时 0.25 秒
+2025-05-03 17:56:06,108 - INFO - [car_comment_aggregation.py:271] - 成功处理表 buick_excelle_gt，耗时 0.28 秒
+2025-05-03 17:56:06,377 - INFO - [car_comment_aggregation.py:271] - 成功处理表 volkswagen_sagitar，耗时 0.27 秒
+2025-05-03 17:56:06,631 - INFO - [car_comment_aggregation.py:271] - 成功处理表 volkswagen_passat，耗时 0.25 秒
+2025-05-03 17:56:06,853 - INFO - [car_comment_aggregation.py:271] - 成功处理表 cadillac_ct4，耗时 0.22 秒
+2025-05-03 17:56:07,078 - INFO - [car_comment_aggregation.py:271] - 成功处理表 chery_arrizo_8，耗时 0.22 秒
+2025-05-03 17:56:07,276 - INFO - [car_comment_aggregation.py:271] - 成功处理表 honda_civic，耗时 0.20 秒
+2025-05-03 17:56:07,476 - INFO - [car_comment_aggregation.py:271] - 成功处理表 honda_accord，耗时 0.20 秒
+2025-05-03 17:56:07,664 - INFO - [car_comment_aggregation.py:271] - 成功处理表 geely_preface，耗时 0.19 秒
+2025-05-03 17:56:07,858 - INFO - [car_comment_aggregation.py:271] - 成功处理表 geely_emgrand，耗时 0.19 秒
+2025-05-03 17:56:08,048 - INFO - [car_comment_aggregation.py:271] - 成功处理表 hongqi_h5，耗时 0.19 秒
+2025-05-03 17:56:08,245 - INFO - [car_comment_aggregation.py:271] - 成功处理表 changan_eado，耗时 0.20 秒
+2025-05-03 17:56:08,460 - INFO - [car_comment_aggregation.py:271] - 成功处理表 geely_xingyue_l，耗时 0.22 秒
+2025-05-03 17:56:08,681 - INFO - [car_comment_aggregation.py:271] - 成功处理表 haval_h5，耗时 0.22 秒
+2025-05-03 17:56:08,867 - INFO - [car_comment_aggregation.py:271] - 成功处理表 tank_300，耗时 0.18 秒
+2025-05-03 17:56:09,062 - INFO - [car_comment_aggregation.py:271] - 成功处理表 byd_song_pro，耗时 0.19 秒
+2025-05-03 17:56:09,259 - INFO - [car_comment_aggregation.py:271] - 成功处理表 saic_volkswagen_tiguan_l_pro，耗时 0.20 秒
+2025-05-03 17:56:09,479 - INFO - [car_comment_aggregation.py:271] - 成功处理表 bmw_x3，耗时 0.22 秒
+2025-05-03 17:56:09,688 - INFO - [car_comment_aggregation.py:271] - 成功处理表 audi_q5l，耗时 0.21 秒
+2025-05-03 17:56:09,921 - INFO - [car_comment_aggregation.py:271] - 成功处理表 buick_envision，耗时 0.23 秒
+2025-05-03 17:56:10,201 - INFO - [car_comment_aggregation.py:271] - 成功处理表 chevrolet_equinox，耗时 0.28 秒
+2025-05-03 17:56:10,466 - INFO - [car_comment_aggregation.py:271] - 成功处理表 jeep_compass，耗时 0.26 秒
+2025-05-03 17:56:10,729 - INFO - [car_comment_aggregation.py:271] - 成功处理表 gac_trumpchi_m8，耗时 0.26 秒
+2025-05-03 17:56:10,991 - INFO - [car_comment_aggregation.py:271] - 成功处理表 buick_gl8，耗时 0.26 秒
+2025-05-03 17:56:11,225 - INFO - [car_comment_aggregation.py:271] - 成功处理表 honda_odyssey，耗时 0.23 秒
+2025-05-03 17:56:11,452 - INFO - [car_comment_aggregation.py:271] - 成功处理表 toyota_sienna，耗时 0.23 秒
+2025-05-03 17:56:11,695 - INFO - [car_comment_aggregation.py:271] - 成功处理表 saic_volkswagen_viloran，耗时 0.24 秒
+2025-05-03 17:56:11,975 - INFO - [car_comment_aggregation.py:271] - 成功处理表 byd_han，耗时 0.28 秒
+2025-05-03 17:56:12,175 - INFO - [car_comment_aggregation.py:271] - 成功处理表 gac_aion_aion_s，耗时 0.20 秒
+2025-05-03 17:56:12,348 - INFO - [car_comment_aggregation.py:271] - 成功处理表 tesla_model_3，耗时 0.17 秒
+2025-05-03 17:56:12,523 - INFO - [car_comment_aggregation.py:271] - 成功处理表 bmw_i3，耗时 0.18 秒
+2025-05-03 17:56:12,688 - INFO - [car_comment_aggregation.py:271] - 成功处理表 mercedes_benz_eqc，耗时 0.16 秒
+2025-05-03 17:56:12,866 - INFO - [car_comment_aggregation.py:271] - 成功处理表 byd_qin_plus_ev，耗时 0.18 秒
+2025-05-03 17:56:13,042 - INFO - [car_comment_aggregation.py:271] - 成功处理表 nio_et5，耗时 0.18 秒
+2025-05-03 17:56:13,230 - INFO - [car_comment_aggregation.py:271] - 成功处理表 xpeng_p7，耗时 0.19 秒
+2025-05-03 17:56:13,408 - INFO - [car_comment_aggregation.py:271] - 成功处理表 xiaomi_su7，耗时 0.18 秒
+2025-05-03 17:56:13,578 - INFO - [car_comment_aggregation.py:271] - 成功处理表 chery_fengyun_a8，耗时 0.17 秒
+2025-05-03 17:56:13,781 - INFO - [car_comment_aggregation.py:271] - 成功处理表 byd_song_plus_ev，耗时 0.20 秒
+2025-05-03 17:56:13,961 - INFO - [car_comment_aggregation.py:271] - 成功处理表 gac_aion_aion_y，耗时 0.18 秒
+2025-05-03 17:56:14,145 - INFO - [car_comment_aggregation.py:271] - 成功处理表 tesla_model_y，耗时 0.18 秒
+2025-05-03 17:56:14,326 - INFO - [car_comment_aggregation.py:271] - 成功处理表 nio_es6，耗时 0.18 秒
+2025-05-03 17:56:14,511 - INFO - [car_comment_aggregation.py:271] - 成功处理表 xpeng_g6，耗时 0.18 秒
+2025-05-03 17:56:14,692 - INFO - [car_comment_aggregation.py:271] - 成功处理表 voyah_dreamer，耗时 0.18 秒
+2025-05-03 17:56:14,896 - INFO - [car_comment_aggregation.py:271] - 成功处理表 denza_d9，耗时 0.20 秒
+2025-05-03 17:56:15,075 - INFO - [car_comment_aggregation.py:271] - 成功处理表 gac_trumpchi_e9，耗时 0.18 秒
+2025-05-03 17:56:15,260 - INFO - [car_comment_aggregation.py:271] - 成功处理表 saic_roewe_imax8_ev，耗时 0.18 秒
+2025-05-03 17:56:15,438 - INFO - [car_comment_aggregation.py:271] - 成功处理表 xpeng_x9，耗时 0.18 秒
+2025-05-03 17:56:39,178 - INFO - [car_comment_aggregation.py:289] - 成功将评论数据写入目标表
+2025-05-03 17:56:39,178 - INFO - [car_comment_aggregation.py:298] - 评论数据聚合处理完成
+2025-05-03 17:56:39,178 - INFO - [car_comment_aggregation.py:299] - 总耗时: 44.48 秒
+2025-05-03 17:56:39,179 - INFO - [car_comment_aggregation.py:300] - 成功处理表数量: 50
+2025-05-03 17:56:39,179 - INFO - [car_comment_aggregation.py:301] - 失败表数量: 0

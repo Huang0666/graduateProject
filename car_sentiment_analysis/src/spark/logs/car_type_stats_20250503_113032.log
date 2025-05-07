@@ -1,0 +1,110 @@
+2025-05-03 11:30:32,949 - INFO - [car_type_interaction_stats.py:155] - 开始车型类别统计处理
+2025-05-03 11:30:32,950 - INFO - [car_type_interaction_stats.py:158] - 正在创建Spark会话...
+2025-05-03 11:30:38,457 - INFO - [car_type_interaction_stats.py:160] - Spark会话创建成功
+2025-05-03 11:30:38,457 - INFO - [car_type_interaction_stats.py:163] - MySQL连接配置: {'driver': 'com.mysql.cj.jdbc.Driver', 'url': 'jdbc:mysql://localhost:3306/media_crawler_raw_data_dy', 'user': 'root', 'password': 'root'}
+2025-05-03 11:30:40,985 - INFO - [car_type_interaction_stats.py:171] - 已读取汽车基础信息表
+2025-05-03 11:30:40,987 - INFO - [car_type_interaction_stats.py:200] - 开始处理表: toyota_corolla
+2025-05-03 11:30:41,105 - INFO - [car_type_interaction_stats.py:225] - 成功处理表 toyota_corolla，耗时 0.12 秒
+2025-05-03 11:30:41,105 - INFO - [car_type_interaction_stats.py:200] - 开始处理表: nissan_sylphy
+2025-05-03 11:30:41,173 - INFO - [car_type_interaction_stats.py:225] - 成功处理表 nissan_sylphy，耗时 0.07 秒
+2025-05-03 11:30:41,174 - INFO - [car_type_interaction_stats.py:200] - 开始处理表: volvo_s60
+2025-05-03 11:30:41,254 - INFO - [car_type_interaction_stats.py:225] - 成功处理表 volvo_s60，耗时 0.08 秒
+2025-05-03 11:30:41,254 - INFO - [car_type_interaction_stats.py:200] - 开始处理表: volkswagen_lavida
+2025-05-03 11:30:41,311 - INFO - [car_type_interaction_stats.py:225] - 成功处理表 volkswagen_lavida，耗时 0.06 秒
+2025-05-03 11:30:41,311 - INFO - [car_type_interaction_stats.py:200] - 开始处理表: buick_excelle_gt
+2025-05-03 11:30:41,369 - INFO - [car_type_interaction_stats.py:225] - 成功处理表 buick_excelle_gt，耗时 0.06 秒
+2025-05-03 11:30:41,371 - INFO - [car_type_interaction_stats.py:200] - 开始处理表: volkswagen_sagitar
+2025-05-03 11:30:41,421 - INFO - [car_type_interaction_stats.py:225] - 成功处理表 volkswagen_sagitar，耗时 0.05 秒
+2025-05-03 11:30:41,421 - INFO - [car_type_interaction_stats.py:200] - 开始处理表: volkswagen_passat
+2025-05-03 11:30:41,479 - INFO - [car_type_interaction_stats.py:225] - 成功处理表 volkswagen_passat，耗时 0.06 秒
+2025-05-03 11:30:41,480 - INFO - [car_type_interaction_stats.py:200] - 开始处理表: cadillac_ct4
+2025-05-03 11:30:41,537 - INFO - [car_type_interaction_stats.py:225] - 成功处理表 cadillac_ct4，耗时 0.06 秒
+2025-05-03 11:30:41,537 - INFO - [car_type_interaction_stats.py:200] - 开始处理表: chery_arrizo_8
+2025-05-03 11:30:41,585 - INFO - [car_type_interaction_stats.py:225] - 成功处理表 chery_arrizo_8，耗时 0.05 秒
+2025-05-03 11:30:41,585 - INFO - [car_type_interaction_stats.py:200] - 开始处理表: honda_civic
+2025-05-03 11:30:41,633 - INFO - [car_type_interaction_stats.py:225] - 成功处理表 honda_civic，耗时 0.05 秒
+2025-05-03 11:30:41,633 - INFO - [car_type_interaction_stats.py:200] - 开始处理表: honda_accord
+2025-05-03 11:30:41,686 - INFO - [car_type_interaction_stats.py:225] - 成功处理表 honda_accord，耗时 0.05 秒
+2025-05-03 11:30:41,687 - INFO - [car_type_interaction_stats.py:200] - 开始处理表: geely_preface
+2025-05-03 11:30:41,744 - INFO - [car_type_interaction_stats.py:225] - 成功处理表 geely_preface，耗时 0.06 秒
+2025-05-03 11:30:41,744 - INFO - [car_type_interaction_stats.py:200] - 开始处理表: geely_emgrand
+2025-05-03 11:30:41,795 - INFO - [car_type_interaction_stats.py:225] - 成功处理表 geely_emgrand，耗时 0.05 秒
+2025-05-03 11:30:41,795 - INFO - [car_type_interaction_stats.py:200] - 开始处理表: hongqi_h5
+2025-05-03 11:30:41,846 - INFO - [car_type_interaction_stats.py:225] - 成功处理表 hongqi_h5，耗时 0.05 秒
+2025-05-03 11:30:41,846 - INFO - [car_type_interaction_stats.py:200] - 开始处理表: changan_eado
+2025-05-03 11:30:41,896 - INFO - [car_type_interaction_stats.py:225] - 成功处理表 changan_eado，耗时 0.05 秒
+2025-05-03 11:30:41,896 - INFO - [car_type_interaction_stats.py:200] - 开始处理表: geely_xingyue_l
+2025-05-03 11:30:41,950 - INFO - [car_type_interaction_stats.py:225] - 成功处理表 geely_xingyue_l，耗时 0.05 秒
+2025-05-03 11:30:41,950 - INFO - [car_type_interaction_stats.py:200] - 开始处理表: haval_h5
+2025-05-03 11:30:42,002 - INFO - [car_type_interaction_stats.py:225] - 成功处理表 haval_h5，耗时 0.05 秒
+2025-05-03 11:30:42,002 - INFO - [car_type_interaction_stats.py:200] - 开始处理表: tank_300
+2025-05-03 11:30:42,049 - INFO - [car_type_interaction_stats.py:225] - 成功处理表 tank_300，耗时 0.05 秒
+2025-05-03 11:30:42,049 - INFO - [car_type_interaction_stats.py:200] - 开始处理表: byd_song_pro
+2025-05-03 11:30:42,092 - INFO - [car_type_interaction_stats.py:225] - 成功处理表 byd_song_pro，耗时 0.04 秒
+2025-05-03 11:30:42,093 - INFO - [car_type_interaction_stats.py:200] - 开始处理表: saic_volkswagen_tiguan_l_pro
+2025-05-03 11:30:42,147 - INFO - [car_type_interaction_stats.py:225] - 成功处理表 saic_volkswagen_tiguan_l_pro，耗时 0.05 秒
+2025-05-03 11:30:42,147 - INFO - [car_type_interaction_stats.py:200] - 开始处理表: bmw_x3
+2025-05-03 11:30:42,210 - INFO - [car_type_interaction_stats.py:225] - 成功处理表 bmw_x3，耗时 0.06 秒
+2025-05-03 11:30:42,210 - INFO - [car_type_interaction_stats.py:200] - 开始处理表: audi_q5l
+2025-05-03 11:30:42,256 - INFO - [car_type_interaction_stats.py:225] - 成功处理表 audi_q5l，耗时 0.05 秒
+2025-05-03 11:30:42,256 - INFO - [car_type_interaction_stats.py:200] - 开始处理表: buick_envision
+2025-05-03 11:30:42,306 - INFO - [car_type_interaction_stats.py:225] - 成功处理表 buick_envision，耗时 0.05 秒
+2025-05-03 11:30:42,306 - INFO - [car_type_interaction_stats.py:200] - 开始处理表: chevrolet_equinox
+2025-05-03 11:30:42,349 - INFO - [car_type_interaction_stats.py:225] - 成功处理表 chevrolet_equinox，耗时 0.04 秒
+2025-05-03 11:30:42,350 - INFO - [car_type_interaction_stats.py:200] - 开始处理表: jeep_compass
+2025-05-03 11:30:42,406 - INFO - [car_type_interaction_stats.py:225] - 成功处理表 jeep_compass，耗时 0.06 秒
+2025-05-03 11:30:42,406 - INFO - [car_type_interaction_stats.py:200] - 开始处理表: gac_trumpchi_m8
+2025-05-03 11:30:42,464 - INFO - [car_type_interaction_stats.py:225] - 成功处理表 gac_trumpchi_m8，耗时 0.06 秒
+2025-05-03 11:30:42,464 - INFO - [car_type_interaction_stats.py:200] - 开始处理表: buick_gl8
+2025-05-03 11:30:42,509 - INFO - [car_type_interaction_stats.py:225] - 成功处理表 buick_gl8，耗时 0.04 秒
+2025-05-03 11:30:42,509 - INFO - [car_type_interaction_stats.py:200] - 开始处理表: honda_odyssey
+2025-05-03 11:30:42,553 - INFO - [car_type_interaction_stats.py:225] - 成功处理表 honda_odyssey，耗时 0.04 秒
+2025-05-03 11:30:42,553 - INFO - [car_type_interaction_stats.py:200] - 开始处理表: toyota_sienna
+2025-05-03 11:30:42,596 - INFO - [car_type_interaction_stats.py:225] - 成功处理表 toyota_sienna，耗时 0.04 秒
+2025-05-03 11:30:42,596 - INFO - [car_type_interaction_stats.py:200] - 开始处理表: saic_volkswagen_viloran
+2025-05-03 11:30:42,646 - INFO - [car_type_interaction_stats.py:225] - 成功处理表 saic_volkswagen_viloran，耗时 0.05 秒
+2025-05-03 11:30:42,646 - INFO - [car_type_interaction_stats.py:200] - 开始处理表: byd_han
+2025-05-03 11:30:42,705 - INFO - [car_type_interaction_stats.py:225] - 成功处理表 byd_han，耗时 0.06 秒
+2025-05-03 11:30:42,705 - INFO - [car_type_interaction_stats.py:200] - 开始处理表: gac_aion_aion_s
+2025-05-03 11:30:42,756 - INFO - [car_type_interaction_stats.py:225] - 成功处理表 gac_aion_aion_s，耗时 0.05 秒
+2025-05-03 11:30:42,756 - INFO - [car_type_interaction_stats.py:200] - 开始处理表: tesla_model_3
+2025-05-03 11:30:42,802 - INFO - [car_type_interaction_stats.py:225] - 成功处理表 tesla_model_3，耗时 0.05 秒
+2025-05-03 11:30:42,802 - INFO - [car_type_interaction_stats.py:200] - 开始处理表: bmw_i3
+2025-05-03 11:30:42,845 - INFO - [car_type_interaction_stats.py:225] - 成功处理表 bmw_i3，耗时 0.04 秒
+2025-05-03 11:30:42,845 - INFO - [car_type_interaction_stats.py:200] - 开始处理表: mercedes_benz_eqc
+2025-05-03 11:30:42,894 - INFO - [car_type_interaction_stats.py:225] - 成功处理表 mercedes_benz_eqc，耗时 0.05 秒
+2025-05-03 11:30:42,894 - INFO - [car_type_interaction_stats.py:200] - 开始处理表: byd_qin_plus_ev
+2025-05-03 11:30:42,946 - INFO - [car_type_interaction_stats.py:225] - 成功处理表 byd_qin_plus_ev，耗时 0.05 秒
+2025-05-03 11:30:42,946 - INFO - [car_type_interaction_stats.py:200] - 开始处理表: nio_et5
+2025-05-03 11:30:42,992 - INFO - [car_type_interaction_stats.py:225] - 成功处理表 nio_et5，耗时 0.05 秒
+2025-05-03 11:30:42,992 - INFO - [car_type_interaction_stats.py:200] - 开始处理表: xpeng_p7
+2025-05-03 11:30:43,039 - INFO - [car_type_interaction_stats.py:225] - 成功处理表 xpeng_p7，耗时 0.05 秒
+2025-05-03 11:30:43,039 - INFO - [car_type_interaction_stats.py:200] - 开始处理表: xiaomi_su7
+2025-05-03 11:30:43,087 - INFO - [car_type_interaction_stats.py:225] - 成功处理表 xiaomi_su7，耗时 0.05 秒
+2025-05-03 11:30:43,087 - INFO - [car_type_interaction_stats.py:200] - 开始处理表: chery_fengyun_a8
+2025-05-03 11:30:43,140 - INFO - [car_type_interaction_stats.py:225] - 成功处理表 chery_fengyun_a8，耗时 0.05 秒
+2025-05-03 11:30:43,140 - INFO - [car_type_interaction_stats.py:200] - 开始处理表: byd_song_plus_ev
+2025-05-03 11:30:43,198 - INFO - [car_type_interaction_stats.py:225] - 成功处理表 byd_song_plus_ev，耗时 0.06 秒
+2025-05-03 11:30:43,198 - INFO - [car_type_interaction_stats.py:200] - 开始处理表: gac_aion_aion_y
+2025-05-03 11:30:43,246 - INFO - [car_type_interaction_stats.py:225] - 成功处理表 gac_aion_aion_y，耗时 0.05 秒
+2025-05-03 11:30:43,246 - INFO - [car_type_interaction_stats.py:200] - 开始处理表: tesla_model_y
+2025-05-03 11:30:43,294 - INFO - [car_type_interaction_stats.py:225] - 成功处理表 tesla_model_y，耗时 0.05 秒
+2025-05-03 11:30:43,295 - INFO - [car_type_interaction_stats.py:200] - 开始处理表: nio_es6
+2025-05-03 11:30:43,349 - INFO - [car_type_interaction_stats.py:225] - 成功处理表 nio_es6，耗时 0.05 秒
+2025-05-03 11:30:43,350 - INFO - [car_type_interaction_stats.py:200] - 开始处理表: xpeng_g6
+2025-05-03 11:30:43,415 - INFO - [car_type_interaction_stats.py:225] - 成功处理表 xpeng_g6，耗时 0.06 秒
+2025-05-03 11:30:43,415 - INFO - [car_type_interaction_stats.py:200] - 开始处理表: voyah_dreamer
+2025-05-03 11:30:43,468 - INFO - [car_type_interaction_stats.py:225] - 成功处理表 voyah_dreamer，耗时 0.05 秒
+2025-05-03 11:30:43,469 - INFO - [car_type_interaction_stats.py:200] - 开始处理表: denza_d9
+2025-05-03 11:30:43,508 - INFO - [car_type_interaction_stats.py:225] - 成功处理表 denza_d9，耗时 0.04 秒
+2025-05-03 11:30:43,508 - INFO - [car_type_interaction_stats.py:200] - 开始处理表: gac_trumpchi_e9
+2025-05-03 11:30:43,545 - INFO - [car_type_interaction_stats.py:225] - 成功处理表 gac_trumpchi_e9，耗时 0.04 秒
+2025-05-03 11:30:43,546 - INFO - [car_type_interaction_stats.py:200] - 开始处理表: saic_roewe_imax8_ev
+2025-05-03 11:30:43,592 - INFO - [car_type_interaction_stats.py:225] - 成功处理表 saic_roewe_imax8_ev，耗时 0.04 秒
+2025-05-03 11:30:43,592 - INFO - [car_type_interaction_stats.py:200] - 开始处理表: xpeng_x9
+2025-05-03 11:30:43,636 - INFO - [car_type_interaction_stats.py:225] - 成功处理表 xpeng_x9，耗时 0.04 秒
+2025-05-03 11:31:00,556 - INFO - [car_type_interaction_stats.py:346] - 成功将统计结果写入目标表
+2025-05-03 11:31:00,556 - INFO - [car_type_interaction_stats.py:356] - 车型类别统计处理完成
+2025-05-03 11:31:00,557 - INFO - [car_type_interaction_stats.py:357] - 总耗时: 27.61 秒
+2025-05-03 11:31:00,557 - INFO - [car_type_interaction_stats.py:358] - 成功处理表数量: 50
+2025-05-03 11:31:00,557 - INFO - [car_type_interaction_stats.py:359] - 失败表数量: 0

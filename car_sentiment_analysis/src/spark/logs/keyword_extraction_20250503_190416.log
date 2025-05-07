@@ -1,0 +1,607 @@
+2025-05-03 19:04:16,460 - INFO - [car_keyword_extraction.py:237] - 开始关键词提取处理
+2025-05-03 19:04:23,516 - INFO - [car_keyword_extraction.py:241] - Spark会话创建成功
+2025-05-03 19:04:23,518 - INFO - [car_keyword_extraction.py:247] - 已加载 1002 个停用词
+2025-05-03 19:04:24,610 - INFO - [car_keyword_extraction.py:282] - 开始处理表: toyota_corolla
+2025-05-03 19:04:27,249 - INFO - [car_keyword_extraction.py:303] - 处理表 toyota_corolla 的情感类型 0
+2025-05-03 19:04:36,641 - INFO - [car_keyword_extraction.py:322] - 表 toyota_corolla 情感类型 0 生成关键词数量: 70
+2025-05-03 19:04:36,644 - INFO - [car_keyword_extraction.py:303] - 处理表 toyota_corolla 的情感类型 1
+2025-05-03 19:04:41,266 - INFO - [car_keyword_extraction.py:322] - 表 toyota_corolla 情感类型 1 生成关键词数量: 70
+2025-05-03 19:04:41,266 - INFO - [car_keyword_extraction.py:303] - 处理表 toyota_corolla 的情感类型 2
+2025-05-03 19:04:45,547 - INFO - [car_keyword_extraction.py:322] - 表 toyota_corolla 情感类型 2 生成关键词数量: 70
+2025-05-03 19:04:45,547 - INFO - [car_keyword_extraction.py:303] - 处理表 toyota_corolla 的情感类型 3
+2025-05-03 19:04:49,967 - INFO - [car_keyword_extraction.py:322] - 表 toyota_corolla 情感类型 3 生成关键词数量: 70
+2025-05-03 19:04:49,967 - INFO - [car_keyword_extraction.py:303] - 处理表 toyota_corolla 的情感类型 4
+2025-05-03 19:04:54,224 - INFO - [car_keyword_extraction.py:322] - 表 toyota_corolla 情感类型 4 生成关键词数量: 70
+2025-05-03 19:04:54,242 - INFO - [car_keyword_extraction.py:329] - 成功处理表 toyota_corolla，耗时 29.63 秒
+2025-05-03 19:04:54,242 - INFO - [car_keyword_extraction.py:282] - 开始处理表: nissan_sylphy
+2025-05-03 19:04:54,305 - INFO - [car_keyword_extraction.py:303] - 处理表 nissan_sylphy 的情感类型 0
+2025-05-03 19:04:58,646 - INFO - [car_keyword_extraction.py:322] - 表 nissan_sylphy 情感类型 0 生成关键词数量: 70
+2025-05-03 19:04:58,646 - INFO - [car_keyword_extraction.py:303] - 处理表 nissan_sylphy 的情感类型 1
+2025-05-03 19:05:03,328 - INFO - [car_keyword_extraction.py:322] - 表 nissan_sylphy 情感类型 1 生成关键词数量: 70
+2025-05-03 19:05:03,328 - INFO - [car_keyword_extraction.py:303] - 处理表 nissan_sylphy 的情感类型 2
+2025-05-03 19:05:10,396 - INFO - [car_keyword_extraction.py:322] - 表 nissan_sylphy 情感类型 2 生成关键词数量: 70
+2025-05-03 19:05:10,396 - INFO - [car_keyword_extraction.py:303] - 处理表 nissan_sylphy 的情感类型 3
+2025-05-03 19:05:14,473 - INFO - [car_keyword_extraction.py:322] - 表 nissan_sylphy 情感类型 3 生成关键词数量: 70
+2025-05-03 19:05:14,473 - INFO - [car_keyword_extraction.py:303] - 处理表 nissan_sylphy 的情感类型 4
+2025-05-03 19:05:19,435 - INFO - [car_keyword_extraction.py:322] - 表 nissan_sylphy 情感类型 4 生成关键词数量: 70
+2025-05-03 19:05:19,436 - INFO - [car_keyword_extraction.py:329] - 成功处理表 nissan_sylphy，耗时 25.19 秒
+2025-05-03 19:05:19,436 - INFO - [car_keyword_extraction.py:282] - 开始处理表: volvo_s60
+2025-05-03 19:05:19,488 - INFO - [car_keyword_extraction.py:303] - 处理表 volvo_s60 的情感类型 0
+2025-05-03 19:05:24,406 - INFO - [car_keyword_extraction.py:322] - 表 volvo_s60 情感类型 0 生成关键词数量: 70
+2025-05-03 19:05:24,406 - INFO - [car_keyword_extraction.py:303] - 处理表 volvo_s60 的情感类型 1
+2025-05-03 19:05:28,645 - INFO - [car_keyword_extraction.py:322] - 表 volvo_s60 情感类型 1 生成关键词数量: 70
+2025-05-03 19:05:28,645 - INFO - [car_keyword_extraction.py:303] - 处理表 volvo_s60 的情感类型 2
+2025-05-03 19:05:32,880 - INFO - [car_keyword_extraction.py:322] - 表 volvo_s60 情感类型 2 生成关键词数量: 70
+2025-05-03 19:05:32,880 - INFO - [car_keyword_extraction.py:303] - 处理表 volvo_s60 的情感类型 3
+2025-05-03 19:05:36,952 - INFO - [car_keyword_extraction.py:322] - 表 volvo_s60 情感类型 3 生成关键词数量: 70
+2025-05-03 19:05:36,952 - INFO - [car_keyword_extraction.py:303] - 处理表 volvo_s60 的情感类型 4
+2025-05-03 19:05:41,449 - INFO - [car_keyword_extraction.py:322] - 表 volvo_s60 情感类型 4 生成关键词数量: 70
+2025-05-03 19:05:41,451 - INFO - [car_keyword_extraction.py:329] - 成功处理表 volvo_s60，耗时 22.02 秒
+2025-05-03 19:05:41,451 - INFO - [car_keyword_extraction.py:282] - 开始处理表: volkswagen_lavida
+2025-05-03 19:05:41,500 - INFO - [car_keyword_extraction.py:303] - 处理表 volkswagen_lavida 的情感类型 0
+2025-05-03 19:05:45,807 - INFO - [car_keyword_extraction.py:322] - 表 volkswagen_lavida 情感类型 0 生成关键词数量: 70
+2025-05-03 19:05:45,807 - INFO - [car_keyword_extraction.py:303] - 处理表 volkswagen_lavida 的情感类型 1
+2025-05-03 19:05:50,024 - INFO - [car_keyword_extraction.py:322] - 表 volkswagen_lavida 情感类型 1 生成关键词数量: 70
+2025-05-03 19:05:50,025 - INFO - [car_keyword_extraction.py:303] - 处理表 volkswagen_lavida 的情感类型 2
+2025-05-03 19:05:54,198 - INFO - [car_keyword_extraction.py:322] - 表 volkswagen_lavida 情感类型 2 生成关键词数量: 70
+2025-05-03 19:05:54,198 - INFO - [car_keyword_extraction.py:303] - 处理表 volkswagen_lavida 的情感类型 3
+2025-05-03 19:05:58,566 - INFO - [car_keyword_extraction.py:322] - 表 volkswagen_lavida 情感类型 3 生成关键词数量: 70
+2025-05-03 19:05:58,566 - INFO - [car_keyword_extraction.py:303] - 处理表 volkswagen_lavida 的情感类型 4
+2025-05-03 19:06:03,209 - INFO - [car_keyword_extraction.py:322] - 表 volkswagen_lavida 情感类型 4 生成关键词数量: 70
+2025-05-03 19:06:03,210 - INFO - [car_keyword_extraction.py:329] - 成功处理表 volkswagen_lavida，耗时 21.76 秒
+2025-05-03 19:06:03,210 - INFO - [car_keyword_extraction.py:282] - 开始处理表: buick_excelle_gt
+2025-05-03 19:06:03,263 - INFO - [car_keyword_extraction.py:303] - 处理表 buick_excelle_gt 的情感类型 0
+2025-05-03 19:06:07,375 - INFO - [car_keyword_extraction.py:322] - 表 buick_excelle_gt 情感类型 0 生成关键词数量: 70
+2025-05-03 19:06:07,376 - INFO - [car_keyword_extraction.py:303] - 处理表 buick_excelle_gt 的情感类型 1
+2025-05-03 19:06:11,341 - INFO - [car_keyword_extraction.py:322] - 表 buick_excelle_gt 情感类型 1 生成关键词数量: 70
+2025-05-03 19:06:11,341 - INFO - [car_keyword_extraction.py:303] - 处理表 buick_excelle_gt 的情感类型 2
+2025-05-03 19:06:15,496 - INFO - [car_keyword_extraction.py:322] - 表 buick_excelle_gt 情感类型 2 生成关键词数量: 70
+2025-05-03 19:06:15,496 - INFO - [car_keyword_extraction.py:303] - 处理表 buick_excelle_gt 的情感类型 3
+2025-05-03 19:06:19,582 - INFO - [car_keyword_extraction.py:322] - 表 buick_excelle_gt 情感类型 3 生成关键词数量: 70
+2025-05-03 19:06:19,582 - INFO - [car_keyword_extraction.py:303] - 处理表 buick_excelle_gt 的情感类型 4
+2025-05-03 19:06:24,626 - INFO - [car_keyword_extraction.py:322] - 表 buick_excelle_gt 情感类型 4 生成关键词数量: 70
+2025-05-03 19:06:24,627 - INFO - [car_keyword_extraction.py:329] - 成功处理表 buick_excelle_gt，耗时 21.42 秒
+2025-05-03 19:06:24,627 - INFO - [car_keyword_extraction.py:282] - 开始处理表: volkswagen_sagitar
+2025-05-03 19:06:24,677 - INFO - [car_keyword_extraction.py:303] - 处理表 volkswagen_sagitar 的情感类型 0
+2025-05-03 19:06:30,234 - INFO - [car_keyword_extraction.py:322] - 表 volkswagen_sagitar 情感类型 0 生成关键词数量: 70
+2025-05-03 19:06:30,234 - INFO - [car_keyword_extraction.py:303] - 处理表 volkswagen_sagitar 的情感类型 1
+2025-05-03 19:06:34,971 - INFO - [car_keyword_extraction.py:322] - 表 volkswagen_sagitar 情感类型 1 生成关键词数量: 70
+2025-05-03 19:06:34,972 - INFO - [car_keyword_extraction.py:303] - 处理表 volkswagen_sagitar 的情感类型 2
+2025-05-03 19:06:39,348 - INFO - [car_keyword_extraction.py:322] - 表 volkswagen_sagitar 情感类型 2 生成关键词数量: 70
+2025-05-03 19:06:39,348 - INFO - [car_keyword_extraction.py:303] - 处理表 volkswagen_sagitar 的情感类型 3
+2025-05-03 19:06:46,457 - INFO - [car_keyword_extraction.py:322] - 表 volkswagen_sagitar 情感类型 3 生成关键词数量: 70
+2025-05-03 19:06:46,457 - INFO - [car_keyword_extraction.py:303] - 处理表 volkswagen_sagitar 的情感类型 4
+2025-05-03 19:06:51,224 - INFO - [car_keyword_extraction.py:322] - 表 volkswagen_sagitar 情感类型 4 生成关键词数量: 70
+2025-05-03 19:06:51,224 - INFO - [car_keyword_extraction.py:329] - 成功处理表 volkswagen_sagitar，耗时 26.60 秒
+2025-05-03 19:06:51,224 - INFO - [car_keyword_extraction.py:282] - 开始处理表: volkswagen_passat
+2025-05-03 19:06:51,271 - INFO - [car_keyword_extraction.py:303] - 处理表 volkswagen_passat 的情感类型 0
+2025-05-03 19:06:55,710 - INFO - [car_keyword_extraction.py:322] - 表 volkswagen_passat 情感类型 0 生成关键词数量: 70
+2025-05-03 19:06:55,710 - INFO - [car_keyword_extraction.py:303] - 处理表 volkswagen_passat 的情感类型 1
+2025-05-03 19:07:01,071 - INFO - [car_keyword_extraction.py:322] - 表 volkswagen_passat 情感类型 1 生成关键词数量: 70
+2025-05-03 19:07:01,071 - INFO - [car_keyword_extraction.py:303] - 处理表 volkswagen_passat 的情感类型 2
+2025-05-03 19:07:05,622 - INFO - [car_keyword_extraction.py:322] - 表 volkswagen_passat 情感类型 2 生成关键词数量: 70
+2025-05-03 19:07:05,622 - INFO - [car_keyword_extraction.py:303] - 处理表 volkswagen_passat 的情感类型 3
+2025-05-03 19:07:10,301 - INFO - [car_keyword_extraction.py:322] - 表 volkswagen_passat 情感类型 3 生成关键词数量: 70
+2025-05-03 19:07:10,301 - INFO - [car_keyword_extraction.py:303] - 处理表 volkswagen_passat 的情感类型 4
+2025-05-03 19:07:15,400 - INFO - [car_keyword_extraction.py:322] - 表 volkswagen_passat 情感类型 4 生成关键词数量: 70
+2025-05-03 19:07:15,402 - INFO - [car_keyword_extraction.py:329] - 成功处理表 volkswagen_passat，耗时 24.18 秒
+2025-05-03 19:07:15,402 - INFO - [car_keyword_extraction.py:282] - 开始处理表: cadillac_ct4
+2025-05-03 19:07:15,455 - INFO - [car_keyword_extraction.py:303] - 处理表 cadillac_ct4 的情感类型 0
+2025-05-03 19:07:19,947 - INFO - [car_keyword_extraction.py:322] - 表 cadillac_ct4 情感类型 0 生成关键词数量: 70
+2025-05-03 19:07:19,948 - INFO - [car_keyword_extraction.py:303] - 处理表 cadillac_ct4 的情感类型 1
+2025-05-03 19:07:24,962 - INFO - [car_keyword_extraction.py:322] - 表 cadillac_ct4 情感类型 1 生成关键词数量: 70
+2025-05-03 19:07:24,962 - INFO - [car_keyword_extraction.py:303] - 处理表 cadillac_ct4 的情感类型 2
+2025-05-03 19:07:29,402 - INFO - [car_keyword_extraction.py:322] - 表 cadillac_ct4 情感类型 2 生成关键词数量: 70
+2025-05-03 19:07:29,402 - INFO - [car_keyword_extraction.py:303] - 处理表 cadillac_ct4 的情感类型 3
+2025-05-03 19:07:33,731 - INFO - [car_keyword_extraction.py:322] - 表 cadillac_ct4 情感类型 3 生成关键词数量: 40
+2025-05-03 19:07:33,731 - INFO - [car_keyword_extraction.py:303] - 处理表 cadillac_ct4 的情感类型 4
+2025-05-03 19:07:38,522 - INFO - [car_keyword_extraction.py:322] - 表 cadillac_ct4 情感类型 4 生成关键词数量: 70
+2025-05-03 19:07:38,523 - INFO - [car_keyword_extraction.py:329] - 成功处理表 cadillac_ct4，耗时 23.12 秒
+2025-05-03 19:07:38,523 - INFO - [car_keyword_extraction.py:282] - 开始处理表: chery_arrizo_8
+2025-05-03 19:07:38,567 - INFO - [car_keyword_extraction.py:303] - 处理表 chery_arrizo_8 的情感类型 0
+2025-05-03 19:07:43,927 - INFO - [car_keyword_extraction.py:322] - 表 chery_arrizo_8 情感类型 0 生成关键词数量: 70
+2025-05-03 19:07:43,927 - INFO - [car_keyword_extraction.py:303] - 处理表 chery_arrizo_8 的情感类型 1
+2025-05-03 19:07:48,712 - INFO - [car_keyword_extraction.py:322] - 表 chery_arrizo_8 情感类型 1 生成关键词数量: 70
+2025-05-03 19:07:48,713 - INFO - [car_keyword_extraction.py:303] - 处理表 chery_arrizo_8 的情感类型 2
+2025-05-03 19:07:53,893 - INFO - [car_keyword_extraction.py:322] - 表 chery_arrizo_8 情感类型 2 生成关键词数量: 70
+2025-05-03 19:07:53,894 - INFO - [car_keyword_extraction.py:303] - 处理表 chery_arrizo_8 的情感类型 3
+2025-05-03 19:07:58,217 - INFO - [car_keyword_extraction.py:322] - 表 chery_arrizo_8 情感类型 3 生成关键词数量: 70
+2025-05-03 19:07:58,217 - INFO - [car_keyword_extraction.py:303] - 处理表 chery_arrizo_8 的情感类型 4
+2025-05-03 19:08:03,446 - INFO - [car_keyword_extraction.py:322] - 表 chery_arrizo_8 情感类型 4 生成关键词数量: 70
+2025-05-03 19:08:03,447 - INFO - [car_keyword_extraction.py:329] - 成功处理表 chery_arrizo_8，耗时 24.92 秒
+2025-05-03 19:08:03,447 - INFO - [car_keyword_extraction.py:282] - 开始处理表: honda_civic
+2025-05-03 19:08:03,499 - INFO - [car_keyword_extraction.py:303] - 处理表 honda_civic 的情感类型 0
+2025-05-03 19:08:07,986 - INFO - [car_keyword_extraction.py:322] - 表 honda_civic 情感类型 0 生成关键词数量: 70
+2025-05-03 19:08:07,986 - INFO - [car_keyword_extraction.py:303] - 处理表 honda_civic 的情感类型 1
+2025-05-03 19:08:12,361 - INFO - [car_keyword_extraction.py:322] - 表 honda_civic 情感类型 1 生成关键词数量: 70
+2025-05-03 19:08:12,361 - INFO - [car_keyword_extraction.py:303] - 处理表 honda_civic 的情感类型 2
+2025-05-03 19:08:17,060 - INFO - [car_keyword_extraction.py:322] - 表 honda_civic 情感类型 2 生成关键词数量: 70
+2025-05-03 19:08:17,060 - INFO - [car_keyword_extraction.py:303] - 处理表 honda_civic 的情感类型 3
+2025-05-03 19:08:22,323 - INFO - [car_keyword_extraction.py:322] - 表 honda_civic 情感类型 3 生成关键词数量: 70
+2025-05-03 19:08:22,323 - INFO - [car_keyword_extraction.py:303] - 处理表 honda_civic 的情感类型 4
+2025-05-03 19:08:27,577 - INFO - [car_keyword_extraction.py:322] - 表 honda_civic 情感类型 4 生成关键词数量: 70
+2025-05-03 19:08:27,578 - INFO - [car_keyword_extraction.py:329] - 成功处理表 honda_civic，耗时 24.13 秒
+2025-05-03 19:08:27,578 - INFO - [car_keyword_extraction.py:282] - 开始处理表: honda_accord
+2025-05-03 19:08:27,650 - INFO - [car_keyword_extraction.py:303] - 处理表 honda_accord 的情感类型 0
+2025-05-03 19:08:32,036 - INFO - [car_keyword_extraction.py:322] - 表 honda_accord 情感类型 0 生成关键词数量: 70
+2025-05-03 19:08:32,036 - INFO - [car_keyword_extraction.py:303] - 处理表 honda_accord 的情感类型 1
+2025-05-03 19:08:37,542 - INFO - [car_keyword_extraction.py:322] - 表 honda_accord 情感类型 1 生成关键词数量: 70
+2025-05-03 19:08:37,543 - INFO - [car_keyword_extraction.py:303] - 处理表 honda_accord 的情感类型 2
+2025-05-03 19:08:42,921 - INFO - [car_keyword_extraction.py:322] - 表 honda_accord 情感类型 2 生成关键词数量: 70
+2025-05-03 19:08:42,921 - INFO - [car_keyword_extraction.py:303] - 处理表 honda_accord 的情感类型 3
+2025-05-03 19:08:46,816 - INFO - [car_keyword_extraction.py:322] - 表 honda_accord 情感类型 3 生成关键词数量: 70
+2025-05-03 19:08:46,816 - INFO - [car_keyword_extraction.py:303] - 处理表 honda_accord 的情感类型 4
+2025-05-03 19:08:51,000 - INFO - [car_keyword_extraction.py:322] - 表 honda_accord 情感类型 4 生成关键词数量: 70
+2025-05-03 19:08:51,001 - INFO - [car_keyword_extraction.py:329] - 成功处理表 honda_accord，耗时 23.42 秒
+2025-05-03 19:08:51,001 - INFO - [car_keyword_extraction.py:282] - 开始处理表: geely_preface
+2025-05-03 19:08:51,045 - INFO - [car_keyword_extraction.py:303] - 处理表 geely_preface 的情感类型 0
+2025-05-03 19:08:55,141 - INFO - [car_keyword_extraction.py:322] - 表 geely_preface 情感类型 0 生成关键词数量: 70
+2025-05-03 19:08:55,141 - INFO - [car_keyword_extraction.py:303] - 处理表 geely_preface 的情感类型 1
+2025-05-03 19:08:59,721 - INFO - [car_keyword_extraction.py:322] - 表 geely_preface 情感类型 1 生成关键词数量: 70
+2025-05-03 19:08:59,721 - INFO - [car_keyword_extraction.py:303] - 处理表 geely_preface 的情感类型 2
+2025-05-03 19:09:06,064 - INFO - [car_keyword_extraction.py:322] - 表 geely_preface 情感类型 2 生成关键词数量: 70
+2025-05-03 19:09:06,065 - INFO - [car_keyword_extraction.py:303] - 处理表 geely_preface 的情感类型 3
+2025-05-03 19:09:10,732 - INFO - [car_keyword_extraction.py:322] - 表 geely_preface 情感类型 3 生成关键词数量: 70
+2025-05-03 19:09:10,732 - INFO - [car_keyword_extraction.py:303] - 处理表 geely_preface 的情感类型 4
+2025-05-03 19:09:16,242 - INFO - [car_keyword_extraction.py:322] - 表 geely_preface 情感类型 4 生成关键词数量: 70
+2025-05-03 19:09:16,244 - INFO - [car_keyword_extraction.py:329] - 成功处理表 geely_preface，耗时 25.24 秒
+2025-05-03 19:09:16,244 - INFO - [car_keyword_extraction.py:282] - 开始处理表: geely_emgrand
+2025-05-03 19:09:16,310 - INFO - [car_keyword_extraction.py:303] - 处理表 geely_emgrand 的情感类型 0
+2025-05-03 19:09:19,128 - INFO - [car_keyword_extraction.py:322] - 表 geely_emgrand 情感类型 0 生成关键词数量: 0
+2025-05-03 19:09:19,128 - INFO - [car_keyword_extraction.py:303] - 处理表 geely_emgrand 的情感类型 1
+2025-05-03 19:09:21,727 - INFO - [car_keyword_extraction.py:322] - 表 geely_emgrand 情感类型 1 生成关键词数量: 0
+2025-05-03 19:09:21,727 - INFO - [car_keyword_extraction.py:303] - 处理表 geely_emgrand 的情感类型 2
+2025-05-03 19:09:24,491 - INFO - [car_keyword_extraction.py:322] - 表 geely_emgrand 情感类型 2 生成关键词数量: 0
+2025-05-03 19:09:24,491 - INFO - [car_keyword_extraction.py:303] - 处理表 geely_emgrand 的情感类型 3
+2025-05-03 19:09:27,621 - INFO - [car_keyword_extraction.py:322] - 表 geely_emgrand 情感类型 3 生成关键词数量: 0
+2025-05-03 19:09:27,622 - INFO - [car_keyword_extraction.py:303] - 处理表 geely_emgrand 的情感类型 4
+2025-05-03 19:09:30,578 - INFO - [car_keyword_extraction.py:322] - 表 geely_emgrand 情感类型 4 生成关键词数量: 0
+2025-05-03 19:09:30,580 - INFO - [car_keyword_extraction.py:329] - 成功处理表 geely_emgrand，耗时 14.34 秒
+2025-05-03 19:09:30,580 - INFO - [car_keyword_extraction.py:282] - 开始处理表: hongqi_h5
+2025-05-03 19:09:30,622 - INFO - [car_keyword_extraction.py:303] - 处理表 hongqi_h5 的情感类型 0
+2025-05-03 19:09:35,247 - INFO - [car_keyword_extraction.py:322] - 表 hongqi_h5 情感类型 0 生成关键词数量: 70
+2025-05-03 19:09:35,247 - INFO - [car_keyword_extraction.py:303] - 处理表 hongqi_h5 的情感类型 1
+2025-05-03 19:09:39,863 - INFO - [car_keyword_extraction.py:322] - 表 hongqi_h5 情感类型 1 生成关键词数量: 70
+2025-05-03 19:09:39,863 - INFO - [car_keyword_extraction.py:303] - 处理表 hongqi_h5 的情感类型 2
+2025-05-03 19:09:44,354 - INFO - [car_keyword_extraction.py:322] - 表 hongqi_h5 情感类型 2 生成关键词数量: 70
+2025-05-03 19:09:44,354 - INFO - [car_keyword_extraction.py:303] - 处理表 hongqi_h5 的情感类型 3
+2025-05-03 19:09:48,828 - INFO - [car_keyword_extraction.py:322] - 表 hongqi_h5 情感类型 3 生成关键词数量: 70
+2025-05-03 19:09:48,828 - INFO - [car_keyword_extraction.py:303] - 处理表 hongqi_h5 的情感类型 4
+2025-05-03 19:09:53,655 - INFO - [car_keyword_extraction.py:322] - 表 hongqi_h5 情感类型 4 生成关键词数量: 70
+2025-05-03 19:09:53,655 - INFO - [car_keyword_extraction.py:329] - 成功处理表 hongqi_h5，耗时 23.07 秒
+2025-05-03 19:09:53,655 - INFO - [car_keyword_extraction.py:282] - 开始处理表: changan_eado
+2025-05-03 19:09:53,696 - INFO - [car_keyword_extraction.py:303] - 处理表 changan_eado 的情感类型 0
+2025-05-03 19:09:58,053 - INFO - [car_keyword_extraction.py:322] - 表 changan_eado 情感类型 0 生成关键词数量: 70
+2025-05-03 19:09:58,053 - INFO - [car_keyword_extraction.py:303] - 处理表 changan_eado 的情感类型 1
+2025-05-03 19:10:02,655 - INFO - [car_keyword_extraction.py:322] - 表 changan_eado 情感类型 1 生成关键词数量: 70
+2025-05-03 19:10:02,656 - INFO - [car_keyword_extraction.py:303] - 处理表 changan_eado 的情感类型 2
+2025-05-03 19:10:07,052 - INFO - [car_keyword_extraction.py:322] - 表 changan_eado 情感类型 2 生成关键词数量: 70
+2025-05-03 19:10:07,052 - INFO - [car_keyword_extraction.py:303] - 处理表 changan_eado 的情感类型 3
+2025-05-03 19:10:12,678 - INFO - [car_keyword_extraction.py:322] - 表 changan_eado 情感类型 3 生成关键词数量: 70
+2025-05-03 19:10:12,679 - INFO - [car_keyword_extraction.py:303] - 处理表 changan_eado 的情感类型 4
+2025-05-03 19:10:17,522 - INFO - [car_keyword_extraction.py:322] - 表 changan_eado 情感类型 4 生成关键词数量: 70
+2025-05-03 19:10:17,522 - INFO - [car_keyword_extraction.py:329] - 成功处理表 changan_eado，耗时 23.87 秒
+2025-05-03 19:10:17,522 - INFO - [car_keyword_extraction.py:282] - 开始处理表: geely_xingyue_l
+2025-05-03 19:10:17,572 - INFO - [car_keyword_extraction.py:303] - 处理表 geely_xingyue_l 的情感类型 0
+2025-05-03 19:10:22,103 - INFO - [car_keyword_extraction.py:322] - 表 geely_xingyue_l 情感类型 0 生成关键词数量: 70
+2025-05-03 19:10:22,103 - INFO - [car_keyword_extraction.py:303] - 处理表 geely_xingyue_l 的情感类型 1
+2025-05-03 19:10:27,058 - INFO - [car_keyword_extraction.py:322] - 表 geely_xingyue_l 情感类型 1 生成关键词数量: 70
+2025-05-03 19:10:27,058 - INFO - [car_keyword_extraction.py:303] - 处理表 geely_xingyue_l 的情感类型 2
+2025-05-03 19:10:32,121 - INFO - [car_keyword_extraction.py:322] - 表 geely_xingyue_l 情感类型 2 生成关键词数量: 70
+2025-05-03 19:10:32,121 - INFO - [car_keyword_extraction.py:303] - 处理表 geely_xingyue_l 的情感类型 3
+2025-05-03 19:10:37,219 - INFO - [car_keyword_extraction.py:322] - 表 geely_xingyue_l 情感类型 3 生成关键词数量: 70
+2025-05-03 19:10:37,219 - INFO - [car_keyword_extraction.py:303] - 处理表 geely_xingyue_l 的情感类型 4
+2025-05-03 19:10:42,803 - INFO - [car_keyword_extraction.py:322] - 表 geely_xingyue_l 情感类型 4 生成关键词数量: 70
+2025-05-03 19:10:42,805 - INFO - [car_keyword_extraction.py:329] - 成功处理表 geely_xingyue_l，耗时 25.28 秒
+2025-05-03 19:10:42,805 - INFO - [car_keyword_extraction.py:282] - 开始处理表: haval_h5
+2025-05-03 19:10:42,851 - INFO - [car_keyword_extraction.py:303] - 处理表 haval_h5 的情感类型 0
+2025-05-03 19:10:47,274 - INFO - [car_keyword_extraction.py:322] - 表 haval_h5 情感类型 0 生成关键词数量: 70
+2025-05-03 19:10:47,275 - INFO - [car_keyword_extraction.py:303] - 处理表 haval_h5 的情感类型 1
+2025-05-03 19:10:51,618 - INFO - [car_keyword_extraction.py:322] - 表 haval_h5 情感类型 1 生成关键词数量: 70
+2025-05-03 19:10:51,618 - INFO - [car_keyword_extraction.py:303] - 处理表 haval_h5 的情感类型 2
+2025-05-03 19:10:56,001 - INFO - [car_keyword_extraction.py:322] - 表 haval_h5 情感类型 2 生成关键词数量: 70
+2025-05-03 19:10:56,001 - INFO - [car_keyword_extraction.py:303] - 处理表 haval_h5 的情感类型 3
+2025-05-03 19:11:00,241 - INFO - [car_keyword_extraction.py:322] - 表 haval_h5 情感类型 3 生成关键词数量: 70
+2025-05-03 19:11:00,241 - INFO - [car_keyword_extraction.py:303] - 处理表 haval_h5 的情感类型 4
+2025-05-03 19:11:04,784 - INFO - [car_keyword_extraction.py:322] - 表 haval_h5 情感类型 4 生成关键词数量: 70
+2025-05-03 19:11:04,784 - INFO - [car_keyword_extraction.py:329] - 成功处理表 haval_h5，耗时 21.98 秒
+2025-05-03 19:11:04,784 - INFO - [car_keyword_extraction.py:282] - 开始处理表: tank_300
+2025-05-03 19:11:04,833 - INFO - [car_keyword_extraction.py:303] - 处理表 tank_300 的情感类型 0
+2025-05-03 19:11:09,131 - INFO - [car_keyword_extraction.py:322] - 表 tank_300 情感类型 0 生成关键词数量: 70
+2025-05-03 19:11:09,131 - INFO - [car_keyword_extraction.py:303] - 处理表 tank_300 的情感类型 1
+2025-05-03 19:11:13,884 - INFO - [car_keyword_extraction.py:322] - 表 tank_300 情感类型 1 生成关键词数量: 70
+2025-05-03 19:11:13,884 - INFO - [car_keyword_extraction.py:303] - 处理表 tank_300 的情感类型 2
+2025-05-03 19:11:18,078 - INFO - [car_keyword_extraction.py:322] - 表 tank_300 情感类型 2 生成关键词数量: 70
+2025-05-03 19:11:18,078 - INFO - [car_keyword_extraction.py:303] - 处理表 tank_300 的情感类型 3
+2025-05-03 19:11:22,283 - INFO - [car_keyword_extraction.py:322] - 表 tank_300 情感类型 3 生成关键词数量: 70
+2025-05-03 19:11:22,283 - INFO - [car_keyword_extraction.py:303] - 处理表 tank_300 的情感类型 4
+2025-05-03 19:11:28,822 - INFO - [car_keyword_extraction.py:322] - 表 tank_300 情感类型 4 生成关键词数量: 70
+2025-05-03 19:11:28,822 - INFO - [car_keyword_extraction.py:329] - 成功处理表 tank_300，耗时 24.04 秒
+2025-05-03 19:11:28,822 - INFO - [car_keyword_extraction.py:282] - 开始处理表: byd_song_pro
+2025-05-03 19:11:28,875 - INFO - [car_keyword_extraction.py:303] - 处理表 byd_song_pro 的情感类型 0
+2025-05-03 19:11:32,685 - INFO - [car_keyword_extraction.py:322] - 表 byd_song_pro 情感类型 0 生成关键词数量: 70
+2025-05-03 19:11:32,685 - INFO - [car_keyword_extraction.py:303] - 处理表 byd_song_pro 的情感类型 1
+2025-05-03 19:11:36,612 - INFO - [car_keyword_extraction.py:322] - 表 byd_song_pro 情感类型 1 生成关键词数量: 70
+2025-05-03 19:11:36,612 - INFO - [car_keyword_extraction.py:303] - 处理表 byd_song_pro 的情感类型 2
+2025-05-03 19:11:40,555 - INFO - [car_keyword_extraction.py:322] - 表 byd_song_pro 情感类型 2 生成关键词数量: 70
+2025-05-03 19:11:40,555 - INFO - [car_keyword_extraction.py:303] - 处理表 byd_song_pro 的情感类型 3
+2025-05-03 19:11:44,435 - INFO - [car_keyword_extraction.py:322] - 表 byd_song_pro 情感类型 3 生成关键词数量: 70
+2025-05-03 19:11:44,435 - INFO - [car_keyword_extraction.py:303] - 处理表 byd_song_pro 的情感类型 4
+2025-05-03 19:11:48,585 - INFO - [car_keyword_extraction.py:322] - 表 byd_song_pro 情感类型 4 生成关键词数量: 70
+2025-05-03 19:11:48,585 - INFO - [car_keyword_extraction.py:329] - 成功处理表 byd_song_pro，耗时 19.76 秒
+2025-05-03 19:11:48,585 - INFO - [car_keyword_extraction.py:282] - 开始处理表: saic_volkswagen_tiguan_l_pro
+2025-05-03 19:11:48,633 - INFO - [car_keyword_extraction.py:303] - 处理表 saic_volkswagen_tiguan_l_pro 的情感类型 0
+2025-05-03 19:11:52,433 - INFO - [car_keyword_extraction.py:322] - 表 saic_volkswagen_tiguan_l_pro 情感类型 0 生成关键词数量: 70
+2025-05-03 19:11:52,433 - INFO - [car_keyword_extraction.py:303] - 处理表 saic_volkswagen_tiguan_l_pro 的情感类型 1
+2025-05-03 19:11:56,163 - INFO - [car_keyword_extraction.py:322] - 表 saic_volkswagen_tiguan_l_pro 情感类型 1 生成关键词数量: 70
+2025-05-03 19:11:56,163 - INFO - [car_keyword_extraction.py:303] - 处理表 saic_volkswagen_tiguan_l_pro 的情感类型 2
+2025-05-03 19:12:00,076 - INFO - [car_keyword_extraction.py:322] - 表 saic_volkswagen_tiguan_l_pro 情感类型 2 生成关键词数量: 70
+2025-05-03 19:12:00,076 - INFO - [car_keyword_extraction.py:303] - 处理表 saic_volkswagen_tiguan_l_pro 的情感类型 3
+2025-05-03 19:12:06,843 - INFO - [car_keyword_extraction.py:322] - 表 saic_volkswagen_tiguan_l_pro 情感类型 3 生成关键词数量: 70
+2025-05-03 19:12:06,843 - INFO - [car_keyword_extraction.py:303] - 处理表 saic_volkswagen_tiguan_l_pro 的情感类型 4
+2025-05-03 19:12:10,644 - INFO - [car_keyword_extraction.py:322] - 表 saic_volkswagen_tiguan_l_pro 情感类型 4 生成关键词数量: 70
+2025-05-03 19:12:10,644 - INFO - [car_keyword_extraction.py:329] - 成功处理表 saic_volkswagen_tiguan_l_pro，耗时 22.06 秒
+2025-05-03 19:12:10,644 - INFO - [car_keyword_extraction.py:282] - 开始处理表: bmw_x3
+2025-05-03 19:12:10,692 - INFO - [car_keyword_extraction.py:303] - 处理表 bmw_x3 的情感类型 0
+2025-05-03 19:12:14,520 - INFO - [car_keyword_extraction.py:322] - 表 bmw_x3 情感类型 0 生成关键词数量: 70
+2025-05-03 19:12:14,520 - INFO - [car_keyword_extraction.py:303] - 处理表 bmw_x3 的情感类型 1
+2025-05-03 19:12:18,545 - INFO - [car_keyword_extraction.py:322] - 表 bmw_x3 情感类型 1 生成关键词数量: 70
+2025-05-03 19:12:18,545 - INFO - [car_keyword_extraction.py:303] - 处理表 bmw_x3 的情感类型 2
+2025-05-03 19:12:22,515 - INFO - [car_keyword_extraction.py:322] - 表 bmw_x3 情感类型 2 生成关键词数量: 70
+2025-05-03 19:12:22,515 - INFO - [car_keyword_extraction.py:303] - 处理表 bmw_x3 的情感类型 3
+2025-05-03 19:12:26,464 - INFO - [car_keyword_extraction.py:322] - 表 bmw_x3 情感类型 3 生成关键词数量: 70
+2025-05-03 19:12:26,464 - INFO - [car_keyword_extraction.py:303] - 处理表 bmw_x3 的情感类型 4
+2025-05-03 19:12:31,208 - INFO - [car_keyword_extraction.py:322] - 表 bmw_x3 情感类型 4 生成关键词数量: 70
+2025-05-03 19:12:31,209 - INFO - [car_keyword_extraction.py:329] - 成功处理表 bmw_x3，耗时 20.57 秒
+2025-05-03 19:12:31,209 - INFO - [car_keyword_extraction.py:282] - 开始处理表: audi_q5l
+2025-05-03 19:12:31,247 - INFO - [car_keyword_extraction.py:303] - 处理表 audi_q5l 的情感类型 0
+2025-05-03 19:12:35,200 - INFO - [car_keyword_extraction.py:322] - 表 audi_q5l 情感类型 0 生成关键词数量: 70
+2025-05-03 19:12:35,200 - INFO - [car_keyword_extraction.py:303] - 处理表 audi_q5l 的情感类型 1
+2025-05-03 19:12:39,065 - INFO - [car_keyword_extraction.py:322] - 表 audi_q5l 情感类型 1 生成关键词数量: 70
+2025-05-03 19:12:39,065 - INFO - [car_keyword_extraction.py:303] - 处理表 audi_q5l 的情感类型 2
+2025-05-03 19:12:43,088 - INFO - [car_keyword_extraction.py:322] - 表 audi_q5l 情感类型 2 生成关键词数量: 70
+2025-05-03 19:12:43,088 - INFO - [car_keyword_extraction.py:303] - 处理表 audi_q5l 的情感类型 3
+2025-05-03 19:12:46,930 - INFO - [car_keyword_extraction.py:322] - 表 audi_q5l 情感类型 3 生成关键词数量: 70
+2025-05-03 19:12:46,930 - INFO - [car_keyword_extraction.py:303] - 处理表 audi_q5l 的情感类型 4
+2025-05-03 19:12:51,773 - INFO - [car_keyword_extraction.py:322] - 表 audi_q5l 情感类型 4 生成关键词数量: 70
+2025-05-03 19:12:51,773 - INFO - [car_keyword_extraction.py:329] - 成功处理表 audi_q5l，耗时 20.56 秒
+2025-05-03 19:12:51,773 - INFO - [car_keyword_extraction.py:282] - 开始处理表: buick_envision
+2025-05-03 19:12:51,820 - INFO - [car_keyword_extraction.py:303] - 处理表 buick_envision 的情感类型 0
+2025-05-03 19:12:56,274 - INFO - [car_keyword_extraction.py:322] - 表 buick_envision 情感类型 0 生成关键词数量: 70
+2025-05-03 19:12:56,274 - INFO - [car_keyword_extraction.py:303] - 处理表 buick_envision 的情感类型 1
+2025-05-03 19:13:00,280 - INFO - [car_keyword_extraction.py:322] - 表 buick_envision 情感类型 1 生成关键词数量: 70
+2025-05-03 19:13:00,280 - INFO - [car_keyword_extraction.py:303] - 处理表 buick_envision 的情感类型 2
+2025-05-03 19:13:04,449 - INFO - [car_keyword_extraction.py:322] - 表 buick_envision 情感类型 2 生成关键词数量: 70
+2025-05-03 19:13:04,449 - INFO - [car_keyword_extraction.py:303] - 处理表 buick_envision 的情感类型 3
+2025-05-03 19:13:08,605 - INFO - [car_keyword_extraction.py:322] - 表 buick_envision 情感类型 3 生成关键词数量: 70
+2025-05-03 19:13:08,605 - INFO - [car_keyword_extraction.py:303] - 处理表 buick_envision 的情感类型 4
+2025-05-03 19:13:13,615 - INFO - [car_keyword_extraction.py:322] - 表 buick_envision 情感类型 4 生成关键词数量: 70
+2025-05-03 19:13:13,615 - INFO - [car_keyword_extraction.py:329] - 成功处理表 buick_envision，耗时 21.84 秒
+2025-05-03 19:13:13,615 - INFO - [car_keyword_extraction.py:282] - 开始处理表: chevrolet_equinox
+2025-05-03 19:13:13,656 - INFO - [car_keyword_extraction.py:303] - 处理表 chevrolet_equinox 的情感类型 0
+2025-05-03 19:13:17,510 - INFO - [car_keyword_extraction.py:322] - 表 chevrolet_equinox 情感类型 0 生成关键词数量: 70
+2025-05-03 19:13:17,510 - INFO - [car_keyword_extraction.py:303] - 处理表 chevrolet_equinox 的情感类型 1
+2025-05-03 19:13:21,365 - INFO - [car_keyword_extraction.py:322] - 表 chevrolet_equinox 情感类型 1 生成关键词数量: 70
+2025-05-03 19:13:21,365 - INFO - [car_keyword_extraction.py:303] - 处理表 chevrolet_equinox 的情感类型 2
+2025-05-03 19:13:25,214 - INFO - [car_keyword_extraction.py:322] - 表 chevrolet_equinox 情感类型 2 生成关键词数量: 70
+2025-05-03 19:13:25,219 - INFO - [car_keyword_extraction.py:303] - 处理表 chevrolet_equinox 的情感类型 3
+2025-05-03 19:13:29,769 - INFO - [car_keyword_extraction.py:322] - 表 chevrolet_equinox 情感类型 3 生成关键词数量: 70
+2025-05-03 19:13:29,769 - INFO - [car_keyword_extraction.py:303] - 处理表 chevrolet_equinox 的情感类型 4
+2025-05-03 19:13:33,982 - INFO - [car_keyword_extraction.py:322] - 表 chevrolet_equinox 情感类型 4 生成关键词数量: 70
+2025-05-03 19:13:33,982 - INFO - [car_keyword_extraction.py:329] - 成功处理表 chevrolet_equinox，耗时 20.37 秒
+2025-05-03 19:13:33,982 - INFO - [car_keyword_extraction.py:282] - 开始处理表: jeep_compass
+2025-05-03 19:13:34,023 - INFO - [car_keyword_extraction.py:303] - 处理表 jeep_compass 的情感类型 0
+2025-05-03 19:13:37,922 - INFO - [car_keyword_extraction.py:322] - 表 jeep_compass 情感类型 0 生成关键词数量: 70
+2025-05-03 19:13:37,922 - INFO - [car_keyword_extraction.py:303] - 处理表 jeep_compass 的情感类型 1
+2025-05-03 19:13:41,781 - INFO - [car_keyword_extraction.py:322] - 表 jeep_compass 情感类型 1 生成关键词数量: 70
+2025-05-03 19:13:41,781 - INFO - [car_keyword_extraction.py:303] - 处理表 jeep_compass 的情感类型 2
+2025-05-03 19:13:45,976 - INFO - [car_keyword_extraction.py:322] - 表 jeep_compass 情感类型 2 生成关键词数量: 70
+2025-05-03 19:13:45,976 - INFO - [car_keyword_extraction.py:303] - 处理表 jeep_compass 的情感类型 3
+2025-05-03 19:13:50,195 - INFO - [car_keyword_extraction.py:322] - 表 jeep_compass 情感类型 3 生成关键词数量: 70
+2025-05-03 19:13:50,195 - INFO - [car_keyword_extraction.py:303] - 处理表 jeep_compass 的情感类型 4
+2025-05-03 19:13:54,409 - INFO - [car_keyword_extraction.py:322] - 表 jeep_compass 情感类型 4 生成关键词数量: 70
+2025-05-03 19:13:54,409 - INFO - [car_keyword_extraction.py:329] - 成功处理表 jeep_compass，耗时 20.43 秒
+2025-05-03 19:13:54,409 - INFO - [car_keyword_extraction.py:282] - 开始处理表: gac_trumpchi_m8
+2025-05-03 19:13:54,451 - INFO - [car_keyword_extraction.py:303] - 处理表 gac_trumpchi_m8 的情感类型 0
+2025-05-03 19:13:58,687 - INFO - [car_keyword_extraction.py:322] - 表 gac_trumpchi_m8 情感类型 0 生成关键词数量: 70
+2025-05-03 19:13:58,687 - INFO - [car_keyword_extraction.py:303] - 处理表 gac_trumpchi_m8 的情感类型 1
+2025-05-03 19:14:02,767 - INFO - [car_keyword_extraction.py:322] - 表 gac_trumpchi_m8 情感类型 1 生成关键词数量: 70
+2025-05-03 19:14:02,767 - INFO - [car_keyword_extraction.py:303] - 处理表 gac_trumpchi_m8 的情感类型 2
+2025-05-03 19:14:06,972 - INFO - [car_keyword_extraction.py:322] - 表 gac_trumpchi_m8 情感类型 2 生成关键词数量: 70
+2025-05-03 19:14:06,972 - INFO - [car_keyword_extraction.py:303] - 处理表 gac_trumpchi_m8 的情感类型 3
+2025-05-03 19:14:10,938 - INFO - [car_keyword_extraction.py:322] - 表 gac_trumpchi_m8 情感类型 3 生成关键词数量: 70
+2025-05-03 19:14:10,938 - INFO - [car_keyword_extraction.py:303] - 处理表 gac_trumpchi_m8 的情感类型 4
+2025-05-03 19:14:15,587 - INFO - [car_keyword_extraction.py:322] - 表 gac_trumpchi_m8 情感类型 4 生成关键词数量: 70
+2025-05-03 19:14:15,587 - INFO - [car_keyword_extraction.py:329] - 成功处理表 gac_trumpchi_m8，耗时 21.18 秒
+2025-05-03 19:14:15,587 - INFO - [car_keyword_extraction.py:282] - 开始处理表: buick_gl8
+2025-05-03 19:14:15,635 - INFO - [car_keyword_extraction.py:303] - 处理表 buick_gl8 的情感类型 0
+2025-05-03 19:14:19,936 - INFO - [car_keyword_extraction.py:322] - 表 buick_gl8 情感类型 0 生成关键词数量: 70
+2025-05-03 19:14:19,936 - INFO - [car_keyword_extraction.py:303] - 处理表 buick_gl8 的情感类型 1
+2025-05-03 19:14:24,010 - INFO - [car_keyword_extraction.py:322] - 表 buick_gl8 情感类型 1 生成关键词数量: 70
+2025-05-03 19:14:24,010 - INFO - [car_keyword_extraction.py:303] - 处理表 buick_gl8 的情感类型 2
+2025-05-03 19:14:28,509 - INFO - [car_keyword_extraction.py:322] - 表 buick_gl8 情感类型 2 生成关键词数量: 70
+2025-05-03 19:14:28,509 - INFO - [car_keyword_extraction.py:303] - 处理表 buick_gl8 的情感类型 3
+2025-05-03 19:14:32,775 - INFO - [car_keyword_extraction.py:322] - 表 buick_gl8 情感类型 3 生成关键词数量: 70
+2025-05-03 19:14:32,775 - INFO - [car_keyword_extraction.py:303] - 处理表 buick_gl8 的情感类型 4
+2025-05-03 19:14:37,687 - INFO - [car_keyword_extraction.py:322] - 表 buick_gl8 情感类型 4 生成关键词数量: 70
+2025-05-03 19:14:37,687 - INFO - [car_keyword_extraction.py:329] - 成功处理表 buick_gl8，耗时 22.10 秒
+2025-05-03 19:14:37,687 - INFO - [car_keyword_extraction.py:282] - 开始处理表: honda_odyssey
+2025-05-03 19:14:37,741 - INFO - [car_keyword_extraction.py:303] - 处理表 honda_odyssey 的情感类型 0
+2025-05-03 19:14:42,124 - INFO - [car_keyword_extraction.py:322] - 表 honda_odyssey 情感类型 0 生成关键词数量: 70
+2025-05-03 19:14:42,124 - INFO - [car_keyword_extraction.py:303] - 处理表 honda_odyssey 的情感类型 1
+2025-05-03 19:14:46,509 - INFO - [car_keyword_extraction.py:322] - 表 honda_odyssey 情感类型 1 生成关键词数量: 70
+2025-05-03 19:14:46,509 - INFO - [car_keyword_extraction.py:303] - 处理表 honda_odyssey 的情感类型 2
+2025-05-03 19:14:50,956 - INFO - [car_keyword_extraction.py:322] - 表 honda_odyssey 情感类型 2 生成关键词数量: 70
+2025-05-03 19:14:50,956 - INFO - [car_keyword_extraction.py:303] - 处理表 honda_odyssey 的情感类型 3
+2025-05-03 19:14:55,324 - INFO - [car_keyword_extraction.py:322] - 表 honda_odyssey 情感类型 3 生成关键词数量: 70
+2025-05-03 19:14:55,324 - INFO - [car_keyword_extraction.py:303] - 处理表 honda_odyssey 的情感类型 4
+2025-05-03 19:15:00,424 - INFO - [car_keyword_extraction.py:322] - 表 honda_odyssey 情感类型 4 生成关键词数量: 70
+2025-05-03 19:15:00,424 - INFO - [car_keyword_extraction.py:329] - 成功处理表 honda_odyssey，耗时 22.74 秒
+2025-05-03 19:15:00,424 - INFO - [car_keyword_extraction.py:282] - 开始处理表: toyota_sienna
+2025-05-03 19:15:00,458 - INFO - [car_keyword_extraction.py:303] - 处理表 toyota_sienna 的情感类型 0
+2025-05-03 19:15:04,907 - INFO - [car_keyword_extraction.py:322] - 表 toyota_sienna 情感类型 0 生成关键词数量: 70
+2025-05-03 19:15:04,907 - INFO - [car_keyword_extraction.py:303] - 处理表 toyota_sienna 的情感类型 1
+2025-05-03 19:15:09,404 - INFO - [car_keyword_extraction.py:322] - 表 toyota_sienna 情感类型 1 生成关键词数量: 70
+2025-05-03 19:15:09,404 - INFO - [car_keyword_extraction.py:303] - 处理表 toyota_sienna 的情感类型 2
+2025-05-03 19:15:17,767 - INFO - [car_keyword_extraction.py:322] - 表 toyota_sienna 情感类型 2 生成关键词数量: 70
+2025-05-03 19:15:17,767 - INFO - [car_keyword_extraction.py:303] - 处理表 toyota_sienna 的情感类型 3
+2025-05-03 19:15:22,905 - INFO - [car_keyword_extraction.py:322] - 表 toyota_sienna 情感类型 3 生成关键词数量: 70
+2025-05-03 19:15:22,905 - INFO - [car_keyword_extraction.py:303] - 处理表 toyota_sienna 的情感类型 4
+2025-05-03 19:15:27,780 - INFO - [car_keyword_extraction.py:322] - 表 toyota_sienna 情感类型 4 生成关键词数量: 70
+2025-05-03 19:15:27,781 - INFO - [car_keyword_extraction.py:329] - 成功处理表 toyota_sienna，耗时 27.36 秒
+2025-05-03 19:15:27,782 - INFO - [car_keyword_extraction.py:282] - 开始处理表: saic_volkswagen_viloran
+2025-05-03 19:15:27,832 - INFO - [car_keyword_extraction.py:303] - 处理表 saic_volkswagen_viloran 的情感类型 0
+2025-05-03 19:15:32,596 - INFO - [car_keyword_extraction.py:322] - 表 saic_volkswagen_viloran 情感类型 0 生成关键词数量: 70
+2025-05-03 19:15:32,596 - INFO - [car_keyword_extraction.py:303] - 处理表 saic_volkswagen_viloran 的情感类型 1
+2025-05-03 19:15:36,867 - INFO - [car_keyword_extraction.py:322] - 表 saic_volkswagen_viloran 情感类型 1 生成关键词数量: 70
+2025-05-03 19:15:36,867 - INFO - [car_keyword_extraction.py:303] - 处理表 saic_volkswagen_viloran 的情感类型 2
+2025-05-03 19:15:41,105 - INFO - [car_keyword_extraction.py:322] - 表 saic_volkswagen_viloran 情感类型 2 生成关键词数量: 70
+2025-05-03 19:15:41,107 - INFO - [car_keyword_extraction.py:303] - 处理表 saic_volkswagen_viloran 的情感类型 3
+2025-05-03 19:15:45,360 - INFO - [car_keyword_extraction.py:322] - 表 saic_volkswagen_viloran 情感类型 3 生成关键词数量: 70
+2025-05-03 19:15:45,360 - INFO - [car_keyword_extraction.py:303] - 处理表 saic_volkswagen_viloran 的情感类型 4
+2025-05-03 19:15:49,622 - INFO - [car_keyword_extraction.py:322] - 表 saic_volkswagen_viloran 情感类型 4 生成关键词数量: 70
+2025-05-03 19:15:49,624 - INFO - [car_keyword_extraction.py:329] - 成功处理表 saic_volkswagen_viloran，耗时 21.84 秒
+2025-05-03 19:15:49,624 - INFO - [car_keyword_extraction.py:282] - 开始处理表: byd_han
+2025-05-03 19:15:49,668 - INFO - [car_keyword_extraction.py:303] - 处理表 byd_han 的情感类型 0
+2025-05-03 19:15:53,889 - INFO - [car_keyword_extraction.py:322] - 表 byd_han 情感类型 0 生成关键词数量: 70
+2025-05-03 19:15:53,889 - INFO - [car_keyword_extraction.py:303] - 处理表 byd_han 的情感类型 1
+2025-05-03 19:15:58,208 - INFO - [car_keyword_extraction.py:322] - 表 byd_han 情感类型 1 生成关键词数量: 70
+2025-05-03 19:15:58,209 - INFO - [car_keyword_extraction.py:303] - 处理表 byd_han 的情感类型 2
+2025-05-03 19:16:02,846 - INFO - [car_keyword_extraction.py:322] - 表 byd_han 情感类型 2 生成关键词数量: 70
+2025-05-03 19:16:02,846 - INFO - [car_keyword_extraction.py:303] - 处理表 byd_han 的情感类型 3
+2025-05-03 19:16:07,161 - INFO - [car_keyword_extraction.py:322] - 表 byd_han 情感类型 3 生成关键词数量: 70
+2025-05-03 19:16:07,161 - INFO - [car_keyword_extraction.py:303] - 处理表 byd_han 的情感类型 4
+2025-05-03 19:16:11,841 - INFO - [car_keyword_extraction.py:322] - 表 byd_han 情感类型 4 生成关键词数量: 70
+2025-05-03 19:16:11,841 - INFO - [car_keyword_extraction.py:329] - 成功处理表 byd_han，耗时 22.22 秒
+2025-05-03 19:16:11,841 - INFO - [car_keyword_extraction.py:282] - 开始处理表: gac_aion_aion_s
+2025-05-03 19:16:11,886 - INFO - [car_keyword_extraction.py:303] - 处理表 gac_aion_aion_s 的情感类型 0
+2025-05-03 19:16:16,203 - INFO - [car_keyword_extraction.py:322] - 表 gac_aion_aion_s 情感类型 0 生成关键词数量: 70
+2025-05-03 19:16:16,218 - INFO - [car_keyword_extraction.py:303] - 处理表 gac_aion_aion_s 的情感类型 1
+2025-05-03 19:16:20,405 - INFO - [car_keyword_extraction.py:322] - 表 gac_aion_aion_s 情感类型 1 生成关键词数量: 70
+2025-05-03 19:16:20,405 - INFO - [car_keyword_extraction.py:303] - 处理表 gac_aion_aion_s 的情感类型 2
+2025-05-03 19:16:24,511 - INFO - [car_keyword_extraction.py:322] - 表 gac_aion_aion_s 情感类型 2 生成关键词数量: 70
+2025-05-03 19:16:24,511 - INFO - [car_keyword_extraction.py:303] - 处理表 gac_aion_aion_s 的情感类型 3
+2025-05-03 19:16:29,724 - INFO - [car_keyword_extraction.py:322] - 表 gac_aion_aion_s 情感类型 3 生成关键词数量: 70
+2025-05-03 19:16:29,724 - INFO - [car_keyword_extraction.py:303] - 处理表 gac_aion_aion_s 的情感类型 4
+2025-05-03 19:16:35,875 - INFO - [car_keyword_extraction.py:322] - 表 gac_aion_aion_s 情感类型 4 生成关键词数量: 70
+2025-05-03 19:16:35,875 - INFO - [car_keyword_extraction.py:329] - 成功处理表 gac_aion_aion_s，耗时 24.03 秒
+2025-05-03 19:16:35,875 - INFO - [car_keyword_extraction.py:282] - 开始处理表: tesla_model_3
+2025-05-03 19:16:35,920 - INFO - [car_keyword_extraction.py:303] - 处理表 tesla_model_3 的情感类型 0
+2025-05-03 19:16:40,660 - INFO - [car_keyword_extraction.py:322] - 表 tesla_model_3 情感类型 0 生成关键词数量: 70
+2025-05-03 19:16:40,660 - INFO - [car_keyword_extraction.py:303] - 处理表 tesla_model_3 的情感类型 1
+2025-05-03 19:16:45,637 - INFO - [car_keyword_extraction.py:322] - 表 tesla_model_3 情感类型 1 生成关键词数量: 70
+2025-05-03 19:16:45,637 - INFO - [car_keyword_extraction.py:303] - 处理表 tesla_model_3 的情感类型 2
+2025-05-03 19:16:50,139 - INFO - [car_keyword_extraction.py:322] - 表 tesla_model_3 情感类型 2 生成关键词数量: 70
+2025-05-03 19:16:50,139 - INFO - [car_keyword_extraction.py:303] - 处理表 tesla_model_3 的情感类型 3
+2025-05-03 19:16:54,393 - INFO - [car_keyword_extraction.py:322] - 表 tesla_model_3 情感类型 3 生成关键词数量: 70
+2025-05-03 19:16:54,393 - INFO - [car_keyword_extraction.py:303] - 处理表 tesla_model_3 的情感类型 4
+2025-05-03 19:16:58,794 - INFO - [car_keyword_extraction.py:322] - 表 tesla_model_3 情感类型 4 生成关键词数量: 70
+2025-05-03 19:16:58,795 - INFO - [car_keyword_extraction.py:329] - 成功处理表 tesla_model_3，耗时 22.92 秒
+2025-05-03 19:16:58,795 - INFO - [car_keyword_extraction.py:282] - 开始处理表: bmw_i3
+2025-05-03 19:16:58,846 - INFO - [car_keyword_extraction.py:303] - 处理表 bmw_i3 的情感类型 0
+2025-05-03 19:17:02,964 - INFO - [car_keyword_extraction.py:322] - 表 bmw_i3 情感类型 0 生成关键词数量: 70
+2025-05-03 19:17:02,964 - INFO - [car_keyword_extraction.py:303] - 处理表 bmw_i3 的情感类型 1
+2025-05-03 19:17:07,218 - INFO - [car_keyword_extraction.py:322] - 表 bmw_i3 情感类型 1 生成关键词数量: 70
+2025-05-03 19:17:07,218 - INFO - [car_keyword_extraction.py:303] - 处理表 bmw_i3 的情感类型 2
+2025-05-03 19:17:11,313 - INFO - [car_keyword_extraction.py:322] - 表 bmw_i3 情感类型 2 生成关键词数量: 70
+2025-05-03 19:17:11,313 - INFO - [car_keyword_extraction.py:303] - 处理表 bmw_i3 的情感类型 3
+2025-05-03 19:17:15,500 - INFO - [car_keyword_extraction.py:322] - 表 bmw_i3 情感类型 3 生成关键词数量: 70
+2025-05-03 19:17:15,500 - INFO - [car_keyword_extraction.py:303] - 处理表 bmw_i3 的情感类型 4
+2025-05-03 19:17:20,324 - INFO - [car_keyword_extraction.py:322] - 表 bmw_i3 情感类型 4 生成关键词数量: 70
+2025-05-03 19:17:20,325 - INFO - [car_keyword_extraction.py:329] - 成功处理表 bmw_i3，耗时 21.53 秒
+2025-05-03 19:17:20,326 - INFO - [car_keyword_extraction.py:282] - 开始处理表: mercedes_benz_eqc
+2025-05-03 19:17:20,371 - INFO - [car_keyword_extraction.py:303] - 处理表 mercedes_benz_eqc 的情感类型 0
+2025-05-03 19:17:24,717 - INFO - [car_keyword_extraction.py:322] - 表 mercedes_benz_eqc 情感类型 0 生成关键词数量: 70
+2025-05-03 19:17:24,718 - INFO - [car_keyword_extraction.py:303] - 处理表 mercedes_benz_eqc 的情感类型 1
+2025-05-03 19:17:29,639 - INFO - [car_keyword_extraction.py:322] - 表 mercedes_benz_eqc 情感类型 1 生成关键词数量: 70
+2025-05-03 19:17:29,639 - INFO - [car_keyword_extraction.py:303] - 处理表 mercedes_benz_eqc 的情感类型 2
+2025-05-03 19:17:34,367 - INFO - [car_keyword_extraction.py:322] - 表 mercedes_benz_eqc 情感类型 2 生成关键词数量: 70
+2025-05-03 19:17:34,367 - INFO - [car_keyword_extraction.py:303] - 处理表 mercedes_benz_eqc 的情感类型 3
+2025-05-03 19:17:38,926 - INFO - [car_keyword_extraction.py:322] - 表 mercedes_benz_eqc 情感类型 3 生成关键词数量: 70
+2025-05-03 19:17:38,926 - INFO - [car_keyword_extraction.py:303] - 处理表 mercedes_benz_eqc 的情感类型 4
+2025-05-03 19:17:43,440 - INFO - [car_keyword_extraction.py:322] - 表 mercedes_benz_eqc 情感类型 4 生成关键词数量: 70
+2025-05-03 19:17:43,440 - INFO - [car_keyword_extraction.py:329] - 成功处理表 mercedes_benz_eqc，耗时 23.11 秒
+2025-05-03 19:17:43,440 - INFO - [car_keyword_extraction.py:282] - 开始处理表: byd_qin_plus_ev
+2025-05-03 19:17:43,503 - INFO - [car_keyword_extraction.py:303] - 处理表 byd_qin_plus_ev 的情感类型 0
+2025-05-03 19:17:48,554 - INFO - [car_keyword_extraction.py:322] - 表 byd_qin_plus_ev 情感类型 0 生成关键词数量: 70
+2025-05-03 19:17:48,554 - INFO - [car_keyword_extraction.py:303] - 处理表 byd_qin_plus_ev 的情感类型 1
+2025-05-03 19:17:52,448 - INFO - [car_keyword_extraction.py:322] - 表 byd_qin_plus_ev 情感类型 1 生成关键词数量: 70
+2025-05-03 19:17:52,448 - INFO - [car_keyword_extraction.py:303] - 处理表 byd_qin_plus_ev 的情感类型 2
+2025-05-03 19:17:56,734 - INFO - [car_keyword_extraction.py:322] - 表 byd_qin_plus_ev 情感类型 2 生成关键词数量: 70
+2025-05-03 19:17:56,734 - INFO - [car_keyword_extraction.py:303] - 处理表 byd_qin_plus_ev 的情感类型 3
+2025-05-03 19:18:01,005 - INFO - [car_keyword_extraction.py:322] - 表 byd_qin_plus_ev 情感类型 3 生成关键词数量: 70
+2025-05-03 19:18:01,005 - INFO - [car_keyword_extraction.py:303] - 处理表 byd_qin_plus_ev 的情感类型 4
+2025-05-03 19:18:05,576 - INFO - [car_keyword_extraction.py:322] - 表 byd_qin_plus_ev 情感类型 4 生成关键词数量: 70
+2025-05-03 19:18:05,577 - INFO - [car_keyword_extraction.py:329] - 成功处理表 byd_qin_plus_ev，耗时 22.14 秒
+2025-05-03 19:18:05,577 - INFO - [car_keyword_extraction.py:282] - 开始处理表: nio_et5
+2025-05-03 19:18:05,630 - INFO - [car_keyword_extraction.py:303] - 处理表 nio_et5 的情感类型 0
+2025-05-03 19:18:10,493 - INFO - [car_keyword_extraction.py:322] - 表 nio_et5 情感类型 0 生成关键词数量: 70
+2025-05-03 19:18:10,493 - INFO - [car_keyword_extraction.py:303] - 处理表 nio_et5 的情感类型 1
+2025-05-03 19:18:15,776 - INFO - [car_keyword_extraction.py:322] - 表 nio_et5 情感类型 1 生成关键词数量: 70
+2025-05-03 19:18:15,776 - INFO - [car_keyword_extraction.py:303] - 处理表 nio_et5 的情感类型 2
+2025-05-03 19:18:21,922 - INFO - [car_keyword_extraction.py:322] - 表 nio_et5 情感类型 2 生成关键词数量: 70
+2025-05-03 19:18:21,922 - INFO - [car_keyword_extraction.py:303] - 处理表 nio_et5 的情感类型 3
+2025-05-03 19:18:28,329 - INFO - [car_keyword_extraction.py:322] - 表 nio_et5 情感类型 3 生成关键词数量: 70
+2025-05-03 19:18:28,329 - INFO - [car_keyword_extraction.py:303] - 处理表 nio_et5 的情感类型 4
+2025-05-03 19:18:34,743 - INFO - [car_keyword_extraction.py:322] - 表 nio_et5 情感类型 4 生成关键词数量: 70
+2025-05-03 19:18:34,743 - INFO - [car_keyword_extraction.py:329] - 成功处理表 nio_et5，耗时 29.17 秒
+2025-05-03 19:18:34,743 - INFO - [car_keyword_extraction.py:282] - 开始处理表: xpeng_p7
+2025-05-03 19:18:34,791 - INFO - [car_keyword_extraction.py:303] - 处理表 xpeng_p7 的情感类型 0
+2025-05-03 19:18:39,779 - INFO - [car_keyword_extraction.py:322] - 表 xpeng_p7 情感类型 0 生成关键词数量: 70
+2025-05-03 19:18:39,779 - INFO - [car_keyword_extraction.py:303] - 处理表 xpeng_p7 的情感类型 1
+2025-05-03 19:18:44,939 - INFO - [car_keyword_extraction.py:322] - 表 xpeng_p7 情感类型 1 生成关键词数量: 70
+2025-05-03 19:18:44,939 - INFO - [car_keyword_extraction.py:303] - 处理表 xpeng_p7 的情感类型 2
+2025-05-03 19:18:49,944 - INFO - [car_keyword_extraction.py:322] - 表 xpeng_p7 情感类型 2 生成关键词数量: 70
+2025-05-03 19:18:49,944 - INFO - [car_keyword_extraction.py:303] - 处理表 xpeng_p7 的情感类型 3
+2025-05-03 19:18:54,729 - INFO - [car_keyword_extraction.py:322] - 表 xpeng_p7 情感类型 3 生成关键词数量: 70
+2025-05-03 19:18:54,729 - INFO - [car_keyword_extraction.py:303] - 处理表 xpeng_p7 的情感类型 4
+2025-05-03 19:18:59,853 - INFO - [car_keyword_extraction.py:322] - 表 xpeng_p7 情感类型 4 生成关键词数量: 70
+2025-05-03 19:18:59,856 - INFO - [car_keyword_extraction.py:329] - 成功处理表 xpeng_p7，耗时 25.11 秒
+2025-05-03 19:18:59,856 - INFO - [car_keyword_extraction.py:282] - 开始处理表: xiaomi_su7
+2025-05-03 19:18:59,908 - INFO - [car_keyword_extraction.py:303] - 处理表 xiaomi_su7 的情感类型 0
+2025-05-03 19:19:04,902 - INFO - [car_keyword_extraction.py:322] - 表 xiaomi_su7 情感类型 0 生成关键词数量: 70
+2025-05-03 19:19:04,903 - INFO - [car_keyword_extraction.py:303] - 处理表 xiaomi_su7 的情感类型 1
+2025-05-03 19:19:10,416 - INFO - [car_keyword_extraction.py:322] - 表 xiaomi_su7 情感类型 1 生成关键词数量: 70
+2025-05-03 19:19:10,416 - INFO - [car_keyword_extraction.py:303] - 处理表 xiaomi_su7 的情感类型 2
+2025-05-03 19:19:15,461 - INFO - [car_keyword_extraction.py:322] - 表 xiaomi_su7 情感类型 2 生成关键词数量: 70
+2025-05-03 19:19:15,461 - INFO - [car_keyword_extraction.py:303] - 处理表 xiaomi_su7 的情感类型 3
+2025-05-03 19:19:20,669 - INFO - [car_keyword_extraction.py:322] - 表 xiaomi_su7 情感类型 3 生成关键词数量: 70
+2025-05-03 19:19:20,670 - INFO - [car_keyword_extraction.py:303] - 处理表 xiaomi_su7 的情感类型 4
+2025-05-03 19:19:26,575 - INFO - [car_keyword_extraction.py:322] - 表 xiaomi_su7 情感类型 4 生成关键词数量: 70
+2025-05-03 19:19:26,576 - INFO - [car_keyword_extraction.py:329] - 成功处理表 xiaomi_su7，耗时 26.72 秒
+2025-05-03 19:19:26,576 - INFO - [car_keyword_extraction.py:282] - 开始处理表: chery_fengyun_a8
+2025-05-03 19:19:26,621 - INFO - [car_keyword_extraction.py:303] - 处理表 chery_fengyun_a8 的情感类型 0
+2025-05-03 19:19:31,407 - INFO - [car_keyword_extraction.py:322] - 表 chery_fengyun_a8 情感类型 0 生成关键词数量: 0
+2025-05-03 19:19:31,407 - INFO - [car_keyword_extraction.py:303] - 处理表 chery_fengyun_a8 的情感类型 1
+2025-05-03 19:19:34,571 - INFO - [car_keyword_extraction.py:322] - 表 chery_fengyun_a8 情感类型 1 生成关键词数量: 0
+2025-05-03 19:19:34,571 - INFO - [car_keyword_extraction.py:303] - 处理表 chery_fengyun_a8 的情感类型 2
+2025-05-03 19:19:38,482 - INFO - [car_keyword_extraction.py:322] - 表 chery_fengyun_a8 情感类型 2 生成关键词数量: 0
+2025-05-03 19:19:38,484 - INFO - [car_keyword_extraction.py:303] - 处理表 chery_fengyun_a8 的情感类型 3
+2025-05-03 19:19:41,556 - INFO - [car_keyword_extraction.py:322] - 表 chery_fengyun_a8 情感类型 3 生成关键词数量: 0
+2025-05-03 19:19:41,556 - INFO - [car_keyword_extraction.py:303] - 处理表 chery_fengyun_a8 的情感类型 4
+2025-05-03 19:19:44,744 - INFO - [car_keyword_extraction.py:322] - 表 chery_fengyun_a8 情感类型 4 生成关键词数量: 0
+2025-05-03 19:19:44,744 - INFO - [car_keyword_extraction.py:329] - 成功处理表 chery_fengyun_a8，耗时 18.17 秒
+2025-05-03 19:19:44,744 - INFO - [car_keyword_extraction.py:282] - 开始处理表: byd_song_plus_ev
+2025-05-03 19:19:44,787 - INFO - [car_keyword_extraction.py:303] - 处理表 byd_song_plus_ev 的情感类型 0
+2025-05-03 19:19:47,931 - INFO - [car_keyword_extraction.py:322] - 表 byd_song_plus_ev 情感类型 0 生成关键词数量: 0
+2025-05-03 19:19:47,931 - INFO - [car_keyword_extraction.py:303] - 处理表 byd_song_plus_ev 的情感类型 1
+2025-05-03 19:19:51,282 - INFO - [car_keyword_extraction.py:322] - 表 byd_song_plus_ev 情感类型 1 生成关键词数量: 0
+2025-05-03 19:19:51,282 - INFO - [car_keyword_extraction.py:303] - 处理表 byd_song_plus_ev 的情感类型 2
+2025-05-03 19:19:55,560 - INFO - [car_keyword_extraction.py:322] - 表 byd_song_plus_ev 情感类型 2 生成关键词数量: 0
+2025-05-03 19:19:55,560 - INFO - [car_keyword_extraction.py:303] - 处理表 byd_song_plus_ev 的情感类型 3
+2025-05-03 19:19:59,283 - INFO - [car_keyword_extraction.py:322] - 表 byd_song_plus_ev 情感类型 3 生成关键词数量: 0
+2025-05-03 19:19:59,283 - INFO - [car_keyword_extraction.py:303] - 处理表 byd_song_plus_ev 的情感类型 4
+2025-05-03 19:20:02,811 - INFO - [car_keyword_extraction.py:322] - 表 byd_song_plus_ev 情感类型 4 生成关键词数量: 0
+2025-05-03 19:20:02,812 - INFO - [car_keyword_extraction.py:329] - 成功处理表 byd_song_plus_ev，耗时 18.07 秒
+2025-05-03 19:20:02,812 - INFO - [car_keyword_extraction.py:282] - 开始处理表: gac_aion_aion_y
+2025-05-03 19:20:02,858 - INFO - [car_keyword_extraction.py:303] - 处理表 gac_aion_aion_y 的情感类型 0
+2025-05-03 19:20:06,220 - INFO - [car_keyword_extraction.py:322] - 表 gac_aion_aion_y 情感类型 0 生成关键词数量: 0
+2025-05-03 19:20:06,220 - INFO - [car_keyword_extraction.py:303] - 处理表 gac_aion_aion_y 的情感类型 1
+2025-05-03 19:20:09,389 - INFO - [car_keyword_extraction.py:322] - 表 gac_aion_aion_y 情感类型 1 生成关键词数量: 0
+2025-05-03 19:20:09,389 - INFO - [car_keyword_extraction.py:303] - 处理表 gac_aion_aion_y 的情感类型 2
+2025-05-03 19:20:12,384 - INFO - [car_keyword_extraction.py:322] - 表 gac_aion_aion_y 情感类型 2 生成关键词数量: 0
+2025-05-03 19:20:12,384 - INFO - [car_keyword_extraction.py:303] - 处理表 gac_aion_aion_y 的情感类型 3
+2025-05-03 19:20:15,357 - INFO - [car_keyword_extraction.py:322] - 表 gac_aion_aion_y 情感类型 3 生成关键词数量: 0
+2025-05-03 19:20:15,357 - INFO - [car_keyword_extraction.py:303] - 处理表 gac_aion_aion_y 的情感类型 4
+2025-05-03 19:20:18,314 - INFO - [car_keyword_extraction.py:322] - 表 gac_aion_aion_y 情感类型 4 生成关键词数量: 0
+2025-05-03 19:20:18,316 - INFO - [car_keyword_extraction.py:329] - 成功处理表 gac_aion_aion_y，耗时 15.50 秒
+2025-05-03 19:20:18,317 - INFO - [car_keyword_extraction.py:282] - 开始处理表: tesla_model_y
+2025-05-03 19:20:18,374 - INFO - [car_keyword_extraction.py:303] - 处理表 tesla_model_y 的情感类型 0
+2025-05-03 19:20:21,550 - INFO - [car_keyword_extraction.py:322] - 表 tesla_model_y 情感类型 0 生成关键词数量: 0
+2025-05-03 19:20:21,550 - INFO - [car_keyword_extraction.py:303] - 处理表 tesla_model_y 的情感类型 1
+2025-05-03 19:20:24,843 - INFO - [car_keyword_extraction.py:322] - 表 tesla_model_y 情感类型 1 生成关键词数量: 0
+2025-05-03 19:20:24,843 - INFO - [car_keyword_extraction.py:303] - 处理表 tesla_model_y 的情感类型 2
+2025-05-03 19:20:28,282 - INFO - [car_keyword_extraction.py:322] - 表 tesla_model_y 情感类型 2 生成关键词数量: 0
+2025-05-03 19:20:28,282 - INFO - [car_keyword_extraction.py:303] - 处理表 tesla_model_y 的情感类型 3
+2025-05-03 19:20:31,604 - INFO - [car_keyword_extraction.py:322] - 表 tesla_model_y 情感类型 3 生成关键词数量: 0
+2025-05-03 19:20:31,604 - INFO - [car_keyword_extraction.py:303] - 处理表 tesla_model_y 的情感类型 4
+2025-05-03 19:20:34,632 - INFO - [car_keyword_extraction.py:322] - 表 tesla_model_y 情感类型 4 生成关键词数量: 0
+2025-05-03 19:20:34,633 - INFO - [car_keyword_extraction.py:329] - 成功处理表 tesla_model_y，耗时 16.32 秒
+2025-05-03 19:20:34,633 - INFO - [car_keyword_extraction.py:282] - 开始处理表: nio_es6
+2025-05-03 19:20:34,675 - INFO - [car_keyword_extraction.py:303] - 处理表 nio_es6 的情感类型 0
+2025-05-03 19:20:37,939 - INFO - [car_keyword_extraction.py:322] - 表 nio_es6 情感类型 0 生成关键词数量: 0
+2025-05-03 19:20:37,939 - INFO - [car_keyword_extraction.py:303] - 处理表 nio_es6 的情感类型 1
+2025-05-03 19:20:41,292 - INFO - [car_keyword_extraction.py:322] - 表 nio_es6 情感类型 1 生成关键词数量: 0
+2025-05-03 19:20:41,292 - INFO - [car_keyword_extraction.py:303] - 处理表 nio_es6 的情感类型 2
+2025-05-03 19:20:44,472 - INFO - [car_keyword_extraction.py:322] - 表 nio_es6 情感类型 2 生成关键词数量: 0
+2025-05-03 19:20:44,472 - INFO - [car_keyword_extraction.py:303] - 处理表 nio_es6 的情感类型 3
+2025-05-03 19:20:47,692 - INFO - [car_keyword_extraction.py:322] - 表 nio_es6 情感类型 3 生成关键词数量: 0
+2025-05-03 19:20:47,692 - INFO - [car_keyword_extraction.py:303] - 处理表 nio_es6 的情感类型 4
+2025-05-03 19:20:50,772 - INFO - [car_keyword_extraction.py:322] - 表 nio_es6 情感类型 4 生成关键词数量: 0
+2025-05-03 19:20:50,782 - INFO - [car_keyword_extraction.py:329] - 成功处理表 nio_es6，耗时 16.15 秒
+2025-05-03 19:20:50,782 - INFO - [car_keyword_extraction.py:282] - 开始处理表: xpeng_g6
+2025-05-03 19:20:50,831 - INFO - [car_keyword_extraction.py:303] - 处理表 xpeng_g6 的情感类型 0
+2025-05-03 19:20:54,238 - INFO - [car_keyword_extraction.py:322] - 表 xpeng_g6 情感类型 0 生成关键词数量: 0
+2025-05-03 19:20:54,238 - INFO - [car_keyword_extraction.py:303] - 处理表 xpeng_g6 的情感类型 1
+2025-05-03 19:20:57,406 - INFO - [car_keyword_extraction.py:322] - 表 xpeng_g6 情感类型 1 生成关键词数量: 0
+2025-05-03 19:20:57,406 - INFO - [car_keyword_extraction.py:303] - 处理表 xpeng_g6 的情感类型 2
+2025-05-03 19:21:00,652 - INFO - [car_keyword_extraction.py:322] - 表 xpeng_g6 情感类型 2 生成关键词数量: 0
+2025-05-03 19:21:00,652 - INFO - [car_keyword_extraction.py:303] - 处理表 xpeng_g6 的情感类型 3
+2025-05-03 19:21:03,827 - INFO - [car_keyword_extraction.py:322] - 表 xpeng_g6 情感类型 3 生成关键词数量: 0
+2025-05-03 19:21:03,829 - INFO - [car_keyword_extraction.py:303] - 处理表 xpeng_g6 的情感类型 4
+2025-05-03 19:21:07,944 - INFO - [car_keyword_extraction.py:322] - 表 xpeng_g6 情感类型 4 生成关键词数量: 0
+2025-05-03 19:21:07,944 - INFO - [car_keyword_extraction.py:329] - 成功处理表 xpeng_g6，耗时 17.16 秒
+2025-05-03 19:21:07,944 - INFO - [car_keyword_extraction.py:282] - 开始处理表: voyah_dreamer
+2025-05-03 19:21:08,006 - INFO - [car_keyword_extraction.py:303] - 处理表 voyah_dreamer 的情感类型 0
+2025-05-03 19:21:11,756 - INFO - [car_keyword_extraction.py:322] - 表 voyah_dreamer 情感类型 0 生成关键词数量: 0
+2025-05-03 19:21:11,757 - INFO - [car_keyword_extraction.py:303] - 处理表 voyah_dreamer 的情感类型 1
+2025-05-03 19:21:15,126 - INFO - [car_keyword_extraction.py:322] - 表 voyah_dreamer 情感类型 1 生成关键词数量: 0
+2025-05-03 19:21:15,126 - INFO - [car_keyword_extraction.py:303] - 处理表 voyah_dreamer 的情感类型 2
+2025-05-03 19:21:18,480 - INFO - [car_keyword_extraction.py:322] - 表 voyah_dreamer 情感类型 2 生成关键词数量: 0
+2025-05-03 19:21:18,480 - INFO - [car_keyword_extraction.py:303] - 处理表 voyah_dreamer 的情感类型 3
+2025-05-03 19:21:21,769 - INFO - [car_keyword_extraction.py:322] - 表 voyah_dreamer 情感类型 3 生成关键词数量: 0
+2025-05-03 19:21:21,769 - INFO - [car_keyword_extraction.py:303] - 处理表 voyah_dreamer 的情感类型 4
+2025-05-03 19:21:25,260 - INFO - [car_keyword_extraction.py:322] - 表 voyah_dreamer 情感类型 4 生成关键词数量: 0
+2025-05-03 19:21:25,262 - INFO - [car_keyword_extraction.py:329] - 成功处理表 voyah_dreamer，耗时 17.32 秒
+2025-05-03 19:21:25,262 - INFO - [car_keyword_extraction.py:282] - 开始处理表: denza_d9
+2025-05-03 19:21:25,312 - INFO - [car_keyword_extraction.py:303] - 处理表 denza_d9 的情感类型 0
+2025-05-03 19:21:29,072 - INFO - [car_keyword_extraction.py:322] - 表 denza_d9 情感类型 0 生成关键词数量: 0
+2025-05-03 19:21:29,076 - INFO - [car_keyword_extraction.py:303] - 处理表 denza_d9 的情感类型 1
+2025-05-03 19:21:32,847 - INFO - [car_keyword_extraction.py:322] - 表 denza_d9 情感类型 1 生成关键词数量: 0
+2025-05-03 19:21:32,847 - INFO - [car_keyword_extraction.py:303] - 处理表 denza_d9 的情感类型 2
+2025-05-03 19:21:37,400 - INFO - [car_keyword_extraction.py:322] - 表 denza_d9 情感类型 2 生成关键词数量: 0
+2025-05-03 19:21:37,400 - INFO - [car_keyword_extraction.py:303] - 处理表 denza_d9 的情感类型 3
+2025-05-03 19:21:41,099 - INFO - [car_keyword_extraction.py:322] - 表 denza_d9 情感类型 3 生成关键词数量: 0
+2025-05-03 19:21:41,101 - INFO - [car_keyword_extraction.py:303] - 处理表 denza_d9 的情感类型 4
+2025-05-03 19:21:44,694 - INFO - [car_keyword_extraction.py:322] - 表 denza_d9 情感类型 4 生成关键词数量: 0
+2025-05-03 19:21:44,695 - INFO - [car_keyword_extraction.py:329] - 成功处理表 denza_d9，耗时 19.43 秒
+2025-05-03 19:21:44,695 - INFO - [car_keyword_extraction.py:282] - 开始处理表: gac_trumpchi_e9
+2025-05-03 19:21:44,737 - INFO - [car_keyword_extraction.py:303] - 处理表 gac_trumpchi_e9 的情感类型 0
+2025-05-03 19:21:47,762 - INFO - [car_keyword_extraction.py:322] - 表 gac_trumpchi_e9 情感类型 0 生成关键词数量: 0
+2025-05-03 19:21:47,762 - INFO - [car_keyword_extraction.py:303] - 处理表 gac_trumpchi_e9 的情感类型 1
+2025-05-03 19:21:50,896 - INFO - [car_keyword_extraction.py:322] - 表 gac_trumpchi_e9 情感类型 1 生成关键词数量: 0
+2025-05-03 19:21:50,896 - INFO - [car_keyword_extraction.py:303] - 处理表 gac_trumpchi_e9 的情感类型 2
+2025-05-03 19:21:53,972 - INFO - [car_keyword_extraction.py:322] - 表 gac_trumpchi_e9 情感类型 2 生成关键词数量: 0
+2025-05-03 19:21:53,972 - INFO - [car_keyword_extraction.py:303] - 处理表 gac_trumpchi_e9 的情感类型 3
+2025-05-03 19:21:56,999 - INFO - [car_keyword_extraction.py:322] - 表 gac_trumpchi_e9 情感类型 3 生成关键词数量: 0
+2025-05-03 19:21:57,000 - INFO - [car_keyword_extraction.py:303] - 处理表 gac_trumpchi_e9 的情感类型 4
+2025-05-03 19:22:00,308 - INFO - [car_keyword_extraction.py:322] - 表 gac_trumpchi_e9 情感类型 4 生成关键词数量: 0
+2025-05-03 19:22:00,308 - INFO - [car_keyword_extraction.py:329] - 成功处理表 gac_trumpchi_e9，耗时 15.61 秒
+2025-05-03 19:22:00,308 - INFO - [car_keyword_extraction.py:282] - 开始处理表: saic_roewe_imax8_ev
+2025-05-03 19:22:00,358 - INFO - [car_keyword_extraction.py:303] - 处理表 saic_roewe_imax8_ev 的情感类型 0
+2025-05-03 19:22:04,156 - INFO - [car_keyword_extraction.py:322] - 表 saic_roewe_imax8_ev 情感类型 0 生成关键词数量: 0
+2025-05-03 19:22:04,156 - INFO - [car_keyword_extraction.py:303] - 处理表 saic_roewe_imax8_ev 的情感类型 1
+2025-05-03 19:22:07,215 - INFO - [car_keyword_extraction.py:322] - 表 saic_roewe_imax8_ev 情感类型 1 生成关键词数量: 0
+2025-05-03 19:22:07,215 - INFO - [car_keyword_extraction.py:303] - 处理表 saic_roewe_imax8_ev 的情感类型 2
+2025-05-03 19:22:10,406 - INFO - [car_keyword_extraction.py:322] - 表 saic_roewe_imax8_ev 情感类型 2 生成关键词数量: 0
+2025-05-03 19:22:10,406 - INFO - [car_keyword_extraction.py:303] - 处理表 saic_roewe_imax8_ev 的情感类型 3
+2025-05-03 19:22:13,433 - INFO - [car_keyword_extraction.py:322] - 表 saic_roewe_imax8_ev 情感类型 3 生成关键词数量: 0
+2025-05-03 19:22:13,434 - INFO - [car_keyword_extraction.py:303] - 处理表 saic_roewe_imax8_ev 的情感类型 4
+2025-05-03 19:22:16,415 - INFO - [car_keyword_extraction.py:322] - 表 saic_roewe_imax8_ev 情感类型 4 生成关键词数量: 0
+2025-05-03 19:22:16,417 - INFO - [car_keyword_extraction.py:329] - 成功处理表 saic_roewe_imax8_ev，耗时 16.11 秒
+2025-05-03 19:22:16,417 - INFO - [car_keyword_extraction.py:282] - 开始处理表: xpeng_x9
+2025-05-03 19:22:16,457 - INFO - [car_keyword_extraction.py:303] - 处理表 xpeng_x9 的情感类型 0
+2025-05-03 19:22:19,566 - INFO - [car_keyword_extraction.py:322] - 表 xpeng_x9 情感类型 0 生成关键词数量: 0
+2025-05-03 19:22:19,566 - INFO - [car_keyword_extraction.py:303] - 处理表 xpeng_x9 的情感类型 1
+2025-05-03 19:22:22,686 - INFO - [car_keyword_extraction.py:322] - 表 xpeng_x9 情感类型 1 生成关键词数量: 0
+2025-05-03 19:22:22,686 - INFO - [car_keyword_extraction.py:303] - 处理表 xpeng_x9 的情感类型 2
+2025-05-03 19:22:26,186 - INFO - [car_keyword_extraction.py:322] - 表 xpeng_x9 情感类型 2 生成关键词数量: 0
+2025-05-03 19:22:26,186 - INFO - [car_keyword_extraction.py:303] - 处理表 xpeng_x9 的情感类型 3
+2025-05-03 19:22:30,501 - INFO - [car_keyword_extraction.py:322] - 表 xpeng_x9 情感类型 3 生成关键词数量: 0
+2025-05-03 19:22:30,503 - INFO - [car_keyword_extraction.py:303] - 处理表 xpeng_x9 的情感类型 4
+2025-05-03 19:22:33,698 - INFO - [car_keyword_extraction.py:322] - 表 xpeng_x9 情感类型 4 生成关键词数量: 0
+2025-05-03 19:22:33,698 - INFO - [car_keyword_extraction.py:329] - 成功处理表 xpeng_x9，耗时 17.28 秒
+2025-05-03 19:22:33,702 - INFO - [car_keyword_extraction.py:339] - 关键词提取处理完成
+2025-05-03 19:22:33,702 - INFO - [car_keyword_extraction.py:340] - 总耗时: 1097.24 秒
+2025-05-03 19:22:33,702 - INFO - [car_keyword_extraction.py:341] - 成功处理表数量: 50
+2025-05-03 19:22:33,702 - INFO - [car_keyword_extraction.py:342] - 失败表数量: 0

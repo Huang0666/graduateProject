@@ -1,0 +1,110 @@
+2025-05-03 11:18:34,191 - INFO - [car_keyword_extraction.py:189] - 开始关键词提取处理
+2025-05-03 11:18:34,191 - INFO - [car_keyword_extraction.py:192] - 正在创建Spark会话...
+2025-05-03 11:18:40,712 - INFO - [car_keyword_extraction.py:194] - Spark会话创建成功
+2025-05-03 11:18:40,713 - INFO - [car_keyword_extraction.py:200] - 已加载 1002 个停用词
+2025-05-03 11:18:40,713 - INFO - [car_keyword_extraction.py:203] - MySQL连接配置: {'driver': 'com.mysql.cj.jdbc.Driver', 'url': 'jdbc:mysql://localhost:3306/media_crawler_raw_data_dy', 'user': 'root', 'password': 'root'}
+2025-05-03 11:18:41,856 - INFO - [car_keyword_extraction.py:237] - 开始处理表: toyota_corolla
+2025-05-03 11:18:44,526 - INFO - [car_keyword_extraction.py:269] - 成功处理表 toyota_corolla，耗时 2.67 秒
+2025-05-03 11:18:44,526 - INFO - [car_keyword_extraction.py:237] - 开始处理表: nissan_sylphy
+2025-05-03 11:18:44,662 - INFO - [car_keyword_extraction.py:269] - 成功处理表 nissan_sylphy，耗时 0.14 秒
+2025-05-03 11:18:44,662 - INFO - [car_keyword_extraction.py:237] - 开始处理表: volvo_s60
+2025-05-03 11:18:44,772 - INFO - [car_keyword_extraction.py:269] - 成功处理表 volvo_s60，耗时 0.11 秒
+2025-05-03 11:18:44,772 - INFO - [car_keyword_extraction.py:237] - 开始处理表: volkswagen_lavida
+2025-05-03 11:18:44,874 - INFO - [car_keyword_extraction.py:269] - 成功处理表 volkswagen_lavida，耗时 0.10 秒
+2025-05-03 11:18:44,874 - INFO - [car_keyword_extraction.py:237] - 开始处理表: buick_excelle_gt
+2025-05-03 11:18:44,973 - INFO - [car_keyword_extraction.py:269] - 成功处理表 buick_excelle_gt，耗时 0.10 秒
+2025-05-03 11:18:44,974 - INFO - [car_keyword_extraction.py:237] - 开始处理表: volkswagen_sagitar
+2025-05-03 11:18:45,082 - INFO - [car_keyword_extraction.py:269] - 成功处理表 volkswagen_sagitar，耗时 0.11 秒
+2025-05-03 11:18:45,083 - INFO - [car_keyword_extraction.py:237] - 开始处理表: volkswagen_passat
+2025-05-03 11:18:45,202 - INFO - [car_keyword_extraction.py:269] - 成功处理表 volkswagen_passat，耗时 0.12 秒
+2025-05-03 11:18:45,202 - INFO - [car_keyword_extraction.py:237] - 开始处理表: cadillac_ct4
+2025-05-03 11:18:45,324 - INFO - [car_keyword_extraction.py:269] - 成功处理表 cadillac_ct4，耗时 0.12 秒
+2025-05-03 11:18:45,324 - INFO - [car_keyword_extraction.py:237] - 开始处理表: chery_arrizo_8
+2025-05-03 11:18:45,442 - INFO - [car_keyword_extraction.py:269] - 成功处理表 chery_arrizo_8，耗时 0.12 秒
+2025-05-03 11:18:45,442 - INFO - [car_keyword_extraction.py:237] - 开始处理表: honda_civic
+2025-05-03 11:18:45,547 - INFO - [car_keyword_extraction.py:269] - 成功处理表 honda_civic，耗时 0.11 秒
+2025-05-03 11:18:45,547 - INFO - [car_keyword_extraction.py:237] - 开始处理表: honda_accord
+2025-05-03 11:18:45,645 - INFO - [car_keyword_extraction.py:269] - 成功处理表 honda_accord，耗时 0.10 秒
+2025-05-03 11:18:45,645 - INFO - [car_keyword_extraction.py:237] - 开始处理表: geely_preface
+2025-05-03 11:18:45,742 - INFO - [car_keyword_extraction.py:269] - 成功处理表 geely_preface，耗时 0.10 秒
+2025-05-03 11:18:45,742 - INFO - [car_keyword_extraction.py:237] - 开始处理表: geely_emgrand
+2025-05-03 11:18:45,829 - INFO - [car_keyword_extraction.py:269] - 成功处理表 geely_emgrand，耗时 0.09 秒
+2025-05-03 11:18:45,829 - INFO - [car_keyword_extraction.py:237] - 开始处理表: hongqi_h5
+2025-05-03 11:18:45,936 - INFO - [car_keyword_extraction.py:269] - 成功处理表 hongqi_h5，耗时 0.11 秒
+2025-05-03 11:18:45,938 - INFO - [car_keyword_extraction.py:237] - 开始处理表: changan_eado
+2025-05-03 11:18:46,025 - INFO - [car_keyword_extraction.py:269] - 成功处理表 changan_eado，耗时 0.09 秒
+2025-05-03 11:18:46,025 - INFO - [car_keyword_extraction.py:237] - 开始处理表: geely_xingyue_l
+2025-05-03 11:18:46,118 - INFO - [car_keyword_extraction.py:269] - 成功处理表 geely_xingyue_l，耗时 0.09 秒
+2025-05-03 11:18:46,118 - INFO - [car_keyword_extraction.py:237] - 开始处理表: haval_h5
+2025-05-03 11:18:46,220 - INFO - [car_keyword_extraction.py:269] - 成功处理表 haval_h5，耗时 0.10 秒
+2025-05-03 11:18:46,220 - INFO - [car_keyword_extraction.py:237] - 开始处理表: tank_300
+2025-05-03 11:18:46,306 - INFO - [car_keyword_extraction.py:269] - 成功处理表 tank_300，耗时 0.09 秒
+2025-05-03 11:18:46,306 - INFO - [car_keyword_extraction.py:237] - 开始处理表: byd_song_pro
+2025-05-03 11:18:46,393 - INFO - [car_keyword_extraction.py:269] - 成功处理表 byd_song_pro，耗时 0.09 秒
+2025-05-03 11:18:46,393 - INFO - [car_keyword_extraction.py:237] - 开始处理表: saic_volkswagen_tiguan_l_pro
+2025-05-03 11:18:46,491 - INFO - [car_keyword_extraction.py:269] - 成功处理表 saic_volkswagen_tiguan_l_pro，耗时 0.10 秒
+2025-05-03 11:18:46,491 - INFO - [car_keyword_extraction.py:237] - 开始处理表: bmw_x3
+2025-05-03 11:18:46,577 - INFO - [car_keyword_extraction.py:269] - 成功处理表 bmw_x3，耗时 0.09 秒
+2025-05-03 11:18:46,577 - INFO - [car_keyword_extraction.py:237] - 开始处理表: audi_q5l
+2025-05-03 11:18:46,664 - INFO - [car_keyword_extraction.py:269] - 成功处理表 audi_q5l，耗时 0.09 秒
+2025-05-03 11:18:46,664 - INFO - [car_keyword_extraction.py:237] - 开始处理表: buick_envision
+2025-05-03 11:18:46,762 - INFO - [car_keyword_extraction.py:269] - 成功处理表 buick_envision，耗时 0.10 秒
+2025-05-03 11:18:46,762 - INFO - [car_keyword_extraction.py:237] - 开始处理表: chevrolet_equinox
+2025-05-03 11:18:46,862 - INFO - [car_keyword_extraction.py:269] - 成功处理表 chevrolet_equinox，耗时 0.10 秒
+2025-05-03 11:18:46,862 - INFO - [car_keyword_extraction.py:237] - 开始处理表: jeep_compass
+2025-05-03 11:18:46,954 - INFO - [car_keyword_extraction.py:269] - 成功处理表 jeep_compass，耗时 0.09 秒
+2025-05-03 11:18:46,954 - INFO - [car_keyword_extraction.py:237] - 开始处理表: gac_trumpchi_m8
+2025-05-03 11:18:47,048 - INFO - [car_keyword_extraction.py:269] - 成功处理表 gac_trumpchi_m8，耗时 0.09 秒
+2025-05-03 11:18:47,048 - INFO - [car_keyword_extraction.py:237] - 开始处理表: buick_gl8
+2025-05-03 11:18:47,134 - INFO - [car_keyword_extraction.py:269] - 成功处理表 buick_gl8，耗时 0.09 秒
+2025-05-03 11:18:47,134 - INFO - [car_keyword_extraction.py:237] - 开始处理表: honda_odyssey
+2025-05-03 11:18:47,219 - INFO - [car_keyword_extraction.py:269] - 成功处理表 honda_odyssey，耗时 0.08 秒
+2025-05-03 11:18:47,219 - INFO - [car_keyword_extraction.py:237] - 开始处理表: toyota_sienna
+2025-05-03 11:18:47,316 - INFO - [car_keyword_extraction.py:269] - 成功处理表 toyota_sienna，耗时 0.10 秒
+2025-05-03 11:18:47,316 - INFO - [car_keyword_extraction.py:237] - 开始处理表: saic_volkswagen_viloran
+2025-05-03 11:18:47,401 - INFO - [car_keyword_extraction.py:269] - 成功处理表 saic_volkswagen_viloran，耗时 0.08 秒
+2025-05-03 11:18:47,401 - INFO - [car_keyword_extraction.py:237] - 开始处理表: byd_han
+2025-05-03 11:18:47,477 - INFO - [car_keyword_extraction.py:269] - 成功处理表 byd_han，耗时 0.08 秒
+2025-05-03 11:18:47,477 - INFO - [car_keyword_extraction.py:237] - 开始处理表: gac_aion_aion_s
+2025-05-03 11:18:47,571 - INFO - [car_keyword_extraction.py:269] - 成功处理表 gac_aion_aion_s，耗时 0.09 秒
+2025-05-03 11:18:47,571 - INFO - [car_keyword_extraction.py:237] - 开始处理表: tesla_model_3
+2025-05-03 11:18:47,654 - INFO - [car_keyword_extraction.py:269] - 成功处理表 tesla_model_3，耗时 0.08 秒
+2025-05-03 11:18:47,654 - INFO - [car_keyword_extraction.py:237] - 开始处理表: bmw_i3
+2025-05-03 11:18:47,730 - INFO - [car_keyword_extraction.py:269] - 成功处理表 bmw_i3，耗时 0.08 秒
+2025-05-03 11:18:47,730 - INFO - [car_keyword_extraction.py:237] - 开始处理表: mercedes_benz_eqc
+2025-05-03 11:18:47,812 - INFO - [car_keyword_extraction.py:269] - 成功处理表 mercedes_benz_eqc，耗时 0.08 秒
+2025-05-03 11:18:47,812 - INFO - [car_keyword_extraction.py:237] - 开始处理表: byd_qin_plus_ev
+2025-05-03 11:18:47,901 - INFO - [car_keyword_extraction.py:269] - 成功处理表 byd_qin_plus_ev，耗时 0.09 秒
+2025-05-03 11:18:47,901 - INFO - [car_keyword_extraction.py:237] - 开始处理表: nio_et5
+2025-05-03 11:18:47,977 - INFO - [car_keyword_extraction.py:269] - 成功处理表 nio_et5，耗时 0.08 秒
+2025-05-03 11:18:47,977 - INFO - [car_keyword_extraction.py:237] - 开始处理表: xpeng_p7
+2025-05-03 11:18:48,077 - INFO - [car_keyword_extraction.py:269] - 成功处理表 xpeng_p7，耗时 0.10 秒
+2025-05-03 11:18:48,077 - INFO - [car_keyword_extraction.py:237] - 开始处理表: xiaomi_su7
+2025-05-03 11:18:48,154 - INFO - [car_keyword_extraction.py:269] - 成功处理表 xiaomi_su7，耗时 0.08 秒
+2025-05-03 11:18:48,154 - INFO - [car_keyword_extraction.py:237] - 开始处理表: chery_fengyun_a8
+2025-05-03 11:18:48,228 - INFO - [car_keyword_extraction.py:269] - 成功处理表 chery_fengyun_a8，耗时 0.07 秒
+2025-05-03 11:18:48,229 - INFO - [car_keyword_extraction.py:237] - 开始处理表: byd_song_plus_ev
+2025-05-03 11:18:48,337 - INFO - [car_keyword_extraction.py:269] - 成功处理表 byd_song_plus_ev，耗时 0.11 秒
+2025-05-03 11:18:48,337 - INFO - [car_keyword_extraction.py:237] - 开始处理表: gac_aion_aion_y
+2025-05-03 11:18:48,417 - INFO - [car_keyword_extraction.py:269] - 成功处理表 gac_aion_aion_y，耗时 0.08 秒
+2025-05-03 11:18:48,417 - INFO - [car_keyword_extraction.py:237] - 开始处理表: tesla_model_y
+2025-05-03 11:18:48,500 - INFO - [car_keyword_extraction.py:269] - 成功处理表 tesla_model_y，耗时 0.08 秒
+2025-05-03 11:18:48,500 - INFO - [car_keyword_extraction.py:237] - 开始处理表: nio_es6
+2025-05-03 11:18:48,591 - INFO - [car_keyword_extraction.py:269] - 成功处理表 nio_es6，耗时 0.09 秒
+2025-05-03 11:18:48,592 - INFO - [car_keyword_extraction.py:237] - 开始处理表: xpeng_g6
+2025-05-03 11:18:48,674 - INFO - [car_keyword_extraction.py:269] - 成功处理表 xpeng_g6，耗时 0.08 秒
+2025-05-03 11:18:48,674 - INFO - [car_keyword_extraction.py:237] - 开始处理表: voyah_dreamer
+2025-05-03 11:18:48,753 - INFO - [car_keyword_extraction.py:269] - 成功处理表 voyah_dreamer，耗时 0.08 秒
+2025-05-03 11:18:48,753 - INFO - [car_keyword_extraction.py:237] - 开始处理表: denza_d9
+2025-05-03 11:18:48,849 - INFO - [car_keyword_extraction.py:269] - 成功处理表 denza_d9，耗时 0.10 秒
+2025-05-03 11:18:48,850 - INFO - [car_keyword_extraction.py:237] - 开始处理表: gac_trumpchi_e9
+2025-05-03 11:18:48,935 - INFO - [car_keyword_extraction.py:269] - 成功处理表 gac_trumpchi_e9，耗时 0.08 秒
+2025-05-03 11:18:48,935 - INFO - [car_keyword_extraction.py:237] - 开始处理表: saic_roewe_imax8_ev
+2025-05-03 11:18:49,033 - INFO - [car_keyword_extraction.py:269] - 成功处理表 saic_roewe_imax8_ev，耗时 0.10 秒
+2025-05-03 11:18:49,033 - INFO - [car_keyword_extraction.py:237] - 开始处理表: xpeng_x9
+2025-05-03 11:18:49,151 - INFO - [car_keyword_extraction.py:269] - 成功处理表 xpeng_x9，耗时 0.12 秒
+2025-05-03 11:19:57,259 - INFO - [car_keyword_extraction.py:286] - 成功将关键词写入目标表
+2025-05-03 11:19:57,259 - INFO - [car_keyword_extraction.py:295] - 关键词提取处理完成
+2025-05-03 11:19:57,261 - INFO - [car_keyword_extraction.py:296] - 总耗时: 83.07 秒
+2025-05-03 11:19:57,261 - INFO - [car_keyword_extraction.py:297] - 成功处理表数量: 50
+2025-05-03 11:19:57,261 - INFO - [car_keyword_extraction.py:298] - 失败表数量: 0

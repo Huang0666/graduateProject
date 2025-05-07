@@ -1,0 +1,32 @@
+2025-04-29 10:59:17,984 - INFO - ==================================================
+2025-04-29 10:59:17,985 - INFO - 情感分析处理程序启动
+2025-04-29 10:59:17,985 - INFO - ==================================================
+2025-04-29 10:59:17,988 - INFO - 使用模型版本: v3
+2025-04-29 10:59:17,989 - INFO - 模型说明: 6000条数据训练的四分类模型 (0:负面, 1:正面, 2:中性, 3:无关)
+2025-04-29 10:59:17,989 - INFO - 模型路径: D:\graduation_project\car_sentiment_analysis\src/saved_models/checkpoints/v3/best_model.pth
+2025-04-29 10:59:17,990 - INFO - 已加载阈值配置：0.4
+2025-04-29 10:59:17,990 - INFO - 使用阈值：0.4
+2025-04-29 10:59:17,991 - INFO - 正在加载模型: D:\graduation_project\car_sentiment_analysis\src/saved_models/checkpoints/v3/best_model.pth
+2025-04-29 10:59:54,741 - INFO - 模型加载完成
+2025-04-29 10:59:54,749 - INFO - 
+处理进度: [1/39] 表: toyota_corolla
+2025-04-29 10:59:54,840 - INFO - 表 toyota_corolla 中没有未处理的数据
+2025-04-29 10:59:54,841 - INFO - 表 toyota_corolla 处理完成
+2025-04-29 10:59:54,841 - INFO - 
+处理进度: [2/39] 表: nissan_sylphy
+2025-04-29 10:59:56,661 - ERROR - 批处理过程出错: a Tensor with 32 elements cannot be converted to Scalar
+2025-04-29 10:59:57,669 - INFO - 第 1 次重试...
+2025-04-29 10:59:58,008 - ERROR - 批处理过程出错: a Tensor with 32 elements cannot be converted to Scalar
+2025-04-29 10:59:59,013 - INFO - 第 2 次重试...
+2025-04-29 10:59:59,289 - ERROR - 批处理过程出错: a Tensor with 32 elements cannot be converted to Scalar
+2025-04-29 10:59:59,290 - ERROR - 处理失败 nissan_sylphy: a Tensor with 32 elements cannot be converted to Scalar
+2025-04-29 10:59:59,290 - ERROR - 已达到最大重试次数 3，跳过当前批次
+2025-04-29 11:00:00,293 - ERROR - 处理错误 nissan_sylphy: a Tensor with 32 elements cannot be converted to Scalar
+2025-04-29 11:00:00,703 - ERROR - 批处理过程出错: a Tensor with 32 elements cannot be converted to Scalar
+2025-04-29 11:00:01,714 - INFO - 第 1 次重试...
+2025-04-29 11:00:01,997 - ERROR - 批处理过程出错: a Tensor with 32 elements cannot be converted to Scalar
+2025-04-29 11:00:03,013 - INFO - 第 2 次重试...
+2025-04-29 11:00:03,290 - ERROR - 批处理过程出错: a Tensor with 32 elements cannot be converted to Scalar
+2025-04-29 11:00:03,291 - ERROR - 处理失败 nissan_sylphy: a Tensor with 32 elements cannot be converted to Scalar
+2025-04-29 11:00:03,291 - ERROR - 已达到最大重试次数 3，跳过当前批次
+2025-04-29 11:00:04,294 - ERROR - 处理错误 nissan_sylphy: a Tensor with 32 elements cannot be converted to Scalar

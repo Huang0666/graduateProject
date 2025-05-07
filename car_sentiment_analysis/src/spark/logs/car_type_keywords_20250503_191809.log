@@ -1,0 +1,1174 @@
+2025-05-03 19:18:09,468 - INFO - [car_type_keyword_stats.py:201] - 开始车型类别关键词统计处理
+2025-05-03 19:18:17,277 - INFO - [car_type_keyword_stats.py:205] - Spark会话创建成功
+2025-05-03 19:18:17,278 - INFO - [car_type_keyword_stats.py:211] - 已加载 1002 个停用词
+2025-05-03 19:18:21,877 - INFO - [car_type_keyword_stats.py:221] - 已读取汽车基础信息表
+2025-05-03 19:18:22,026 - INFO - [car_type_keyword_stats.py:254] - 开始处理表: toyota_corolla
+2025-05-03 19:18:23,396 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 SUV 的情感类型 0
+2025-05-03 19:18:41,279 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 SUV 的情感类型 1
+2025-05-03 19:18:52,616 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 SUV 的情感类型 2
+2025-05-03 19:19:03,938 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 SUV 的情感类型 3
+2025-05-03 19:19:15,897 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 SUV 的情感类型 4
+2025-05-03 19:19:29,031 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 MPV 的情感类型 0
+2025-05-03 19:19:41,719 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 MPV 的情感类型 1
+2025-05-03 19:19:54,033 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 MPV 的情感类型 2
+2025-05-03 19:20:06,814 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 MPV 的情感类型 3
+2025-05-03 19:20:17,644 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 MPV 的情感类型 4
+2025-05-03 19:20:29,546 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 轿车 的情感类型 0
+2025-05-03 19:20:41,155 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 轿车 的情感类型 1
+2025-05-03 19:20:52,704 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 轿车 的情感类型 2
+2025-05-03 19:21:04,512 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 轿车 的情感类型 3
+2025-05-03 19:21:17,824 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 轿车 的情感类型 4
+2025-05-03 19:21:30,598 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 燃油 的情感类型 0
+2025-05-03 19:21:45,830 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 燃油 的情感类型 1
+2025-05-03 19:21:57,700 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 燃油 的情感类型 2
+2025-05-03 19:22:09,807 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 燃油 的情感类型 3
+2025-05-03 19:22:20,751 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 燃油 的情感类型 4
+2025-05-03 19:22:33,812 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 新能源 的情感类型 0
+2025-05-03 19:22:44,707 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 新能源 的情感类型 1
+2025-05-03 19:22:53,721 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 新能源 的情感类型 2
+2025-05-03 19:23:02,834 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 新能源 的情感类型 3
+2025-05-03 19:23:11,969 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 新能源 的情感类型 4
+2025-05-03 19:23:21,348 - INFO - [car_type_keyword_stats.py:334] - 成功处理表 toyota_corolla，耗时 299.32 秒
+2025-05-03 19:23:21,348 - INFO - [car_type_keyword_stats.py:254] - 开始处理表: nissan_sylphy
+2025-05-03 19:23:21,451 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 SUV 的情感类型 0
+2025-05-03 19:23:32,022 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 SUV 的情感类型 1
+2025-05-03 19:23:42,006 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 SUV 的情感类型 2
+2025-05-03 19:23:53,344 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 SUV 的情感类型 3
+2025-05-03 19:24:09,960 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 SUV 的情感类型 4
+2025-05-03 19:24:38,866 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 MPV 的情感类型 0
+2025-05-03 19:24:49,850 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 MPV 的情感类型 1
+2025-05-03 19:24:59,482 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 MPV 的情感类型 2
+2025-05-03 19:25:12,796 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 MPV 的情感类型 3
+2025-05-03 19:25:24,330 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 MPV 的情感类型 4
+2025-05-03 19:25:39,172 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 轿车 的情感类型 0
+2025-05-03 19:25:51,457 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 轿车 的情感类型 1
+2025-05-03 19:26:02,909 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 轿车 的情感类型 2
+2025-05-03 19:26:15,067 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 轿车 的情感类型 3
+2025-05-03 19:26:26,062 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 轿车 的情感类型 4
+2025-05-03 19:26:38,061 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 燃油 的情感类型 0
+2025-05-03 19:26:49,695 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 燃油 的情感类型 1
+2025-05-03 19:27:01,040 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 燃油 的情感类型 2
+2025-05-03 19:27:12,101 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 燃油 的情感类型 3
+2025-05-03 19:27:25,989 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 燃油 的情感类型 4
+2025-05-03 19:27:38,808 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 新能源 的情感类型 0
+2025-05-03 19:27:49,735 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 新能源 的情感类型 1
+2025-05-03 19:28:00,089 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 新能源 的情感类型 2
+2025-05-03 19:28:10,863 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 新能源 的情感类型 3
+2025-05-03 19:28:22,088 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 新能源 的情感类型 4
+2025-05-03 19:28:33,270 - INFO - [car_type_keyword_stats.py:334] - 成功处理表 nissan_sylphy，耗时 311.92 秒
+2025-05-03 19:28:33,270 - INFO - [car_type_keyword_stats.py:254] - 开始处理表: volvo_s60
+2025-05-03 19:28:33,332 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 SUV 的情感类型 0
+2025-05-03 19:28:43,323 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 SUV 的情感类型 1
+2025-05-03 19:28:53,680 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 SUV 的情感类型 2
+2025-05-03 19:29:03,915 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 SUV 的情感类型 3
+2025-05-03 19:29:13,756 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 SUV 的情感类型 4
+2025-05-03 19:29:23,460 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 MPV 的情感类型 0
+2025-05-03 19:29:34,944 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 MPV 的情感类型 1
+2025-05-03 19:29:46,710 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 MPV 的情感类型 2
+2025-05-03 19:29:58,483 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 MPV 的情感类型 3
+2025-05-03 19:30:09,058 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 MPV 的情感类型 4
+2025-05-03 19:30:19,159 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 轿车 的情感类型 0
+2025-05-03 19:30:29,367 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 轿车 的情感类型 1
+2025-05-03 19:30:39,934 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 轿车 的情感类型 2
+2025-05-03 19:30:49,942 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 轿车 的情感类型 3
+2025-05-03 19:30:59,931 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 轿车 的情感类型 4
+2025-05-03 19:31:09,902 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 燃油 的情感类型 0
+2025-05-03 19:31:19,920 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 燃油 的情感类型 1
+2025-05-03 19:31:30,036 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 燃油 的情感类型 2
+2025-05-03 19:31:40,634 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 燃油 的情感类型 3
+2025-05-03 19:31:50,727 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 燃油 的情感类型 4
+2025-05-03 19:32:00,947 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 新能源 的情感类型 0
+2025-05-03 19:32:10,801 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 新能源 的情感类型 1
+2025-05-03 19:32:21,138 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 新能源 的情感类型 2
+2025-05-03 19:32:31,795 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 新能源 的情感类型 3
+2025-05-03 19:32:42,034 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 新能源 的情感类型 4
+2025-05-03 19:32:52,080 - INFO - [car_type_keyword_stats.py:334] - 成功处理表 volvo_s60，耗时 258.81 秒
+2025-05-03 19:32:52,080 - INFO - [car_type_keyword_stats.py:254] - 开始处理表: volkswagen_lavida
+2025-05-03 19:32:52,156 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 SUV 的情感类型 0
+2025-05-03 19:33:02,172 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 SUV 的情感类型 1
+2025-05-03 19:33:12,041 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 SUV 的情感类型 2
+2025-05-03 19:33:21,851 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 SUV 的情感类型 3
+2025-05-03 19:33:32,222 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 SUV 的情感类型 4
+2025-05-03 19:33:42,400 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 MPV 的情感类型 0
+2025-05-03 19:33:52,239 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 MPV 的情感类型 1
+2025-05-03 19:34:02,169 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 MPV 的情感类型 2
+2025-05-03 19:34:13,239 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 MPV 的情感类型 3
+2025-05-03 19:34:23,703 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 MPV 的情感类型 4
+2025-05-03 19:34:35,764 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 轿车 的情感类型 0
+2025-05-03 19:34:47,297 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 轿车 的情感类型 1
+2025-05-03 19:34:58,543 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 轿车 的情感类型 2
+2025-05-03 19:35:10,508 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 轿车 的情感类型 3
+2025-05-03 19:35:24,624 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 轿车 的情感类型 4
+2025-05-03 19:35:36,604 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 燃油 的情感类型 0
+2025-05-03 19:35:48,182 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 燃油 的情感类型 1
+2025-05-03 19:36:01,811 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 燃油 的情感类型 2
+2025-05-03 19:36:11,255 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 燃油 的情感类型 3
+2025-05-03 19:36:22,235 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 燃油 的情感类型 4
+2025-05-03 19:36:32,885 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 新能源 的情感类型 0
+2025-05-03 19:36:43,172 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 新能源 的情感类型 1
+2025-05-03 19:36:53,003 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 新能源 的情感类型 2
+2025-05-03 19:37:03,232 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 新能源 的情感类型 3
+2025-05-03 19:37:14,185 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 新能源 的情感类型 4
+2025-05-03 19:37:24,537 - INFO - [car_type_keyword_stats.py:334] - 成功处理表 volkswagen_lavida，耗时 272.46 秒
+2025-05-03 19:37:24,537 - INFO - [car_type_keyword_stats.py:254] - 开始处理表: buick_excelle_gt
+2025-05-03 19:37:24,598 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 SUV 的情感类型 0
+2025-05-03 19:37:36,274 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 SUV 的情感类型 1
+2025-05-03 19:37:47,272 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 SUV 的情感类型 2
+2025-05-03 19:37:57,923 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 SUV 的情感类型 3
+2025-05-03 19:38:07,755 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 SUV 的情感类型 4
+2025-05-03 19:38:17,663 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 MPV 的情感类型 0
+2025-05-03 19:38:27,352 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 MPV 的情感类型 1
+2025-05-03 19:38:38,010 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 MPV 的情感类型 2
+2025-05-03 19:38:47,791 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 MPV 的情感类型 3
+2025-05-03 19:38:58,010 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 MPV 的情感类型 4
+2025-05-03 19:39:07,901 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 轿车 的情感类型 0
+2025-05-03 19:39:18,010 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 轿车 的情感类型 1
+2025-05-03 19:39:28,030 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 轿车 的情感类型 2
+2025-05-03 19:39:38,862 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 轿车 的情感类型 3
+2025-05-03 19:39:49,982 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 轿车 的情感类型 4
+2025-05-03 19:40:00,914 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 燃油 的情感类型 0
+2025-05-03 19:40:10,891 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 燃油 的情感类型 1
+2025-05-03 19:40:20,808 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 燃油 的情感类型 2
+2025-05-03 19:40:30,931 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 燃油 的情感类型 3
+2025-05-03 19:40:41,650 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 燃油 的情感类型 4
+2025-05-03 19:40:52,717 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 新能源 的情感类型 0
+2025-05-03 19:41:03,605 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 新能源 的情感类型 1
+2025-05-03 19:41:14,540 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 新能源 的情感类型 2
+2025-05-03 19:41:25,661 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 新能源 的情感类型 3
+2025-05-03 19:41:40,759 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 新能源 的情感类型 4
+2025-05-03 19:41:52,031 - INFO - [car_type_keyword_stats.py:334] - 成功处理表 buick_excelle_gt，耗时 267.49 秒
+2025-05-03 19:41:52,031 - INFO - [car_type_keyword_stats.py:254] - 开始处理表: volkswagen_sagitar
+2025-05-03 19:41:52,101 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 SUV 的情感类型 0
+2025-05-03 19:42:03,921 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 SUV 的情感类型 1
+2025-05-03 19:42:14,541 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 SUV 的情感类型 2
+2025-05-03 19:42:24,724 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 SUV 的情感类型 3
+2025-05-03 19:42:36,690 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 SUV 的情感类型 4
+2025-05-03 19:42:47,780 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 MPV 的情感类型 0
+2025-05-03 19:42:59,017 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 MPV 的情感类型 1
+2025-05-03 19:43:09,479 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 MPV 的情感类型 2
+2025-05-03 19:43:18,617 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 MPV 的情感类型 3
+2025-05-03 19:43:28,147 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 MPV 的情感类型 4
+2025-05-03 19:43:39,498 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 轿车 的情感类型 0
+2025-05-03 19:43:55,355 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 轿车 的情感类型 1
+2025-05-03 19:44:09,059 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 轿车 的情感类型 2
+2025-05-03 19:44:21,098 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 轿车 的情感类型 3
+2025-05-03 19:44:32,916 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 轿车 的情感类型 4
+2025-05-03 19:44:47,756 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 燃油 的情感类型 0
+2025-05-03 19:44:59,562 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 燃油 的情感类型 1
+2025-05-03 19:45:11,943 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 燃油 的情感类型 2
+2025-05-03 19:45:27,403 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 燃油 的情感类型 3
+2025-05-03 19:45:40,241 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 燃油 的情感类型 4
+2025-05-03 19:45:52,371 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 新能源 的情感类型 0
+2025-05-03 19:46:04,381 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 新能源 的情感类型 1
+2025-05-03 19:46:16,151 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 新能源 的情感类型 2
+2025-05-03 19:46:28,339 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 新能源 的情感类型 3
+2025-05-03 19:46:41,144 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 新能源 的情感类型 4
+2025-05-03 19:46:52,817 - INFO - [car_type_keyword_stats.py:334] - 成功处理表 volkswagen_sagitar，耗时 300.79 秒
+2025-05-03 19:46:52,818 - INFO - [car_type_keyword_stats.py:254] - 开始处理表: volkswagen_passat
+2025-05-03 19:46:52,878 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 SUV 的情感类型 0
+2025-05-03 19:47:07,211 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 SUV 的情感类型 1
+2025-05-03 19:47:21,403 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 SUV 的情感类型 2
+2025-05-03 19:47:35,089 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 SUV 的情感类型 3
+2025-05-03 19:47:49,855 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 SUV 的情感类型 4
+2025-05-03 19:48:00,452 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 MPV 的情感类型 0
+2025-05-03 19:48:10,314 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 MPV 的情感类型 1
+2025-05-03 19:48:21,077 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 MPV 的情感类型 2
+2025-05-03 19:48:32,792 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 MPV 的情感类型 3
+2025-05-03 19:48:43,463 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 MPV 的情感类型 4
+2025-05-03 19:48:53,622 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 轿车 的情感类型 0
+2025-05-03 19:49:05,704 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 轿车 的情感类型 1
+2025-05-03 19:49:17,674 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 轿车 的情感类型 2
+2025-05-03 19:49:27,871 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 轿车 的情感类型 3
+2025-05-03 19:49:38,586 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 轿车 的情感类型 4
+2025-05-03 19:49:49,420 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 燃油 的情感类型 0
+2025-05-03 19:49:59,349 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 燃油 的情感类型 1
+2025-05-03 19:50:09,291 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 燃油 的情感类型 2
+2025-05-03 19:50:19,286 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 燃油 的情感类型 3
+2025-05-03 19:50:29,399 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 燃油 的情感类型 4
+2025-05-03 19:50:42,206 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 新能源 的情感类型 0
+2025-05-03 19:50:52,577 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 新能源 的情感类型 1
+2025-05-03 19:51:02,983 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 新能源 的情感类型 2
+2025-05-03 19:51:12,544 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 新能源 的情感类型 3
+2025-05-03 19:51:21,859 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 新能源 的情感类型 4
+2025-05-03 19:51:32,414 - INFO - [car_type_keyword_stats.py:334] - 成功处理表 volkswagen_passat，耗时 279.60 秒
+2025-05-03 19:51:32,415 - INFO - [car_type_keyword_stats.py:254] - 开始处理表: cadillac_ct4
+2025-05-03 19:51:32,488 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 SUV 的情感类型 0
+2025-05-03 19:51:43,042 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 SUV 的情感类型 1
+2025-05-03 19:51:52,008 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 SUV 的情感类型 2
+2025-05-03 19:52:01,159 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 SUV 的情感类型 3
+2025-05-03 19:52:11,042 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 SUV 的情感类型 4
+2025-05-03 19:52:20,148 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 MPV 的情感类型 0
+2025-05-03 19:52:28,376 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 MPV 的情感类型 1
+2025-05-03 19:52:39,984 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 MPV 的情感类型 2
+2025-05-03 19:52:48,134 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 MPV 的情感类型 3
+2025-05-03 19:52:56,829 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 MPV 的情感类型 4
+2025-05-03 19:53:05,138 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 轿车 的情感类型 0
+2025-05-03 19:53:13,472 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 轿车 的情感类型 1
+2025-05-03 19:53:21,848 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 轿车 的情感类型 2
+2025-05-03 19:53:30,088 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 轿车 的情感类型 3
+2025-05-03 19:53:39,136 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 轿车 的情感类型 4
+2025-05-03 19:53:48,142 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 燃油 的情感类型 0
+2025-05-03 19:54:00,206 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 燃油 的情感类型 1
+2025-05-03 19:54:09,719 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 燃油 的情感类型 2
+2025-05-03 19:54:20,172 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 燃油 的情感类型 3
+2025-05-03 19:54:31,104 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 燃油 的情感类型 4
+2025-05-03 19:54:42,534 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 新能源 的情感类型 0
+2025-05-03 19:54:54,411 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 新能源 的情感类型 1
+2025-05-03 19:55:09,483 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 新能源 的情感类型 2
+2025-05-03 19:55:20,960 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 新能源 的情感类型 3
+2025-05-03 19:55:32,583 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 新能源 的情感类型 4
+2025-05-03 19:55:45,457 - INFO - [car_type_keyword_stats.py:334] - 成功处理表 cadillac_ct4，耗时 253.04 秒
+2025-05-03 19:55:45,457 - INFO - [car_type_keyword_stats.py:254] - 开始处理表: chery_arrizo_8
+2025-05-03 19:55:45,523 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 SUV 的情感类型 0
+2025-05-03 19:55:56,844 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 SUV 的情感类型 1
+2025-05-03 19:56:07,160 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 SUV 的情感类型 2
+2025-05-03 19:56:16,495 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 SUV 的情感类型 3
+2025-05-03 19:56:26,921 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 SUV 的情感类型 4
+2025-05-03 19:56:36,775 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 MPV 的情感类型 0
+2025-05-03 19:56:49,005 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 MPV 的情感类型 1
+2025-05-03 19:56:59,282 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 MPV 的情感类型 2
+2025-05-03 19:57:10,152 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 MPV 的情感类型 3
+2025-05-03 19:57:20,070 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 MPV 的情感类型 4
+2025-05-03 19:57:31,129 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 轿车 的情感类型 0
+2025-05-03 19:57:46,593 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 轿车 的情感类型 1
+2025-05-03 19:57:59,639 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 轿车 的情感类型 2
+2025-05-03 19:58:11,798 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 轿车 的情感类型 3
+2025-05-03 19:58:23,490 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 轿车 的情感类型 4
+2025-05-03 19:58:34,961 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 燃油 的情感类型 0
+2025-05-03 19:58:48,957 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 燃油 的情感类型 1
+2025-05-03 19:59:01,024 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 燃油 的情感类型 2
+2025-05-03 19:59:13,202 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 燃油 的情感类型 3
+2025-05-03 19:59:25,471 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 燃油 的情感类型 4
+2025-05-03 19:59:38,432 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 新能源 的情感类型 0
+2025-05-03 19:59:50,158 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 新能源 的情感类型 1
+2025-05-03 20:00:01,242 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 新能源 的情感类型 2
+2025-05-03 20:00:13,781 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 新能源 的情感类型 3
+2025-05-03 20:00:26,629 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 新能源 的情感类型 4
+2025-05-03 20:00:39,873 - INFO - [car_type_keyword_stats.py:334] - 成功处理表 chery_arrizo_8，耗时 294.42 秒
+2025-05-03 20:00:39,873 - INFO - [car_type_keyword_stats.py:254] - 开始处理表: honda_civic
+2025-05-03 20:00:39,957 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 SUV 的情感类型 0
+2025-05-03 20:00:52,824 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 SUV 的情感类型 1
+2025-05-03 20:01:05,783 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 SUV 的情感类型 2
+2025-05-03 20:01:18,850 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 SUV 的情感类型 3
+2025-05-03 20:01:32,997 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 SUV 的情感类型 4
+2025-05-03 20:01:46,253 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 MPV 的情感类型 0
+2025-05-03 20:01:59,133 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 MPV 的情感类型 1
+2025-05-03 20:02:11,533 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 MPV 的情感类型 2
+2025-05-03 20:02:24,878 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 MPV 的情感类型 3
+2025-05-03 20:02:40,082 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 MPV 的情感类型 4
+2025-05-03 20:02:52,618 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 轿车 的情感类型 0
+2025-05-03 20:03:05,845 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 轿车 的情感类型 1
+2025-05-03 20:03:20,077 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 轿车 的情感类型 2
+2025-05-03 20:03:37,041 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 轿车 的情感类型 3
+2025-05-03 20:03:50,868 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 轿车 的情感类型 4
+2025-05-03 20:04:04,150 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 燃油 的情感类型 0
+2025-05-03 20:04:19,467 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 燃油 的情感类型 1
+2025-05-03 20:04:37,450 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 燃油 的情感类型 2
+2025-05-03 20:04:52,109 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 燃油 的情感类型 3
+2025-05-03 20:05:04,832 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 燃油 的情感类型 4
+2025-05-03 20:05:16,720 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 新能源 的情感类型 0
+2025-05-03 20:05:27,571 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 新能源 的情感类型 1
+2025-05-03 20:05:38,613 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 新能源 的情感类型 2
+2025-05-03 20:05:50,265 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 新能源 的情感类型 3
+2025-05-03 20:06:01,846 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 新能源 的情感类型 4
+2025-05-03 20:06:14,458 - INFO - [car_type_keyword_stats.py:334] - 成功处理表 honda_civic，耗时 334.59 秒
+2025-05-03 20:06:14,458 - INFO - [car_type_keyword_stats.py:254] - 开始处理表: honda_accord
+2025-05-03 20:06:14,547 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 SUV 的情感类型 0
+2025-05-03 20:06:26,973 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 SUV 的情感类型 1
+2025-05-03 20:06:39,965 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 SUV 的情感类型 2
+2025-05-03 20:06:53,782 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 SUV 的情感类型 3
+2025-05-03 20:07:06,107 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 SUV 的情感类型 4
+2025-05-03 20:07:19,001 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 MPV 的情感类型 0
+2025-05-03 20:07:31,747 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 MPV 的情感类型 1
+2025-05-03 20:07:45,261 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 MPV 的情感类型 2
+2025-05-03 20:07:57,760 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 MPV 的情感类型 3
+2025-05-03 20:08:10,185 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 MPV 的情感类型 4
+2025-05-03 20:08:23,479 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 轿车 的情感类型 0
+2025-05-03 20:08:36,048 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 轿车 的情感类型 1
+2025-05-03 20:08:49,126 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 轿车 的情感类型 2
+2025-05-03 20:09:02,004 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 轿车 的情感类型 3
+2025-05-03 20:09:15,147 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 轿车 的情感类型 4
+2025-05-03 20:09:28,782 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 燃油 的情感类型 0
+2025-05-03 20:09:41,989 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 燃油 的情感类型 1
+2025-05-03 20:09:56,134 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 燃油 的情感类型 2
+2025-05-03 20:10:08,883 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 燃油 的情感类型 3
+2025-05-03 20:10:22,954 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 燃油 的情感类型 4
+2025-05-03 20:10:37,569 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 新能源 的情感类型 0
+2025-05-03 20:10:51,241 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 新能源 的情感类型 1
+2025-05-03 20:11:05,747 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 新能源 的情感类型 2
+2025-05-03 20:11:18,104 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 新能源 的情感类型 3
+2025-05-03 20:11:31,580 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 新能源 的情感类型 4
+2025-05-03 20:11:44,885 - INFO - [car_type_keyword_stats.py:334] - 成功处理表 honda_accord，耗时 330.43 秒
+2025-05-03 20:11:44,885 - INFO - [car_type_keyword_stats.py:254] - 开始处理表: geely_preface
+2025-05-03 20:11:44,983 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 SUV 的情感类型 0
+2025-05-03 20:11:59,448 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 SUV 的情感类型 1
+2025-05-03 20:12:12,351 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 SUV 的情感类型 2
+2025-05-03 20:12:24,960 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 SUV 的情感类型 3
+2025-05-03 20:12:37,477 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 SUV 的情感类型 4
+2025-05-03 20:12:49,295 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 MPV 的情感类型 0
+2025-05-03 20:13:02,945 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 MPV 的情感类型 1
+2025-05-03 20:13:16,536 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 MPV 的情感类型 2
+2025-05-03 20:13:27,175 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 MPV 的情感类型 3
+2025-05-03 20:13:37,064 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 MPV 的情感类型 4
+2025-05-03 20:13:47,067 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 轿车 的情感类型 0
+2025-05-03 20:13:57,245 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 轿车 的情感类型 1
+2025-05-03 20:14:06,789 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 轿车 的情感类型 2
+2025-05-03 20:14:16,190 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 轿车 的情感类型 3
+2025-05-03 20:14:25,490 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 轿车 的情感类型 4
+2025-05-03 20:14:34,909 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 燃油 的情感类型 0
+2025-05-03 20:14:45,242 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 燃油 的情感类型 1
+2025-05-03 20:14:54,865 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 燃油 的情感类型 2
+2025-05-03 20:15:05,100 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 燃油 的情感类型 3
+2025-05-03 20:15:14,312 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 燃油 的情感类型 4
+2025-05-03 20:15:23,655 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 新能源 的情感类型 0
+2025-05-03 20:15:32,941 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 新能源 的情感类型 1
+2025-05-03 20:15:41,974 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 新能源 的情感类型 2
+2025-05-03 20:15:51,645 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 新能源 的情感类型 3
+2025-05-03 20:16:00,867 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 新能源 的情感类型 4
+2025-05-03 20:16:09,956 - INFO - [car_type_keyword_stats.py:334] - 成功处理表 geely_preface，耗时 265.07 秒
+2025-05-03 20:16:09,956 - INFO - [car_type_keyword_stats.py:254] - 开始处理表: geely_emgrand
+2025-05-03 20:16:10,016 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 SUV 的情感类型 0
+2025-05-03 20:16:19,323 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 SUV 的情感类型 1
+2025-05-03 20:16:28,351 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 SUV 的情感类型 2
+2025-05-03 20:16:37,659 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 SUV 的情感类型 3
+2025-05-03 20:16:47,547 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 SUV 的情感类型 4
+2025-05-03 20:16:56,792 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 MPV 的情感类型 0
+2025-05-03 20:17:06,009 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 MPV 的情感类型 1
+2025-05-03 20:17:14,908 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 MPV 的情感类型 2
+2025-05-03 20:17:24,000 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 MPV 的情感类型 3
+2025-05-03 20:17:33,209 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 MPV 的情感类型 4
+2025-05-03 20:17:42,470 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 轿车 的情感类型 0
+2025-05-03 20:17:52,318 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 轿车 的情感类型 1
+2025-05-03 20:18:01,574 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 轿车 的情感类型 2
+2025-05-03 20:18:10,573 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 轿车 的情感类型 3
+2025-05-03 20:18:19,976 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 轿车 的情感类型 4
+2025-05-03 20:18:29,021 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 燃油 的情感类型 0
+2025-05-03 20:18:38,116 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 燃油 的情感类型 1
+2025-05-03 20:18:48,030 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 燃油 的情感类型 2
+2025-05-03 20:19:00,024 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 燃油 的情感类型 3
+2025-05-03 20:19:10,422 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 燃油 的情感类型 4
+2025-05-03 20:19:20,735 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 新能源 的情感类型 0
+2025-05-03 20:19:30,906 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 新能源 的情感类型 1
+2025-05-03 20:19:41,124 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 新能源 的情感类型 2
+2025-05-03 20:19:52,134 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 新能源 的情感类型 3
+2025-05-03 20:20:03,141 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 新能源 的情感类型 4
+2025-05-03 20:20:13,715 - INFO - [car_type_keyword_stats.py:334] - 成功处理表 geely_emgrand，耗时 243.76 秒
+2025-05-03 20:20:13,715 - INFO - [car_type_keyword_stats.py:254] - 开始处理表: hongqi_h5
+2025-05-03 20:20:13,778 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 SUV 的情感类型 0
+2025-05-03 20:20:24,915 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 SUV 的情感类型 1
+2025-05-03 20:20:34,706 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 SUV 的情感类型 2
+2025-05-03 20:20:45,064 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 SUV 的情感类型 3
+2025-05-03 20:20:55,052 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 SUV 的情感类型 4
+2025-05-03 20:21:05,157 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 MPV 的情感类型 0
+2025-05-03 20:21:15,533 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 MPV 的情感类型 1
+2025-05-03 20:21:26,136 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 MPV 的情感类型 2
+2025-05-03 20:21:40,516 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 MPV 的情感类型 3
+2025-05-03 20:21:52,551 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 MPV 的情感类型 4
+2025-05-03 20:22:04,104 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 轿车 的情感类型 0
+2025-05-03 20:22:16,292 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 轿车 的情感类型 1
+2025-05-03 20:22:32,037 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 轿车 的情感类型 2
+2025-05-03 20:22:45,878 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 轿车 的情感类型 3
+2025-05-03 20:22:57,364 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 轿车 的情感类型 4
+2025-05-03 20:23:08,959 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 燃油 的情感类型 0
+2025-05-03 20:23:19,068 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 燃油 的情感类型 1
+2025-05-03 20:23:30,891 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 燃油 的情感类型 2
+2025-05-03 20:23:42,426 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 燃油 的情感类型 3
+2025-05-03 20:23:53,888 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 燃油 的情感类型 4
+2025-05-03 20:24:07,275 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 新能源 的情感类型 0
+2025-05-03 20:24:17,992 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 新能源 的情感类型 1
+2025-05-03 20:24:29,587 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 新能源 的情感类型 2
+2025-05-03 20:24:39,501 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 新能源 的情感类型 3
+2025-05-03 20:24:50,188 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 新能源 的情感类型 4
+2025-05-03 20:25:00,234 - INFO - [car_type_keyword_stats.py:334] - 成功处理表 hongqi_h5，耗时 286.52 秒
+2025-05-03 20:25:00,234 - INFO - [car_type_keyword_stats.py:254] - 开始处理表: changan_eado
+2025-05-03 20:25:00,334 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 SUV 的情感类型 0
+2025-05-03 20:25:11,057 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 SUV 的情感类型 1
+2025-05-03 20:25:21,893 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 SUV 的情感类型 2
+2025-05-03 20:25:32,553 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 SUV 的情感类型 3
+2025-05-03 20:25:43,835 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 SUV 的情感类型 4
+2025-05-03 20:25:55,583 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 MPV 的情感类型 0
+2025-05-03 20:26:06,435 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 MPV 的情感类型 1
+2025-05-03 20:26:16,905 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 MPV 的情感类型 2
+2025-05-03 20:26:26,657 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 MPV 的情感类型 3
+2025-05-03 20:26:36,897 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 MPV 的情感类型 4
+2025-05-03 20:26:48,883 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 轿车 的情感类型 0
+2025-05-03 20:27:01,400 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 轿车 的情感类型 1
+2025-05-03 20:27:12,252 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 轿车 的情感类型 2
+2025-05-03 20:27:22,138 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 轿车 的情感类型 3
+2025-05-03 20:27:33,719 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 轿车 的情感类型 4
+2025-05-03 20:27:44,609 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 燃油 的情感类型 0
+2025-05-03 20:27:55,732 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 燃油 的情感类型 1
+2025-05-03 20:28:06,801 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 燃油 的情感类型 2
+2025-05-03 20:28:20,563 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 燃油 的情感类型 3
+2025-05-03 20:28:32,377 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 燃油 的情感类型 4
+2025-05-03 20:28:44,156 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 新能源 的情感类型 0
+2025-05-03 20:28:54,975 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 新能源 的情感类型 1
+2025-05-03 20:29:05,004 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 新能源 的情感类型 2
+2025-05-03 20:29:15,097 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 新能源 的情感类型 3
+2025-05-03 20:29:27,374 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 新能源 的情感类型 4
+2025-05-03 20:29:38,563 - INFO - [car_type_keyword_stats.py:334] - 成功处理表 changan_eado，耗时 278.33 秒
+2025-05-03 20:29:38,563 - INFO - [car_type_keyword_stats.py:254] - 开始处理表: geely_xingyue_l
+2025-05-03 20:29:38,621 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 SUV 的情感类型 0
+2025-05-03 20:29:49,487 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 SUV 的情感类型 1
+2025-05-03 20:30:02,743 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 SUV 的情感类型 2
+2025-05-03 20:30:13,228 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 SUV 的情感类型 3
+2025-05-03 20:30:23,467 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 SUV 的情感类型 4
+2025-05-03 20:30:33,429 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 MPV 的情感类型 0
+2025-05-03 20:30:43,482 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 MPV 的情感类型 1
+2025-05-03 20:30:53,856 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 MPV 的情感类型 2
+2025-05-03 20:31:03,652 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 MPV 的情感类型 3
+2025-05-03 20:31:13,839 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 MPV 的情感类型 4
+2025-05-03 20:31:23,475 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 轿车 的情感类型 0
+2025-05-03 20:31:33,192 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 轿车 的情感类型 1
+2025-05-03 20:31:43,821 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 轿车 的情感类型 2
+2025-05-03 20:31:55,431 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 轿车 的情感类型 3
+2025-05-03 20:32:05,179 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 轿车 的情感类型 4
+2025-05-03 20:32:14,185 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 燃油 的情感类型 0
+2025-05-03 20:32:24,802 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 燃油 的情感类型 1
+2025-05-03 20:32:34,417 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 燃油 的情感类型 2
+2025-05-03 20:32:44,815 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 燃油 的情感类型 3
+2025-05-03 20:32:55,784 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 燃油 的情感类型 4
+2025-05-03 20:33:06,046 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 新能源 的情感类型 0
+2025-05-03 20:33:14,184 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 新能源 的情感类型 1
+2025-05-03 20:33:23,149 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 新能源 的情感类型 2
+2025-05-03 20:33:33,139 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 新能源 的情感类型 3
+2025-05-03 20:33:43,571 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 新能源 的情感类型 4
+2025-05-03 20:33:54,631 - INFO - [car_type_keyword_stats.py:334] - 成功处理表 geely_xingyue_l，耗时 256.07 秒
+2025-05-03 20:33:54,631 - INFO - [car_type_keyword_stats.py:254] - 开始处理表: haval_h5
+2025-05-03 20:33:54,701 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 SUV 的情感类型 0
+2025-05-03 20:34:05,668 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 SUV 的情感类型 1
+2025-05-03 20:34:16,568 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 SUV 的情感类型 2
+2025-05-03 20:34:27,046 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 SUV 的情感类型 3
+2025-05-03 20:34:38,296 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 SUV 的情感类型 4
+2025-05-03 20:34:50,427 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 MPV 的情感类型 0
+2025-05-03 20:35:01,670 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 MPV 的情感类型 1
+2025-05-03 20:35:12,966 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 MPV 的情感类型 2
+2025-05-03 20:35:22,955 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 MPV 的情感类型 3
+2025-05-03 20:35:32,818 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 MPV 的情感类型 4
+2025-05-03 20:35:43,926 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 轿车 的情感类型 0
+2025-05-03 20:35:55,468 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 轿车 的情感类型 1
+2025-05-03 20:36:05,591 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 轿车 的情感类型 2
+2025-05-03 20:36:18,308 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 轿车 的情感类型 3
+2025-05-03 20:36:28,854 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 轿车 的情感类型 4
+2025-05-03 20:36:38,957 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 燃油 的情感类型 0
+2025-05-03 20:36:50,587 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 燃油 的情感类型 1
+2025-05-03 20:37:00,049 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 燃油 的情感类型 2
+2025-05-03 20:37:09,696 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 燃油 的情感类型 3
+2025-05-03 20:37:19,935 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 燃油 的情感类型 4
+2025-05-03 20:37:29,492 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 新能源 的情感类型 0
+2025-05-03 20:37:40,746 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 新能源 的情感类型 1
+2025-05-03 20:37:52,073 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 新能源 的情感类型 2
+2025-05-03 20:38:02,952 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 新能源 的情感类型 3
+2025-05-03 20:38:18,227 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 新能源 的情感类型 4
+2025-05-03 20:38:31,335 - INFO - [car_type_keyword_stats.py:334] - 成功处理表 haval_h5，耗时 276.70 秒
+2025-05-03 20:38:31,335 - INFO - [car_type_keyword_stats.py:254] - 开始处理表: tank_300
+2025-05-03 20:38:31,402 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 SUV 的情感类型 0
+2025-05-03 20:38:48,713 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 SUV 的情感类型 1
+2025-05-03 20:39:00,731 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 SUV 的情感类型 2
+2025-05-03 20:39:11,869 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 SUV 的情感类型 3
+2025-05-03 20:39:24,141 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 SUV 的情感类型 4
+2025-05-03 20:39:35,807 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 MPV 的情感类型 0
+2025-05-03 20:39:45,201 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 MPV 的情感类型 1
+2025-05-03 20:39:55,174 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 MPV 的情感类型 2
+2025-05-03 20:40:06,603 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 MPV 的情感类型 3
+2025-05-03 20:40:16,914 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 MPV 的情感类型 4
+2025-05-03 20:40:28,101 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 轿车 的情感类型 0
+2025-05-03 20:40:38,094 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 轿车 的情感类型 1
+2025-05-03 20:40:48,548 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 轿车 的情感类型 2
+2025-05-03 20:41:02,199 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 轿车 的情感类型 3
+2025-05-03 20:41:17,199 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 轿车 的情感类型 4
+2025-05-03 20:41:28,752 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 燃油 的情感类型 0
+2025-05-03 20:41:41,473 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 燃油 的情感类型 1
+2025-05-03 20:41:51,690 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 燃油 的情感类型 2
+2025-05-03 20:42:02,727 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 燃油 的情感类型 3
+2025-05-03 20:42:13,659 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 燃油 的情感类型 4
+2025-05-03 20:42:24,696 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 新能源 的情感类型 0
+2025-05-03 20:42:37,078 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 新能源 的情感类型 1
+2025-05-03 20:42:49,321 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 新能源 的情感类型 2
+2025-05-03 20:42:59,323 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 新能源 的情感类型 3
+2025-05-03 20:43:08,563 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 新能源 的情感类型 4
+2025-05-03 20:43:17,778 - INFO - [car_type_keyword_stats.py:334] - 成功处理表 tank_300，耗时 286.44 秒
+2025-05-03 20:43:17,778 - INFO - [car_type_keyword_stats.py:254] - 开始处理表: byd_song_pro
+2025-05-03 20:43:17,834 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 SUV 的情感类型 0
+2025-05-03 20:43:27,285 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 SUV 的情感类型 1
+2025-05-03 20:43:36,580 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 SUV 的情感类型 2
+2025-05-03 20:43:46,342 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 SUV 的情感类型 3
+2025-05-03 20:43:56,792 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 SUV 的情感类型 4
+2025-05-03 20:44:06,341 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 MPV 的情感类型 0
+2025-05-03 20:44:15,668 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 MPV 的情感类型 1
+2025-05-03 20:44:24,985 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 MPV 的情感类型 2
+2025-05-03 20:44:34,199 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 MPV 的情感类型 3
+2025-05-03 20:44:43,372 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 MPV 的情感类型 4
+2025-05-03 20:44:53,131 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 轿车 的情感类型 0
+2025-05-03 20:45:02,382 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 轿车 的情感类型 1
+2025-05-03 20:45:12,001 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 轿车 的情感类型 2
+2025-05-03 20:45:21,103 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 轿车 的情感类型 3
+2025-05-03 20:45:30,196 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 轿车 的情感类型 4
+2025-05-03 20:45:39,230 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 燃油 的情感类型 0
+2025-05-03 20:45:48,637 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 燃油 的情感类型 1
+2025-05-03 20:45:58,541 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 燃油 的情感类型 2
+2025-05-03 20:46:07,703 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 燃油 的情感类型 3
+2025-05-03 20:46:16,892 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 燃油 的情感类型 4
+2025-05-03 20:46:26,220 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 新能源 的情感类型 0
+2025-05-03 20:46:35,284 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 新能源 的情感类型 1
+2025-05-03 20:46:44,869 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 新能源 的情感类型 2
+2025-05-03 20:46:54,590 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 新能源 的情感类型 3
+2025-05-03 20:47:03,855 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 新能源 的情感类型 4
+2025-05-03 20:47:12,889 - INFO - [car_type_keyword_stats.py:334] - 成功处理表 byd_song_pro，耗时 235.11 秒
+2025-05-03 20:47:12,889 - INFO - [car_type_keyword_stats.py:254] - 开始处理表: saic_volkswagen_tiguan_l_pro
+2025-05-03 20:47:12,946 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 SUV 的情感类型 0
+2025-05-03 20:47:22,490 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 SUV 的情感类型 1
+2025-05-03 20:47:31,998 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 SUV 的情感类型 2
+2025-05-03 20:47:41,642 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 SUV 的情感类型 3
+2025-05-03 20:47:52,345 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 SUV 的情感类型 4
+2025-05-03 20:48:04,259 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 MPV 的情感类型 0
+2025-05-03 20:48:15,431 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 MPV 的情感类型 1
+2025-05-03 20:48:26,473 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 MPV 的情感类型 2
+2025-05-03 20:48:36,700 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 MPV 的情感类型 3
+2025-05-03 20:48:47,018 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 MPV 的情感类型 4
+2025-05-03 20:48:58,542 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 轿车 的情感类型 0
+2025-05-03 20:49:08,880 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 轿车 的情感类型 1
+2025-05-03 20:49:19,186 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 轿车 的情感类型 2
+2025-05-03 20:49:29,263 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 轿车 的情感类型 3
+2025-05-03 20:49:39,250 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 轿车 的情感类型 4
+2025-05-03 20:49:49,786 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 燃油 的情感类型 0
+2025-05-03 20:50:00,951 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 燃油 的情感类型 1
+2025-05-03 20:50:11,831 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 燃油 的情感类型 2
+2025-05-03 20:50:22,207 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 燃油 的情感类型 3
+2025-05-03 20:50:32,594 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 燃油 的情感类型 4
+2025-05-03 20:50:42,886 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 新能源 的情感类型 0
+2025-05-03 20:50:53,532 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 新能源 的情感类型 1
+2025-05-03 20:51:03,849 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 新能源 的情感类型 2
+2025-05-03 20:51:13,921 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 新能源 的情感类型 3
+2025-05-03 20:51:24,125 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 新能源 的情感类型 4
+2025-05-03 20:51:34,328 - INFO - [car_type_keyword_stats.py:334] - 成功处理表 saic_volkswagen_tiguan_l_pro，耗时 261.44 秒
+2025-05-03 20:51:34,328 - INFO - [car_type_keyword_stats.py:254] - 开始处理表: bmw_x3
+2025-05-03 20:51:34,382 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 SUV 的情感类型 0
+2025-05-03 20:51:46,223 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 SUV 的情感类型 1
+2025-05-03 20:51:57,253 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 SUV 的情感类型 2
+2025-05-03 20:52:07,793 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 SUV 的情感类型 3
+2025-05-03 20:52:18,296 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 SUV 的情感类型 4
+2025-05-03 20:52:28,867 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 MPV 的情感类型 0
+2025-05-03 20:52:39,360 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 MPV 的情感类型 1
+2025-05-03 20:52:49,659 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 MPV 的情感类型 2
+2025-05-03 20:53:00,441 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 MPV 的情感类型 3
+2025-05-03 20:53:10,514 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 MPV 的情感类型 4
+2025-05-03 20:53:20,601 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 轿车 的情感类型 0
+2025-05-03 20:53:30,477 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 轿车 的情感类型 1
+2025-05-03 20:53:40,582 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 轿车 的情感类型 2
+2025-05-03 20:53:51,233 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 轿车 的情感类型 3
+2025-05-03 20:54:01,922 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 轿车 的情感类型 4
+2025-05-03 20:54:12,773 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 燃油 的情感类型 0
+2025-05-03 20:54:29,657 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 燃油 的情感类型 1
+2025-05-03 20:54:42,342 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 燃油 的情感类型 2
+2025-05-03 20:54:53,781 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 燃油 的情感类型 3
+2025-05-03 20:55:05,134 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 燃油 的情感类型 4
+2025-05-03 20:55:16,488 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 新能源 的情感类型 0
+2025-05-03 20:55:26,902 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 新能源 的情感类型 1
+2025-05-03 20:55:37,230 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 新能源 的情感类型 2
+2025-05-03 20:55:47,712 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 新能源 的情感类型 3
+2025-05-03 20:55:59,688 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 新能源 的情感类型 4
+2025-05-03 20:56:10,103 - INFO - [car_type_keyword_stats.py:334] - 成功处理表 bmw_x3，耗时 275.78 秒
+2025-05-03 20:56:10,103 - INFO - [car_type_keyword_stats.py:254] - 开始处理表: audi_q5l
+2025-05-03 20:56:10,169 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 SUV 的情感类型 0
+2025-05-03 20:56:20,967 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 SUV 的情感类型 1
+2025-05-03 20:56:31,593 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 SUV 的情感类型 2
+2025-05-03 20:56:42,283 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 SUV 的情感类型 3
+2025-05-03 20:56:53,436 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 SUV 的情感类型 4
+2025-05-03 20:57:04,443 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 MPV 的情感类型 0
+2025-05-03 20:57:14,434 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 MPV 的情感类型 1
+2025-05-03 20:57:24,822 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 MPV 的情感类型 2
+2025-05-03 20:57:35,503 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 MPV 的情感类型 3
+2025-05-03 20:57:46,667 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 MPV 的情感类型 4
+2025-05-03 20:57:58,137 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 轿车 的情感类型 0
+2025-05-03 20:58:08,538 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 轿车 的情感类型 1
+2025-05-03 20:58:18,988 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 轿车 的情感类型 2
+2025-05-03 20:58:29,411 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 轿车 的情感类型 3
+2025-05-03 20:58:39,863 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 轿车 的情感类型 4
+2025-05-03 20:58:50,387 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 燃油 的情感类型 0
+2025-05-03 20:59:01,939 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 燃油 的情感类型 1
+2025-05-03 20:59:12,532 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 燃油 的情感类型 2
+2025-05-03 20:59:23,287 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 燃油 的情感类型 3
+2025-05-03 20:59:33,753 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 燃油 的情感类型 4
+2025-05-03 20:59:44,397 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 新能源 的情感类型 0
+2025-05-03 20:59:55,496 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 新能源 的情感类型 1
+2025-05-03 21:00:05,803 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 新能源 的情感类型 2
+2025-05-03 21:00:16,018 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 新能源 的情感类型 3
+2025-05-03 21:00:26,365 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 新能源 的情感类型 4
+2025-05-03 21:00:36,619 - INFO - [car_type_keyword_stats.py:334] - 成功处理表 audi_q5l，耗时 266.52 秒
+2025-05-03 21:00:36,634 - INFO - [car_type_keyword_stats.py:254] - 开始处理表: buick_envision
+2025-05-03 21:00:36,689 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 SUV 的情感类型 0
+2025-05-03 21:00:47,914 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 SUV 的情感类型 1
+2025-05-03 21:00:59,181 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 SUV 的情感类型 2
+2025-05-03 21:01:10,078 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 SUV 的情感类型 3
+2025-05-03 21:01:20,505 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 SUV 的情感类型 4
+2025-05-03 21:01:31,855 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 MPV 的情感类型 0
+2025-05-03 21:01:42,202 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 MPV 的情感类型 1
+2025-05-03 21:01:52,782 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 MPV 的情感类型 2
+2025-05-03 21:02:03,282 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 MPV 的情感类型 3
+2025-05-03 21:02:13,510 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 MPV 的情感类型 4
+2025-05-03 21:02:23,827 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 轿车 的情感类型 0
+2025-05-03 21:02:34,161 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 轿车 的情感类型 1
+2025-05-03 21:02:44,764 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 轿车 的情感类型 2
+2025-05-03 21:02:55,717 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 轿车 的情感类型 3
+2025-05-03 21:03:06,180 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 轿车 的情感类型 4
+2025-05-03 21:03:16,380 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 燃油 的情感类型 0
+2025-05-03 21:03:27,020 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 燃油 的情感类型 1
+2025-05-03 21:03:37,505 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 燃油 的情感类型 2
+2025-05-03 21:03:47,929 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 燃油 的情感类型 3
+2025-05-03 21:03:59,565 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 燃油 的情感类型 4
+2025-05-03 21:04:10,322 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 新能源 的情感类型 0
+2025-05-03 21:04:20,499 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 新能源 的情感类型 1
+2025-05-03 21:04:30,780 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 新能源 的情感类型 2
+2025-05-03 21:04:41,076 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 新能源 的情感类型 3
+2025-05-03 21:04:51,853 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 新能源 的情感类型 4
+2025-05-03 21:05:02,679 - INFO - [car_type_keyword_stats.py:334] - 成功处理表 buick_envision，耗时 266.04 秒
+2025-05-03 21:05:02,679 - INFO - [car_type_keyword_stats.py:254] - 开始处理表: chevrolet_equinox
+2025-05-03 21:05:02,752 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 SUV 的情感类型 0
+2025-05-03 21:05:13,592 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 SUV 的情感类型 1
+2025-05-03 21:05:23,971 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 SUV 的情感类型 2
+2025-05-03 21:05:34,496 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 SUV 的情感类型 3
+2025-05-03 21:05:45,116 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 SUV 的情感类型 4
+2025-05-03 21:05:56,448 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 MPV 的情感类型 0
+2025-05-03 21:06:06,860 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 MPV 的情感类型 1
+2025-05-03 21:06:17,146 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 MPV 的情感类型 2
+2025-05-03 21:06:27,462 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 MPV 的情感类型 3
+2025-05-03 21:06:37,690 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 MPV 的情感类型 4
+2025-05-03 21:06:48,127 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 轿车 的情感类型 0
+2025-05-03 21:06:58,907 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 轿车 的情感类型 1
+2025-05-03 21:07:09,385 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 轿车 的情感类型 2
+2025-05-03 21:07:19,640 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 轿车 的情感类型 3
+2025-05-03 21:07:30,548 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 轿车 的情感类型 4
+2025-05-03 21:07:41,082 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 燃油 的情感类型 0
+2025-05-03 21:07:51,877 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 燃油 的情感类型 1
+2025-05-03 21:08:03,009 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 燃油 的情感类型 2
+2025-05-03 21:08:13,608 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 燃油 的情感类型 3
+2025-05-03 21:08:24,070 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 燃油 的情感类型 4
+2025-05-03 21:08:34,600 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 新能源 的情感类型 0
+2025-05-03 21:08:44,951 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 新能源 的情感类型 1
+2025-05-03 21:08:57,339 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 新能源 的情感类型 2
+2025-05-03 21:09:08,025 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 新能源 的情感类型 3
+2025-05-03 21:09:18,249 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 新能源 的情感类型 4
+2025-05-03 21:09:28,555 - INFO - [car_type_keyword_stats.py:334] - 成功处理表 chevrolet_equinox，耗时 265.88 秒
+2025-05-03 21:09:28,555 - INFO - [car_type_keyword_stats.py:254] - 开始处理表: jeep_compass
+2025-05-03 21:09:28,617 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 SUV 的情感类型 0
+2025-05-03 21:09:39,291 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 SUV 的情感类型 1
+2025-05-03 21:09:49,683 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 SUV 的情感类型 2
+2025-05-03 21:10:01,340 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 SUV 的情感类型 3
+2025-05-03 21:10:11,870 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 SUV 的情感类型 4
+2025-05-03 21:10:23,030 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 MPV 的情感类型 0
+2025-05-03 21:10:33,317 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 MPV 的情感类型 1
+2025-05-03 21:10:43,481 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 MPV 的情感类型 2
+2025-05-03 21:10:54,132 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 MPV 的情感类型 3
+2025-05-03 21:11:04,561 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 MPV 的情感类型 4
+2025-05-03 21:11:14,813 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 轿车 的情感类型 0
+2025-05-03 21:11:25,051 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 轿车 的情感类型 1
+2025-05-03 21:11:35,613 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 轿车 的情感类型 2
+2025-05-03 21:11:46,078 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 轿车 的情感类型 3
+2025-05-03 21:11:57,714 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 轿车 的情感类型 4
+2025-05-03 21:12:09,236 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 燃油 的情感类型 0
+2025-05-03 21:12:20,928 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 燃油 的情感类型 1
+2025-05-03 21:12:33,735 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 燃油 的情感类型 2
+2025-05-03 21:12:45,557 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 燃油 的情感类型 3
+2025-05-03 21:12:57,893 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 燃油 的情感类型 4
+2025-05-03 21:13:09,696 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 新能源 的情感类型 0
+2025-05-03 21:13:21,388 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 新能源 的情感类型 1
+2025-05-03 21:13:33,166 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 新能源 的情感类型 2
+2025-05-03 21:13:44,695 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 新能源 的情感类型 3
+2025-05-03 21:13:59,954 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 新能源 的情感类型 4
+2025-05-03 21:14:11,474 - INFO - [car_type_keyword_stats.py:334] - 成功处理表 jeep_compass，耗时 282.92 秒
+2025-05-03 21:14:11,474 - INFO - [car_type_keyword_stats.py:254] - 开始处理表: gac_trumpchi_m8
+2025-05-03 21:14:11,536 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 SUV 的情感类型 0
+2025-05-03 21:14:23,890 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 SUV 的情感类型 1
+2025-05-03 21:14:37,803 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 SUV 的情感类型 2
+2025-05-03 21:14:49,337 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 SUV 的情感类型 3
+2025-05-03 21:15:01,427 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 SUV 的情感类型 4
+2025-05-03 21:15:13,069 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 MPV 的情感类型 0
+2025-05-03 21:15:24,357 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 MPV 的情感类型 1
+2025-05-03 21:15:39,127 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 MPV 的情感类型 2
+2025-05-03 21:15:52,936 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 MPV 的情感类型 3
+2025-05-03 21:16:04,934 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 MPV 的情感类型 4
+2025-05-03 21:16:15,103 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 轿车 的情感类型 0
+2025-05-03 21:16:24,149 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 轿车 的情感类型 1
+2025-05-03 21:16:34,952 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 轿车 的情感类型 2
+2025-05-03 21:16:46,907 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 轿车 的情感类型 3
+2025-05-03 21:16:58,932 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 轿车 的情感类型 4
+2025-05-03 21:17:10,354 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 燃油 的情感类型 0
+2025-05-03 21:17:20,993 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 燃油 的情感类型 1
+2025-05-03 21:17:31,623 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 燃油 的情感类型 2
+2025-05-03 21:17:42,304 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 燃油 的情感类型 3
+2025-05-03 21:17:53,268 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 燃油 的情感类型 4
+2025-05-03 21:18:04,966 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 新能源 的情感类型 0
+2025-05-03 21:18:14,147 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 新能源 的情感类型 1
+2025-05-03 21:18:23,876 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 新能源 的情感类型 2
+2025-05-03 21:18:33,842 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 新能源 的情感类型 3
+2025-05-03 21:18:43,977 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 新能源 的情感类型 4
+2025-05-03 21:18:53,869 - INFO - [car_type_keyword_stats.py:334] - 成功处理表 gac_trumpchi_m8，耗时 282.39 秒
+2025-05-03 21:18:53,869 - INFO - [car_type_keyword_stats.py:254] - 开始处理表: buick_gl8
+2025-05-03 21:18:53,925 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 SUV 的情感类型 0
+2025-05-03 21:19:04,546 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 SUV 的情感类型 1
+2025-05-03 21:19:14,574 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 SUV 的情感类型 2
+2025-05-03 21:19:24,301 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 SUV 的情感类型 3
+2025-05-03 21:19:34,410 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 SUV 的情感类型 4
+2025-05-03 21:19:44,418 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 MPV 的情感类型 0
+2025-05-03 21:19:54,839 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 MPV 的情感类型 1
+2025-05-03 21:20:06,495 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 MPV 的情感类型 2
+2025-05-03 21:20:19,374 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 MPV 的情感类型 3
+2025-05-03 21:20:35,308 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 MPV 的情感类型 4
+2025-05-03 21:20:45,825 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 轿车 的情感类型 0
+2025-05-03 21:20:55,291 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 轿车 的情感类型 1
+2025-05-03 21:21:06,305 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 轿车 的情感类型 2
+2025-05-03 21:21:15,764 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 轿车 的情感类型 3
+2025-05-03 21:21:24,227 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 轿车 的情感类型 4
+2025-05-03 21:21:32,932 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 燃油 的情感类型 0
+2025-05-03 21:21:42,509 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 燃油 的情感类型 1
+2025-05-03 21:21:52,053 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 燃油 的情感类型 2
+2025-05-03 21:22:02,111 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 燃油 的情感类型 3
+2025-05-03 21:22:16,093 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 燃油 的情感类型 4
+2025-05-03 21:22:25,718 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 新能源 的情感类型 0
+2025-05-03 21:22:35,678 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 新能源 的情感类型 1
+2025-05-03 21:22:45,306 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 新能源 的情感类型 2
+2025-05-03 21:22:54,862 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 新能源 的情感类型 3
+2025-05-03 21:23:04,864 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 新能源 的情感类型 4
+2025-05-03 21:23:14,763 - INFO - [car_type_keyword_stats.py:334] - 成功处理表 buick_gl8，耗时 260.89 秒
+2025-05-03 21:23:14,763 - INFO - [car_type_keyword_stats.py:254] - 开始处理表: honda_odyssey
+2025-05-03 21:23:14,809 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 SUV 的情感类型 0
+2025-05-03 21:23:24,066 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 SUV 的情感类型 1
+2025-05-03 21:23:33,298 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 SUV 的情感类型 2
+2025-05-03 21:23:42,490 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 SUV 的情感类型 3
+2025-05-03 21:23:51,711 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 SUV 的情感类型 4
+2025-05-03 21:24:01,825 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 MPV 的情感类型 0
+2025-05-03 21:24:12,345 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 MPV 的情感类型 1
+2025-05-03 21:24:22,590 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 MPV 的情感类型 2
+2025-05-03 21:24:32,151 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 MPV 的情感类型 3
+2025-05-03 21:24:41,697 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 MPV 的情感类型 4
+2025-05-03 21:24:51,218 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 轿车 的情感类型 0
+2025-05-03 21:25:01,161 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 轿车 的情感类型 1
+2025-05-03 21:25:14,063 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 轿车 的情感类型 2
+2025-05-03 21:25:24,503 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 轿车 的情感类型 3
+2025-05-03 21:25:35,123 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 轿车 的情感类型 4
+2025-05-03 21:25:45,540 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 燃油 的情感类型 0
+2025-05-03 21:25:55,415 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 燃油 的情感类型 1
+2025-05-03 21:26:06,020 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 燃油 的情感类型 2
+2025-05-03 21:26:16,185 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 燃油 的情感类型 3
+2025-05-03 21:26:26,356 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 燃油 的情感类型 4
+2025-05-03 21:26:36,697 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 新能源 的情感类型 0
+2025-05-03 21:26:46,404 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 新能源 的情感类型 1
+2025-05-03 21:26:55,879 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 新能源 的情感类型 2
+2025-05-03 21:27:05,812 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 新能源 的情感类型 3
+2025-05-03 21:27:15,132 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 新能源 的情感类型 4
+2025-05-03 21:27:24,550 - INFO - [car_type_keyword_stats.py:334] - 成功处理表 honda_odyssey，耗时 249.79 秒
+2025-05-03 21:27:24,550 - INFO - [car_type_keyword_stats.py:254] - 开始处理表: toyota_sienna
+2025-05-03 21:27:24,598 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 SUV 的情感类型 0
+2025-05-03 21:27:34,103 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 SUV 的情感类型 1
+2025-05-03 21:27:43,540 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 SUV 的情感类型 2
+2025-05-03 21:27:52,684 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 SUV 的情感类型 3
+2025-05-03 21:28:02,451 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 SUV 的情感类型 4
+2025-05-03 21:28:11,481 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 MPV 的情感类型 0
+2025-05-03 21:28:21,164 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 MPV 的情感类型 1
+2025-05-03 21:28:30,504 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 MPV 的情感类型 2
+2025-05-03 21:28:40,064 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 MPV 的情感类型 3
+2025-05-03 21:28:49,569 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 MPV 的情感类型 4
+2025-05-03 21:29:00,199 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 轿车 的情感类型 0
+2025-05-03 21:29:09,544 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 轿车 的情感类型 1
+2025-05-03 21:29:19,411 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 轿车 的情感类型 2
+2025-05-03 21:29:33,087 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 轿车 的情感类型 3
+2025-05-03 21:29:43,725 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 轿车 的情感类型 4
+2025-05-03 21:29:53,257 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 燃油 的情感类型 0
+2025-05-03 21:30:03,492 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 燃油 的情感类型 1
+2025-05-03 21:30:13,608 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 燃油 的情感类型 2
+2025-05-03 21:30:23,336 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 燃油 的情感类型 3
+2025-05-03 21:30:32,997 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 燃油 的情感类型 4
+2025-05-03 21:30:42,711 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 新能源 的情感类型 0
+2025-05-03 21:30:52,341 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 新能源 的情感类型 1
+2025-05-03 21:31:02,397 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 新能源 的情感类型 2
+2025-05-03 21:31:13,249 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 新能源 的情感类型 3
+2025-05-03 21:31:23,412 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 新能源 的情感类型 4
+2025-05-03 21:31:36,100 - INFO - [car_type_keyword_stats.py:334] - 成功处理表 toyota_sienna，耗时 251.55 秒
+2025-05-03 21:31:36,100 - INFO - [car_type_keyword_stats.py:254] - 开始处理表: saic_volkswagen_viloran
+2025-05-03 21:31:36,166 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 SUV 的情感类型 0
+2025-05-03 21:31:49,050 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 SUV 的情感类型 1
+2025-05-03 21:31:59,018 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 SUV 的情感类型 2
+2025-05-03 21:32:08,917 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 SUV 的情感类型 3
+2025-05-03 21:32:19,435 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 SUV 的情感类型 4
+2025-05-03 21:32:29,676 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 MPV 的情感类型 0
+2025-05-03 21:32:39,998 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 MPV 的情感类型 1
+2025-05-03 21:32:51,026 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 MPV 的情感类型 2
+2025-05-03 21:33:02,902 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 MPV 的情感类型 3
+2025-05-03 21:33:13,233 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 MPV 的情感类型 4
+2025-05-03 21:33:24,095 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 轿车 的情感类型 0
+2025-05-03 21:33:33,812 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 轿车 的情感类型 1
+2025-05-03 21:33:43,132 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 轿车 的情感类型 2
+2025-05-03 21:33:52,255 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 轿车 的情感类型 3
+2025-05-03 21:34:02,747 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 轿车 的情感类型 4
+2025-05-03 21:34:13,463 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 燃油 的情感类型 0
+2025-05-03 21:34:23,697 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 燃油 的情感类型 1
+2025-05-03 21:34:33,765 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 燃油 的情感类型 2
+2025-05-03 21:34:44,783 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 燃油 的情感类型 3
+2025-05-03 21:34:56,919 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 燃油 的情感类型 4
+2025-05-03 21:35:06,666 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 新能源 的情感类型 0
+2025-05-03 21:35:16,522 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 新能源 的情感类型 1
+2025-05-03 21:35:27,544 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 新能源 的情感类型 2
+2025-05-03 21:35:39,684 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 新能源 的情感类型 3
+2025-05-03 21:35:53,993 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 新能源 的情感类型 4
+2025-05-03 21:36:04,508 - INFO - [car_type_keyword_stats.py:334] - 成功处理表 saic_volkswagen_viloran，耗时 268.41 秒
+2025-05-03 21:36:04,508 - INFO - [car_type_keyword_stats.py:254] - 开始处理表: byd_han
+2025-05-03 21:36:04,571 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 SUV 的情感类型 0
+2025-05-03 21:36:14,550 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 SUV 的情感类型 1
+2025-05-03 21:36:23,403 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 SUV 的情感类型 2
+2025-05-03 21:36:31,576 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 SUV 的情感类型 3
+2025-05-03 21:36:41,322 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 SUV 的情感类型 4
+2025-05-03 21:36:58,463 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 MPV 的情感类型 0
+2025-05-03 21:37:11,937 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 MPV 的情感类型 1
+2025-05-03 21:37:22,772 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 MPV 的情感类型 2
+2025-05-03 21:37:33,638 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 MPV 的情感类型 3
+2025-05-03 21:37:46,041 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 MPV 的情感类型 4
+2025-05-03 21:37:58,210 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 轿车 的情感类型 0
+2025-05-03 21:38:10,185 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 轿车 的情感类型 1
+2025-05-03 21:38:22,019 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 轿车 的情感类型 2
+2025-05-03 21:38:33,114 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 轿车 的情感类型 3
+2025-05-03 21:38:43,458 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 轿车 的情感类型 4
+2025-05-03 21:38:55,177 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 燃油 的情感类型 0
+2025-05-03 21:39:04,715 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 燃油 的情感类型 1
+2025-05-03 21:39:14,215 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 燃油 的情感类型 2
+2025-05-03 21:39:22,746 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 燃油 的情感类型 3
+2025-05-03 21:39:31,697 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 燃油 的情感类型 4
+2025-05-03 21:39:40,592 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 新能源 的情感类型 0
+2025-05-03 21:39:49,593 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 新能源 的情感类型 1
+2025-05-03 21:40:00,606 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 新能源 的情感类型 2
+2025-05-03 21:40:11,058 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 新能源 的情感类型 3
+2025-05-03 21:40:22,335 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 新能源 的情感类型 4
+2025-05-03 21:40:39,949 - INFO - [car_type_keyword_stats.py:334] - 成功处理表 byd_han，耗时 275.44 秒
+2025-05-03 21:40:39,950 - INFO - [car_type_keyword_stats.py:254] - 开始处理表: gac_aion_aion_s
+2025-05-03 21:40:40,010 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 SUV 的情感类型 0
+2025-05-03 21:40:50,776 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 SUV 的情感类型 1
+2025-05-03 21:41:00,698 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 SUV 的情感类型 2
+2025-05-03 21:41:10,465 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 SUV 的情感类型 3
+2025-05-03 21:41:19,811 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 SUV 的情感类型 4
+2025-05-03 21:41:29,202 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 MPV 的情感类型 0
+2025-05-03 21:41:40,001 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 MPV 的情感类型 1
+2025-05-03 21:41:50,717 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 MPV 的情感类型 2
+2025-05-03 21:42:01,162 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 MPV 的情感类型 3
+2025-05-03 21:42:11,629 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 MPV 的情感类型 4
+2025-05-03 21:42:21,632 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 轿车 的情感类型 0
+2025-05-03 21:42:31,470 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 轿车 的情感类型 1
+2025-05-03 21:42:41,521 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 轿车 的情感类型 2
+2025-05-03 21:42:54,069 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 轿车 的情感类型 3
+2025-05-03 21:43:06,075 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 轿车 的情感类型 4
+2025-05-03 21:43:17,244 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 燃油 的情感类型 0
+2025-05-03 21:43:29,206 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 燃油 的情感类型 1
+2025-05-03 21:43:40,027 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 燃油 的情感类型 2
+2025-05-03 21:43:51,098 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 燃油 的情感类型 3
+2025-05-03 21:44:04,263 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 燃油 的情感类型 4
+2025-05-03 21:44:14,652 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 新能源 的情感类型 0
+2025-05-03 21:44:24,285 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 新能源 的情感类型 1
+2025-05-03 21:44:33,850 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 新能源 的情感类型 2
+2025-05-03 21:44:43,403 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 新能源 的情感类型 3
+2025-05-03 21:44:53,121 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 新能源 的情感类型 4
+2025-05-03 21:45:04,807 - INFO - [car_type_keyword_stats.py:334] - 成功处理表 gac_aion_aion_s，耗时 264.86 秒
+2025-05-03 21:45:04,807 - INFO - [car_type_keyword_stats.py:254] - 开始处理表: tesla_model_3
+2025-05-03 21:45:04,880 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 SUV 的情感类型 0
+2025-05-03 21:45:15,002 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 SUV 的情感类型 1
+2025-05-03 21:45:25,132 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 SUV 的情感类型 2
+2025-05-03 21:45:37,299 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 SUV 的情感类型 3
+2025-05-03 21:45:48,005 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 SUV 的情感类型 4
+2025-05-03 21:45:58,144 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 MPV 的情感类型 0
+2025-05-03 21:46:10,012 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 MPV 的情感类型 1
+2025-05-03 21:46:20,905 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 MPV 的情感类型 2
+2025-05-03 21:46:31,062 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 MPV 的情感类型 3
+2025-05-03 21:46:40,605 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 MPV 的情感类型 4
+2025-05-03 21:46:51,206 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 轿车 的情感类型 0
+2025-05-03 21:47:02,270 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 轿车 的情感类型 1
+2025-05-03 21:47:12,928 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 轿车 的情感类型 2
+2025-05-03 21:47:23,986 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 轿车 的情感类型 3
+2025-05-03 21:47:33,994 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 轿车 的情感类型 4
+2025-05-03 21:47:45,682 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 燃油 的情感类型 0
+2025-05-03 21:47:55,249 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 燃油 的情感类型 1
+2025-05-03 21:48:05,799 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 燃油 的情感类型 2
+2025-05-03 21:48:18,496 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 燃油 的情感类型 3
+2025-05-03 21:48:30,581 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 燃油 的情感类型 4
+2025-05-03 21:48:42,242 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 新能源 的情感类型 0
+2025-05-03 21:48:53,805 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 新能源 的情感类型 1
+2025-05-03 21:49:05,600 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 新能源 的情感类型 2
+2025-05-03 21:49:15,762 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 新能源 的情感类型 3
+2025-05-03 21:49:27,238 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 新能源 的情感类型 4
+2025-05-03 21:49:37,826 - INFO - [car_type_keyword_stats.py:334] - 成功处理表 tesla_model_3，耗时 273.02 秒
+2025-05-03 21:49:37,826 - INFO - [car_type_keyword_stats.py:254] - 开始处理表: bmw_i3
+2025-05-03 21:49:37,901 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 SUV 的情感类型 0
+2025-05-03 21:49:47,611 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 SUV 的情感类型 1
+2025-05-03 21:49:57,981 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 SUV 的情感类型 2
+2025-05-03 21:50:11,694 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 SUV 的情感类型 3
+2025-05-03 21:50:22,183 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 SUV 的情感类型 4
+2025-05-03 21:50:32,402 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 MPV 的情感类型 0
+2025-05-03 21:50:42,712 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 MPV 的情感类型 1
+2025-05-03 21:50:52,818 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 MPV 的情感类型 2
+2025-05-03 21:51:04,965 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 MPV 的情感类型 3
+2025-05-03 21:51:17,884 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 MPV 的情感类型 4
+2025-05-03 21:51:29,052 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 轿车 的情感类型 0
+2025-05-03 21:51:40,197 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 轿车 的情感类型 1
+2025-05-03 21:51:50,747 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 轿车 的情感类型 2
+2025-05-03 21:52:01,278 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 轿车 的情感类型 3
+2025-05-03 21:52:12,348 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 轿车 的情感类型 4
+2025-05-03 21:52:23,203 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 燃油 的情感类型 0
+2025-05-03 21:52:33,412 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 燃油 的情感类型 1
+2025-05-03 21:52:44,043 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 燃油 的情感类型 2
+2025-05-03 21:52:54,323 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 燃油 的情感类型 3
+2025-05-03 21:53:05,174 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 燃油 的情感类型 4
+2025-05-03 21:53:15,458 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 新能源 的情感类型 0
+2025-05-03 21:53:26,095 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 新能源 的情感类型 1
+2025-05-03 21:53:36,334 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 新能源 的情感类型 2
+2025-05-03 21:53:46,651 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 新能源 的情感类型 3
+2025-05-03 21:53:57,260 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 新能源 的情感类型 4
+2025-05-03 21:54:10,750 - INFO - [car_type_keyword_stats.py:334] - 成功处理表 bmw_i3，耗时 272.92 秒
+2025-05-03 21:54:10,752 - INFO - [car_type_keyword_stats.py:254] - 开始处理表: mercedes_benz_eqc
+2025-05-03 21:54:10,813 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 SUV 的情感类型 0
+2025-05-03 21:54:24,576 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 SUV 的情感类型 1
+2025-05-03 21:54:37,545 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 SUV 的情感类型 2
+2025-05-03 21:54:49,440 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 SUV 的情感类型 3
+2025-05-03 21:55:01,557 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 SUV 的情感类型 4
+2025-05-03 21:55:12,583 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 MPV 的情感类型 0
+2025-05-03 21:55:24,192 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 MPV 的情感类型 1
+2025-05-03 21:55:35,021 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 MPV 的情感类型 2
+2025-05-03 21:55:47,200 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 MPV 的情感类型 3
+2025-05-03 21:55:58,548 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 MPV 的情感类型 4
+2025-05-03 21:56:10,215 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 轿车 的情感类型 0
+2025-05-03 21:56:20,468 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 轿车 的情感类型 1
+2025-05-03 21:56:30,850 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 轿车 的情感类型 2
+2025-05-03 21:56:41,330 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 轿车 的情感类型 3
+2025-05-03 21:56:51,667 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 轿车 的情感类型 4
+2025-05-03 21:57:01,967 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 燃油 的情感类型 0
+2025-05-03 21:57:13,494 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 燃油 的情感类型 1
+2025-05-03 21:57:25,567 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 燃油 的情感类型 2
+2025-05-03 21:57:37,869 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 燃油 的情感类型 3
+2025-05-03 21:57:46,987 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 燃油 的情感类型 4
+2025-05-03 21:57:56,435 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 新能源 的情感类型 0
+2025-05-03 21:58:06,105 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 新能源 的情感类型 1
+2025-05-03 21:58:15,313 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 新能源 的情感类型 2
+2025-05-03 21:58:27,217 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 新能源 的情感类型 3
+2025-05-03 21:58:37,219 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 新能源 的情感类型 4
+2025-05-03 21:58:48,122 - INFO - [car_type_keyword_stats.py:334] - 成功处理表 mercedes_benz_eqc，耗时 277.37 秒
+2025-05-03 21:58:48,122 - INFO - [car_type_keyword_stats.py:254] - 开始处理表: byd_qin_plus_ev
+2025-05-03 21:58:48,208 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 SUV 的情感类型 0
+2025-05-03 21:58:58,953 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 SUV 的情感类型 1
+2025-05-03 21:59:08,771 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 SUV 的情感类型 2
+2025-05-03 21:59:18,348 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 SUV 的情感类型 3
+2025-05-03 21:59:27,929 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 SUV 的情感类型 4
+2025-05-03 21:59:36,628 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 MPV 的情感类型 0
+2025-05-03 21:59:45,535 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 MPV 的情感类型 1
+2025-05-03 21:59:56,301 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 MPV 的情感类型 2
+2025-05-03 22:00:07,381 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 MPV 的情感类型 3
+2025-05-03 22:00:18,075 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 MPV 的情感类型 4
+2025-05-03 22:00:32,742 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 轿车 的情感类型 0
+2025-05-03 22:00:50,259 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 轿车 的情感类型 1
+2025-05-03 22:01:02,478 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 轿车 的情感类型 2
+2025-05-03 22:01:14,611 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 轿车 的情感类型 3
+2025-05-03 22:01:25,043 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 轿车 的情感类型 4
+2025-05-03 22:01:36,080 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 燃油 的情感类型 0
+2025-05-03 22:01:48,368 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 燃油 的情感类型 1
+2025-05-03 22:01:58,785 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 燃油 的情感类型 2
+2025-05-03 22:02:09,741 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 燃油 的情感类型 3
+2025-05-03 22:02:20,155 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 燃油 的情感类型 4
+2025-05-03 22:02:32,896 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 新能源 的情感类型 0
+2025-05-03 22:02:44,142 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 新能源 的情感类型 1
+2025-05-03 22:02:57,103 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 新能源 的情感类型 2
+2025-05-03 22:03:09,264 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 新能源 的情感类型 3
+2025-05-03 22:03:19,571 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 新能源 的情感类型 4
+2025-05-03 22:03:29,273 - INFO - [car_type_keyword_stats.py:334] - 成功处理表 byd_qin_plus_ev，耗时 281.15 秒
+2025-05-03 22:03:29,289 - INFO - [car_type_keyword_stats.py:254] - 开始处理表: nio_et5
+2025-05-03 22:03:29,336 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 SUV 的情感类型 0
+2025-05-03 22:03:39,109 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 SUV 的情感类型 1
+2025-05-03 22:03:48,969 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 SUV 的情感类型 2
+2025-05-03 22:04:03,405 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 SUV 的情感类型 3
+2025-05-03 22:04:17,407 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 SUV 的情感类型 4
+2025-05-03 22:04:28,567 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 MPV 的情感类型 0
+2025-05-03 22:04:39,815 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 MPV 的情感类型 1
+2025-05-03 22:04:50,087 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 MPV 的情感类型 2
+2025-05-03 22:05:03,070 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 MPV 的情感类型 3
+2025-05-03 22:05:13,104 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 MPV 的情感类型 4
+2025-05-03 22:05:23,592 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 轿车 的情感类型 0
+2025-05-03 22:05:33,765 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 轿车 的情感类型 1
+2025-05-03 22:05:45,973 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 轿车 的情感类型 2
+2025-05-03 22:06:00,933 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 轿车 的情感类型 3
+2025-05-03 22:06:13,256 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 轿车 的情感类型 4
+2025-05-03 22:06:27,564 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 燃油 的情感类型 0
+2025-05-03 22:06:39,376 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 燃油 的情感类型 1
+2025-05-03 22:06:51,387 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 燃油 的情感类型 2
+2025-05-03 22:07:02,047 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 燃油 的情感类型 3
+2025-05-03 22:07:13,638 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 燃油 的情感类型 4
+2025-05-03 22:07:25,417 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 新能源 的情感类型 0
+2025-05-03 22:07:38,373 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 新能源 的情感类型 1
+2025-05-03 22:07:51,575 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 新能源 的情感类型 2
+2025-05-03 22:08:02,979 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 新能源 的情感类型 3
+2025-05-03 22:08:17,907 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 新能源 的情感类型 4
+2025-05-03 22:08:30,881 - INFO - [car_type_keyword_stats.py:334] - 成功处理表 nio_et5，耗时 301.61 秒
+2025-05-03 22:08:30,881 - INFO - [car_type_keyword_stats.py:254] - 开始处理表: xpeng_p7
+2025-05-03 22:08:30,956 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 SUV 的情感类型 0
+2025-05-03 22:08:42,819 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 SUV 的情感类型 1
+2025-05-03 22:08:53,293 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 SUV 的情感类型 2
+2025-05-03 22:09:04,634 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 SUV 的情感类型 3
+2025-05-03 22:09:18,073 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 SUV 的情感类型 4
+2025-05-03 22:09:30,620 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 MPV 的情感类型 0
+2025-05-03 22:09:40,894 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 MPV 的情感类型 1
+2025-05-03 22:09:51,306 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 MPV 的情感类型 2
+2025-05-03 22:10:02,176 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 MPV 的情感类型 3
+2025-05-03 22:10:14,803 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 MPV 的情感类型 4
+2025-05-03 22:10:25,173 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 轿车 的情感类型 0
+2025-05-03 22:10:35,331 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 轿车 的情感类型 1
+2025-05-03 22:10:47,379 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 轿车 的情感类型 2
+2025-05-03 22:11:01,896 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 轿车 的情感类型 3
+2025-05-03 22:11:14,102 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 轿车 的情感类型 4
+2025-05-03 22:11:27,101 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 燃油 的情感类型 0
+2025-05-03 22:11:40,592 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 燃油 的情感类型 1
+2025-05-03 22:12:03,867 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 燃油 的情感类型 2
+2025-05-03 22:12:13,848 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 燃油 的情感类型 3
+2025-05-03 22:12:23,796 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 燃油 的情感类型 4
+2025-05-03 22:12:33,675 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 新能源 的情感类型 0
+2025-05-03 22:12:44,343 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 新能源 的情感类型 1
+2025-05-03 22:12:54,479 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 新能源 的情感类型 2
+2025-05-03 22:13:06,940 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 新能源 的情感类型 3
+2025-05-03 22:13:24,500 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 新能源 的情感类型 4
+2025-05-03 22:13:37,878 - INFO - [car_type_keyword_stats.py:334] - 成功处理表 xpeng_p7，耗时 307.00 秒
+2025-05-03 22:13:37,878 - INFO - [car_type_keyword_stats.py:254] - 开始处理表: xiaomi_su7
+2025-05-03 22:13:37,965 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 SUV 的情感类型 0
+2025-05-03 22:13:48,818 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 SUV 的情感类型 1
+2025-05-03 22:13:58,437 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 SUV 的情感类型 2
+2025-05-03 22:14:07,468 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 SUV 的情感类型 3
+2025-05-03 22:14:16,790 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 SUV 的情感类型 4
+2025-05-03 22:14:25,832 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 MPV 的情感类型 0
+2025-05-03 22:14:34,876 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 MPV 的情感类型 1
+2025-05-03 22:14:44,073 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 MPV 的情感类型 2
+2025-05-03 22:14:52,708 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 MPV 的情感类型 3
+2025-05-03 22:15:01,473 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 MPV 的情感类型 4
+2025-05-03 22:15:10,085 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 轿车 的情感类型 0
+2025-05-03 22:15:18,862 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 轿车 的情感类型 1
+2025-05-03 22:15:28,171 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 轿车 的情感类型 2
+2025-05-03 22:15:37,654 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 轿车 的情感类型 3
+2025-05-03 22:15:47,548 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 轿车 的情感类型 4
+2025-05-03 22:15:57,647 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 燃油 的情感类型 0
+2025-05-03 22:16:08,167 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 燃油 的情感类型 1
+2025-05-03 22:16:18,010 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 燃油 的情感类型 2
+2025-05-03 22:16:28,023 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 燃油 的情感类型 3
+2025-05-03 22:16:37,444 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 燃油 的情感类型 4
+2025-05-03 22:16:46,559 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 新能源 的情感类型 0
+2025-05-03 22:16:56,172 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 新能源 的情感类型 1
+2025-05-03 22:17:06,037 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 新能源 的情感类型 2
+2025-05-03 22:17:16,453 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 新能源 的情感类型 3
+2025-05-03 22:17:26,390 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 新能源 的情感类型 4
+2025-05-03 22:17:36,393 - INFO - [car_type_keyword_stats.py:334] - 成功处理表 xiaomi_su7，耗时 238.52 秒
+2025-05-03 22:17:36,393 - INFO - [car_type_keyword_stats.py:254] - 开始处理表: chery_fengyun_a8
+2025-05-03 22:17:36,450 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 SUV 的情感类型 0
+2025-05-03 22:17:45,765 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 SUV 的情感类型 1
+2025-05-03 22:17:55,072 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 SUV 的情感类型 2
+2025-05-03 22:18:04,642 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 SUV 的情感类型 3
+2025-05-03 22:18:14,581 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 SUV 的情感类型 4
+2025-05-03 22:18:24,532 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 MPV 的情感类型 0
+2025-05-03 22:18:34,012 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 MPV 的情感类型 1
+2025-05-03 22:18:43,402 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 MPV 的情感类型 2
+2025-05-03 22:18:52,706 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 MPV 的情感类型 3
+2025-05-03 22:19:02,095 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 MPV 的情感类型 4
+2025-05-03 22:19:11,074 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 轿车 的情感类型 0
+2025-05-03 22:19:20,474 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 轿车 的情感类型 1
+2025-05-03 22:19:29,500 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 轿车 的情感类型 2
+2025-05-03 22:19:39,239 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 轿车 的情感类型 3
+2025-05-03 22:19:49,249 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 轿车 的情感类型 4
+2025-05-03 22:19:58,403 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 燃油 的情感类型 0
+2025-05-03 22:20:10,410 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 燃油 的情感类型 1
+2025-05-03 22:20:22,525 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 燃油 的情感类型 2
+2025-05-03 22:20:31,184 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 燃油 的情感类型 3
+2025-05-03 22:20:40,235 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 燃油 的情感类型 4
+2025-05-03 22:20:55,715 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 新能源 的情感类型 0
+2025-05-03 22:21:20,762 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 新能源 的情感类型 1
+2025-05-03 22:21:34,190 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 新能源 的情感类型 2
+2025-05-03 22:21:48,799 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 新能源 的情感类型 3
+2025-05-03 22:22:00,376 - INFO - [car_type_keyword_stats.py:311] - 处理动力类型 新能源 的情感类型 4
+2025-05-03 22:22:14,027 - INFO - [car_type_keyword_stats.py:334] - 成功处理表 chery_fengyun_a8，耗时 277.63 秒
+2025-05-03 22:22:14,027 - INFO - [car_type_keyword_stats.py:254] - 开始处理表: byd_song_plus_ev
+2025-05-03 22:22:14,095 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 SUV 的情感类型 0
+2025-05-03 22:22:24,074 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 SUV 的情感类型 1
+2025-05-03 22:22:33,882 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 SUV 的情感类型 2
+2025-05-03 22:22:44,850 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 SUV 的情感类型 3
+2025-05-03 22:22:56,909 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 SUV 的情感类型 4
+2025-05-03 22:23:08,279 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 MPV 的情感类型 0
+2025-05-03 22:23:19,472 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 MPV 的情感类型 1
+2025-05-03 22:23:31,163 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 MPV 的情感类型 2
+2025-05-03 22:23:41,080 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 MPV 的情感类型 3
+2025-05-03 22:23:51,886 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 MPV 的情感类型 4
+2025-05-03 22:24:02,841 - INFO - [car_type_keyword_stats.py:286] - 处理车型类别 轿车 的情感类型 0
+2025-05-03 22:24:13,850 - ERROR - [car_type_keyword_stats.py:337] - 处理表 byd_song_plus_ev 时发生错误: An error occurred while calling o38007.jdbc
+2025-05-03 22:24:13,850 - INFO - [car_type_keyword_stats.py:254] - 开始处理表: gac_aion_aion_y
+2025-05-03 22:24:14,024 - ERROR - [car_type_keyword_stats.py:337] - 处理表 gac_aion_aion_y 时发生错误: An error occurred while calling o38025.cache.
+: java.lang.IllegalStateException: Cannot call methods on a stopped SparkContext.
+This stopped SparkContext was created at:
+
+org.apache.spark.api.java.JavaSparkContext.<init>(JavaSparkContext.scala:58)
+sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+java.lang.reflect.Constructor.newInstance(Unknown Source)
+py4j.reflection.MethodInvoker.invoke(MethodInvoker.java:247)
+py4j.reflection.ReflectionEngine.invoke(ReflectionEngine.java:374)
+py4j.Gateway.invoke(Gateway.java:238)
+py4j.commands.ConstructorCommand.invokeConstructor(ConstructorCommand.java:80)
+py4j.commands.ConstructorCommand.execute(ConstructorCommand.java:69)
+py4j.ClientServerConnection.waitForCommands(ClientServerConnection.java:182)
+py4j.ClientServerConnection.run(ClientServerConnection.java:106)
+java.lang.Thread.run(Unknown Source)
+
+The currently active SparkContext was created at:
+
+org.apache.spark.api.java.JavaSparkContext.<init>(JavaSparkContext.scala:58)
+sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+java.lang.reflect.Constructor.newInstance(Unknown Source)
+py4j.reflection.MethodInvoker.invoke(MethodInvoker.java:247)
+py4j.reflection.ReflectionEngine.invoke(ReflectionEngine.java:374)
+py4j.Gateway.invoke(Gateway.java:238)
+py4j.commands.ConstructorCommand.invokeConstructor(ConstructorCommand.java:80)
+py4j.commands.ConstructorCommand.execute(ConstructorCommand.java:69)
+py4j.ClientServerConnection.waitForCommands(ClientServerConnection.java:182)
+py4j.ClientServerConnection.run(ClientServerConnection.java:106)
+java.lang.Thread.run(Unknown Source)
+         
+	at org.apache.spark.SparkContext.assertNotStopped(SparkContext.scala:122)
+	at org.apache.spark.sql.SparkSession.<init>(SparkSession.scala:113)
+	at org.apache.spark.sql.SparkSession.cloneSession(SparkSession.scala:278)
+	at org.apache.spark.sql.SparkSession$.getOrCloneSessionWithConfigsOff(SparkSession.scala:1255)
+	at org.apache.spark.sql.execution.CacheManager.getOrCloneSessionWithConfigsOff(CacheManager.scala:406)
+	at org.apache.spark.sql.execution.CacheManager.cacheQuery(CacheManager.scala:121)
+	at org.apache.spark.sql.execution.CacheManager.cacheQuery(CacheManager.scala:93)
+	at org.apache.spark.sql.Dataset.persist(Dataset.scala:3775)
+	at org.apache.spark.sql.Dataset.cache(Dataset.scala:3785)
+	at sun.reflect.GeneratedMethodAccessor150.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at py4j.reflection.MethodInvoker.invoke(MethodInvoker.java:244)
+	at py4j.reflection.ReflectionEngine.invoke(ReflectionEngine.java:374)
+	at py4j.Gateway.invoke(Gateway.java:282)
+	at py4j.commands.AbstractCommand.invokeMethod(AbstractCommand.java:132)
+	at py4j.commands.CallCommand.execute(CallCommand.java:79)
+	at py4j.ClientServerConnection.waitForCommands(ClientServerConnection.java:182)
+	at py4j.ClientServerConnection.run(ClientServerConnection.java:106)
+	at java.lang.Thread.run(Unknown Source)
+
+2025-05-03 22:24:14,030 - INFO - [car_type_keyword_stats.py:254] - 开始处理表: tesla_model_y
+2025-05-03 22:24:16,754 - ERROR - [car_type_keyword_stats.py:337] - 处理表 tesla_model_y 时发生错误: py4j does not exist in the JVM
+2025-05-03 22:24:16,756 - INFO - [car_type_keyword_stats.py:254] - 开始处理表: nio_es6
+2025-05-03 22:24:18,794 - ERROR - [car_type_keyword_stats.py:337] - 处理表 nio_es6 时发生错误: [WinError 10061] 由于目标计算机积极拒绝，无法连接。
+2025-05-03 22:24:18,794 - INFO - [car_type_keyword_stats.py:254] - 开始处理表: xpeng_g6
+2025-05-03 22:24:20,847 - ERROR - [car_type_keyword_stats.py:337] - 处理表 xpeng_g6 时发生错误: [WinError 10061] 由于目标计算机积极拒绝，无法连接。
+2025-05-03 22:24:20,847 - INFO - [car_type_keyword_stats.py:254] - 开始处理表: voyah_dreamer
+2025-05-03 22:24:22,873 - ERROR - [car_type_keyword_stats.py:337] - 处理表 voyah_dreamer 时发生错误: [WinError 10061] 由于目标计算机积极拒绝，无法连接。
+2025-05-03 22:24:22,873 - INFO - [car_type_keyword_stats.py:254] - 开始处理表: denza_d9
+2025-05-03 22:24:24,908 - ERROR - [car_type_keyword_stats.py:337] - 处理表 denza_d9 时发生错误: [WinError 10061] 由于目标计算机积极拒绝，无法连接。
+2025-05-03 22:24:24,908 - INFO - [car_type_keyword_stats.py:254] - 开始处理表: gac_trumpchi_e9
+2025-05-03 22:24:26,954 - ERROR - [car_type_keyword_stats.py:337] - 处理表 gac_trumpchi_e9 时发生错误: [WinError 10061] 由于目标计算机积极拒绝，无法连接。
+2025-05-03 22:24:26,956 - INFO - [car_type_keyword_stats.py:254] - 开始处理表: saic_roewe_imax8_ev
+2025-05-03 22:24:28,989 - ERROR - [car_type_keyword_stats.py:337] - 处理表 saic_roewe_imax8_ev 时发生错误: [WinError 10061] 由于目标计算机积极拒绝，无法连接。
+2025-05-03 22:24:28,989 - INFO - [car_type_keyword_stats.py:254] - 开始处理表: xpeng_x9
+2025-05-03 22:24:31,027 - ERROR - [car_type_keyword_stats.py:337] - 处理表 xpeng_x9 时发生错误: [WinError 10061] 由于目标计算机积极拒绝，无法连接。
+2025-05-03 22:24:31,027 - INFO - [car_type_keyword_stats.py:344] - 车型类别关键词统计处理完成
+2025-05-03 22:24:31,028 - INFO - [car_type_keyword_stats.py:345] - 总耗时: 11181.56 秒
+2025-05-03 22:24:31,028 - INFO - [car_type_keyword_stats.py:346] - 成功处理表数量: 40
+2025-05-03 22:24:31,028 - INFO - [car_type_keyword_stats.py:347] - 失败表数量: 10
+2025-05-03 22:24:33,077 - ERROR - [car_type_keyword_stats.py:352] - 执行关键词统计时出错: [WinError 10061] 由于目标计算机积极拒绝，无法连接。

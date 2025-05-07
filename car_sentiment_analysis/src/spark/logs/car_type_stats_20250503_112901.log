@@ -1,0 +1,260 @@
+2025-05-03 11:29:01,538 - INFO - [car_type_interaction_stats.py:155] - 开始车型类别统计处理
+2025-05-03 11:29:01,539 - INFO - [car_type_interaction_stats.py:158] - 正在创建Spark会话...
+2025-05-03 11:29:08,663 - INFO - [car_type_interaction_stats.py:160] - Spark会话创建成功
+2025-05-03 11:29:08,663 - INFO - [car_type_interaction_stats.py:163] - MySQL连接配置: {'driver': 'com.mysql.cj.jdbc.Driver', 'url': 'jdbc:mysql://localhost:3306/media_crawler_raw_data_dy', 'user': 'root', 'password': 'root'}
+2025-05-03 11:29:12,346 - INFO - [car_type_interaction_stats.py:171] - 已读取汽车基础信息表
+2025-05-03 11:29:12,346 - INFO - [car_type_interaction_stats.py:200] - 开始处理表: toyota_corolla
+2025-05-03 11:29:12,887 - ERROR - [car_type_interaction_stats.py:229] - 处理表 toyota_corolla 时发生错误: [UNRESOLVED_COLUMN.WITH_SUGGESTION] A column or function parameter with name `digg_count` cannot be resolved. Did you mean one of the following? [`like_count`, `car_id`, `content`, `id`, `user_id`].;
+'Project [car_id#13, content#15, 'digg_count, 'comment_count]
++- Relation [id#12,car_id#13,user_id#14,content#15,like_count#16,sub_comment_count#17,sentiment_analysis_results#18] JDBCRelation(toyota_corolla) [numPartitions=1]
+
+2025-05-03 11:29:12,887 - INFO - [car_type_interaction_stats.py:200] - 开始处理表: nissan_sylphy
+2025-05-03 11:29:12,992 - ERROR - [car_type_interaction_stats.py:229] - 处理表 nissan_sylphy 时发生错误: [UNRESOLVED_COLUMN.WITH_SUGGESTION] A column or function parameter with name `digg_count` cannot be resolved. Did you mean one of the following? [`like_count`, `car_id`, `content`, `id`, `user_id`].;
+'Project [car_id#27, content#29, 'digg_count, 'comment_count]
++- Relation [id#26,car_id#27,user_id#28,content#29,like_count#30,sub_comment_count#31,sentiment_analysis_results#32] JDBCRelation(nissan_sylphy) [numPartitions=1]
+
+2025-05-03 11:29:12,992 - INFO - [car_type_interaction_stats.py:200] - 开始处理表: volvo_s60
+2025-05-03 11:29:13,069 - ERROR - [car_type_interaction_stats.py:229] - 处理表 volvo_s60 时发生错误: [UNRESOLVED_COLUMN.WITH_SUGGESTION] A column or function parameter with name `digg_count` cannot be resolved. Did you mean one of the following? [`like_count`, `car_id`, `content`, `id`, `user_id`].;
+'Project [car_id#41, content#43, 'digg_count, 'comment_count]
++- Relation [id#40,car_id#41,user_id#42,content#43,like_count#44,sub_comment_count#45,sentiment_analysis_results#46] JDBCRelation(volvo_s60) [numPartitions=1]
+
+2025-05-03 11:29:13,070 - INFO - [car_type_interaction_stats.py:200] - 开始处理表: volkswagen_lavida
+2025-05-03 11:29:13,151 - ERROR - [car_type_interaction_stats.py:229] - 处理表 volkswagen_lavida 时发生错误: [UNRESOLVED_COLUMN.WITH_SUGGESTION] A column or function parameter with name `digg_count` cannot be resolved. Did you mean one of the following? [`like_count`, `car_id`, `content`, `id`, `user_id`].;
+'Project [car_id#55, content#57, 'digg_count, 'comment_count]
++- Relation [id#54,car_id#55,user_id#56,content#57,like_count#58,sub_comment_count#59,sentiment_analysis_results#60] JDBCRelation(volkswagen_lavida) [numPartitions=1]
+
+2025-05-03 11:29:13,152 - INFO - [car_type_interaction_stats.py:200] - 开始处理表: buick_excelle_gt
+2025-05-03 11:29:13,237 - ERROR - [car_type_interaction_stats.py:229] - 处理表 buick_excelle_gt 时发生错误: [UNRESOLVED_COLUMN.WITH_SUGGESTION] A column or function parameter with name `digg_count` cannot be resolved. Did you mean one of the following? [`like_count`, `car_id`, `content`, `id`, `user_id`].;
+'Project [car_id#69, content#71, 'digg_count, 'comment_count]
++- Relation [id#68,car_id#69,user_id#70,content#71,like_count#72,sub_comment_count#73,sentiment_analysis_results#74] JDBCRelation(buick_excelle_gt) [numPartitions=1]
+
+2025-05-03 11:29:13,238 - INFO - [car_type_interaction_stats.py:200] - 开始处理表: volkswagen_sagitar
+2025-05-03 11:29:13,320 - ERROR - [car_type_interaction_stats.py:229] - 处理表 volkswagen_sagitar 时发生错误: [UNRESOLVED_COLUMN.WITH_SUGGESTION] A column or function parameter with name `digg_count` cannot be resolved. Did you mean one of the following? [`like_count`, `car_id`, `content`, `id`, `user_id`].;
+'Project [car_id#83, content#85, 'digg_count, 'comment_count]
++- Relation [id#82,car_id#83,user_id#84,content#85,like_count#86,sub_comment_count#87,sentiment_analysis_results#88] JDBCRelation(volkswagen_sagitar) [numPartitions=1]
+
+2025-05-03 11:29:13,320 - INFO - [car_type_interaction_stats.py:200] - 开始处理表: volkswagen_passat
+2025-05-03 11:29:13,413 - ERROR - [car_type_interaction_stats.py:229] - 处理表 volkswagen_passat 时发生错误: [UNRESOLVED_COLUMN.WITH_SUGGESTION] A column or function parameter with name `digg_count` cannot be resolved. Did you mean one of the following? [`like_count`, `car_id`, `content`, `id`, `user_id`].;
+'Project [car_id#97, content#99, 'digg_count, 'comment_count]
++- Relation [id#96,car_id#97,user_id#98,content#99,like_count#100,sub_comment_count#101,sentiment_analysis_results#102] JDBCRelation(volkswagen_passat) [numPartitions=1]
+
+2025-05-03 11:29:13,413 - INFO - [car_type_interaction_stats.py:200] - 开始处理表: cadillac_ct4
+2025-05-03 11:29:13,500 - ERROR - [car_type_interaction_stats.py:229] - 处理表 cadillac_ct4 时发生错误: [UNRESOLVED_COLUMN.WITH_SUGGESTION] A column or function parameter with name `digg_count` cannot be resolved. Did you mean one of the following? [`like_count`, `car_id`, `content`, `id`, `user_id`].;
+'Project [car_id#111, content#113, 'digg_count, 'comment_count]
++- Relation [id#110,car_id#111,user_id#112,content#113,like_count#114,sub_comment_count#115,sentiment_analysis_results#116] JDBCRelation(cadillac_ct4) [numPartitions=1]
+
+2025-05-03 11:29:13,501 - INFO - [car_type_interaction_stats.py:200] - 开始处理表: chery_arrizo_8
+2025-05-03 11:29:13,578 - ERROR - [car_type_interaction_stats.py:229] - 处理表 chery_arrizo_8 时发生错误: [UNRESOLVED_COLUMN.WITH_SUGGESTION] A column or function parameter with name `digg_count` cannot be resolved. Did you mean one of the following? [`like_count`, `car_id`, `content`, `id`, `user_id`].;
+'Project [car_id#125, content#127, 'digg_count, 'comment_count]
++- Relation [id#124,car_id#125,user_id#126,content#127,like_count#128,sub_comment_count#129,sentiment_analysis_results#130] JDBCRelation(chery_arrizo_8) [numPartitions=1]
+
+2025-05-03 11:29:13,579 - INFO - [car_type_interaction_stats.py:200] - 开始处理表: honda_civic
+2025-05-03 11:29:13,652 - ERROR - [car_type_interaction_stats.py:229] - 处理表 honda_civic 时发生错误: [UNRESOLVED_COLUMN.WITH_SUGGESTION] A column or function parameter with name `digg_count` cannot be resolved. Did you mean one of the following? [`like_count`, `car_id`, `content`, `id`, `user_id`].;
+'Project [car_id#139, content#141, 'digg_count, 'comment_count]
++- Relation [id#138,car_id#139,user_id#140,content#141,like_count#142,sub_comment_count#143,sentiment_analysis_results#144] JDBCRelation(honda_civic) [numPartitions=1]
+
+2025-05-03 11:29:13,652 - INFO - [car_type_interaction_stats.py:200] - 开始处理表: honda_accord
+2025-05-03 11:29:13,732 - ERROR - [car_type_interaction_stats.py:229] - 处理表 honda_accord 时发生错误: [UNRESOLVED_COLUMN.WITH_SUGGESTION] A column or function parameter with name `digg_count` cannot be resolved. Did you mean one of the following? [`like_count`, `car_id`, `content`, `id`, `user_id`].;
+'Project [car_id#153, content#155, 'digg_count, 'comment_count]
++- Relation [id#152,car_id#153,user_id#154,content#155,like_count#156,sub_comment_count#157,sentiment_analysis_results#158] JDBCRelation(honda_accord) [numPartitions=1]
+
+2025-05-03 11:29:13,733 - INFO - [car_type_interaction_stats.py:200] - 开始处理表: geely_preface
+2025-05-03 11:29:13,827 - ERROR - [car_type_interaction_stats.py:229] - 处理表 geely_preface 时发生错误: [UNRESOLVED_COLUMN.WITH_SUGGESTION] A column or function parameter with name `digg_count` cannot be resolved. Did you mean one of the following? [`like_count`, `car_id`, `content`, `id`, `user_id`].;
+'Project [car_id#167, content#169, 'digg_count, 'comment_count]
++- Relation [id#166,car_id#167,user_id#168,content#169,like_count#170,sub_comment_count#171,sentiment_analysis_results#172] JDBCRelation(geely_preface) [numPartitions=1]
+
+2025-05-03 11:29:13,827 - INFO - [car_type_interaction_stats.py:200] - 开始处理表: geely_emgrand
+2025-05-03 11:29:13,902 - ERROR - [car_type_interaction_stats.py:229] - 处理表 geely_emgrand 时发生错误: [UNRESOLVED_COLUMN.WITH_SUGGESTION] A column or function parameter with name `digg_count` cannot be resolved. Did you mean one of the following? [`like_count`, `car_id`, `content`, `id`, `user_id`].;
+'Project [car_id#181, content#183, 'digg_count, 'comment_count]
++- Relation [id#180,car_id#181,user_id#182,content#183,like_count#184,sub_comment_count#185,sentiment_analysis_results#186] JDBCRelation(geely_emgrand) [numPartitions=1]
+
+2025-05-03 11:29:13,902 - INFO - [car_type_interaction_stats.py:200] - 开始处理表: hongqi_h5
+2025-05-03 11:29:13,981 - ERROR - [car_type_interaction_stats.py:229] - 处理表 hongqi_h5 时发生错误: [UNRESOLVED_COLUMN.WITH_SUGGESTION] A column or function parameter with name `digg_count` cannot be resolved. Did you mean one of the following? [`like_count`, `car_id`, `content`, `id`, `user_id`].;
+'Project [car_id#195, content#197, 'digg_count, 'comment_count]
++- Relation [id#194,car_id#195,user_id#196,content#197,like_count#198,sub_comment_count#199,sentiment_analysis_results#200] JDBCRelation(hongqi_h5) [numPartitions=1]
+
+2025-05-03 11:29:13,981 - INFO - [car_type_interaction_stats.py:200] - 开始处理表: changan_eado
+2025-05-03 11:29:14,065 - ERROR - [car_type_interaction_stats.py:229] - 处理表 changan_eado 时发生错误: [UNRESOLVED_COLUMN.WITH_SUGGESTION] A column or function parameter with name `digg_count` cannot be resolved. Did you mean one of the following? [`like_count`, `car_id`, `content`, `id`, `user_id`].;
+'Project [car_id#209, content#211, 'digg_count, 'comment_count]
++- Relation [id#208,car_id#209,user_id#210,content#211,like_count#212,sub_comment_count#213,sentiment_analysis_results#214] JDBCRelation(changan_eado) [numPartitions=1]
+
+2025-05-03 11:29:14,066 - INFO - [car_type_interaction_stats.py:200] - 开始处理表: geely_xingyue_l
+2025-05-03 11:29:14,150 - ERROR - [car_type_interaction_stats.py:229] - 处理表 geely_xingyue_l 时发生错误: [UNRESOLVED_COLUMN.WITH_SUGGESTION] A column or function parameter with name `digg_count` cannot be resolved. Did you mean one of the following? [`like_count`, `car_id`, `content`, `id`, `user_id`].;
+'Project [car_id#223, content#225, 'digg_count, 'comment_count]
++- Relation [id#222,car_id#223,user_id#224,content#225,like_count#226,sub_comment_count#227,sentiment_analysis_results#228] JDBCRelation(geely_xingyue_l) [numPartitions=1]
+
+2025-05-03 11:29:14,150 - INFO - [car_type_interaction_stats.py:200] - 开始处理表: haval_h5
+2025-05-03 11:29:14,228 - ERROR - [car_type_interaction_stats.py:229] - 处理表 haval_h5 时发生错误: [UNRESOLVED_COLUMN.WITH_SUGGESTION] A column or function parameter with name `digg_count` cannot be resolved. Did you mean one of the following? [`like_count`, `car_id`, `content`, `id`, `user_id`].;
+'Project [car_id#237, content#239, 'digg_count, 'comment_count]
++- Relation [id#236,car_id#237,user_id#238,content#239,like_count#240,sub_comment_count#241,sentiment_analysis_results#242] JDBCRelation(haval_h5) [numPartitions=1]
+
+2025-05-03 11:29:14,228 - INFO - [car_type_interaction_stats.py:200] - 开始处理表: tank_300
+2025-05-03 11:29:14,318 - ERROR - [car_type_interaction_stats.py:229] - 处理表 tank_300 时发生错误: [UNRESOLVED_COLUMN.WITH_SUGGESTION] A column or function parameter with name `digg_count` cannot be resolved. Did you mean one of the following? [`like_count`, `car_id`, `content`, `id`, `user_id`].;
+'Project [car_id#251, content#253, 'digg_count, 'comment_count]
++- Relation [id#250,car_id#251,user_id#252,content#253,like_count#254,sub_comment_count#255,sentiment_analysis_results#256] JDBCRelation(tank_300) [numPartitions=1]
+
+2025-05-03 11:29:14,318 - INFO - [car_type_interaction_stats.py:200] - 开始处理表: byd_song_pro
+2025-05-03 11:29:14,419 - ERROR - [car_type_interaction_stats.py:229] - 处理表 byd_song_pro 时发生错误: [UNRESOLVED_COLUMN.WITH_SUGGESTION] A column or function parameter with name `digg_count` cannot be resolved. Did you mean one of the following? [`like_count`, `car_id`, `content`, `id`, `user_id`].;
+'Project [car_id#265, content#267, 'digg_count, 'comment_count]
++- Relation [id#264,car_id#265,user_id#266,content#267,like_count#268,sub_comment_count#269,sentiment_analysis_results#270] JDBCRelation(byd_song_pro) [numPartitions=1]
+
+2025-05-03 11:29:14,419 - INFO - [car_type_interaction_stats.py:200] - 开始处理表: saic_volkswagen_tiguan_l_pro
+2025-05-03 11:29:14,531 - ERROR - [car_type_interaction_stats.py:229] - 处理表 saic_volkswagen_tiguan_l_pro 时发生错误: [UNRESOLVED_COLUMN.WITH_SUGGESTION] A column or function parameter with name `digg_count` cannot be resolved. Did you mean one of the following? [`like_count`, `car_id`, `content`, `id`, `user_id`].;
+'Project [car_id#279, content#281, 'digg_count, 'comment_count]
++- Relation [id#278,car_id#279,user_id#280,content#281,like_count#282,sub_comment_count#283,sentiment_analysis_results#284] JDBCRelation(saic_volkswagen_tiguan_l_pro) [numPartitions=1]
+
+2025-05-03 11:29:14,531 - INFO - [car_type_interaction_stats.py:200] - 开始处理表: bmw_x3
+2025-05-03 11:29:14,618 - ERROR - [car_type_interaction_stats.py:229] - 处理表 bmw_x3 时发生错误: [UNRESOLVED_COLUMN.WITH_SUGGESTION] A column or function parameter with name `digg_count` cannot be resolved. Did you mean one of the following? [`like_count`, `car_id`, `content`, `id`, `user_id`].;
+'Project [car_id#293, content#295, 'digg_count, 'comment_count]
++- Relation [id#292,car_id#293,user_id#294,content#295,like_count#296,sub_comment_count#297,sentiment_analysis_results#298] JDBCRelation(bmw_x3) [numPartitions=1]
+
+2025-05-03 11:29:14,618 - INFO - [car_type_interaction_stats.py:200] - 开始处理表: audi_q5l
+2025-05-03 11:29:14,683 - ERROR - [car_type_interaction_stats.py:229] - 处理表 audi_q5l 时发生错误: [UNRESOLVED_COLUMN.WITH_SUGGESTION] A column or function parameter with name `digg_count` cannot be resolved. Did you mean one of the following? [`like_count`, `car_id`, `content`, `id`, `user_id`].;
+'Project [car_id#307, content#309, 'digg_count, 'comment_count]
++- Relation [id#306,car_id#307,user_id#308,content#309,like_count#310,sub_comment_count#311,sentiment_analysis_results#312] JDBCRelation(audi_q5l) [numPartitions=1]
+
+2025-05-03 11:29:14,683 - INFO - [car_type_interaction_stats.py:200] - 开始处理表: buick_envision
+2025-05-03 11:29:14,744 - ERROR - [car_type_interaction_stats.py:229] - 处理表 buick_envision 时发生错误: [UNRESOLVED_COLUMN.WITH_SUGGESTION] A column or function parameter with name `digg_count` cannot be resolved. Did you mean one of the following? [`like_count`, `car_id`, `content`, `id`, `user_id`].;
+'Project [car_id#321, content#323, 'digg_count, 'comment_count]
++- Relation [id#320,car_id#321,user_id#322,content#323,like_count#324,sub_comment_count#325,sentiment_analysis_results#326] JDBCRelation(buick_envision) [numPartitions=1]
+
+2025-05-03 11:29:14,744 - INFO - [car_type_interaction_stats.py:200] - 开始处理表: chevrolet_equinox
+2025-05-03 11:29:14,805 - ERROR - [car_type_interaction_stats.py:229] - 处理表 chevrolet_equinox 时发生错误: [UNRESOLVED_COLUMN.WITH_SUGGESTION] A column or function parameter with name `digg_count` cannot be resolved. Did you mean one of the following? [`like_count`, `car_id`, `content`, `id`, `user_id`].;
+'Project [car_id#335, content#337, 'digg_count, 'comment_count]
++- Relation [id#334,car_id#335,user_id#336,content#337,like_count#338,sub_comment_count#339,sentiment_analysis_results#340] JDBCRelation(chevrolet_equinox) [numPartitions=1]
+
+2025-05-03 11:29:14,806 - INFO - [car_type_interaction_stats.py:200] - 开始处理表: jeep_compass
+2025-05-03 11:29:14,883 - ERROR - [car_type_interaction_stats.py:229] - 处理表 jeep_compass 时发生错误: [UNRESOLVED_COLUMN.WITH_SUGGESTION] A column or function parameter with name `digg_count` cannot be resolved. Did you mean one of the following? [`like_count`, `car_id`, `content`, `id`, `user_id`].;
+'Project [car_id#349, content#351, 'digg_count, 'comment_count]
++- Relation [id#348,car_id#349,user_id#350,content#351,like_count#352,sub_comment_count#353,sentiment_analysis_results#354] JDBCRelation(jeep_compass) [numPartitions=1]
+
+2025-05-03 11:29:14,883 - INFO - [car_type_interaction_stats.py:200] - 开始处理表: gac_trumpchi_m8
+2025-05-03 11:29:14,967 - ERROR - [car_type_interaction_stats.py:229] - 处理表 gac_trumpchi_m8 时发生错误: [UNRESOLVED_COLUMN.WITH_SUGGESTION] A column or function parameter with name `digg_count` cannot be resolved. Did you mean one of the following? [`like_count`, `car_id`, `content`, `id`, `user_id`].;
+'Project [car_id#363, content#365, 'digg_count, 'comment_count]
++- Relation [id#362,car_id#363,user_id#364,content#365,like_count#366,sub_comment_count#367,sentiment_analysis_results#368] JDBCRelation(gac_trumpchi_m8) [numPartitions=1]
+
+2025-05-03 11:29:14,967 - INFO - [car_type_interaction_stats.py:200] - 开始处理表: buick_gl8
+2025-05-03 11:29:15,039 - ERROR - [car_type_interaction_stats.py:229] - 处理表 buick_gl8 时发生错误: [UNRESOLVED_COLUMN.WITH_SUGGESTION] A column or function parameter with name `digg_count` cannot be resolved. Did you mean one of the following? [`like_count`, `car_id`, `content`, `id`, `user_id`].;
+'Project [car_id#377, content#379, 'digg_count, 'comment_count]
++- Relation [id#376,car_id#377,user_id#378,content#379,like_count#380,sub_comment_count#381,sentiment_analysis_results#382] JDBCRelation(buick_gl8) [numPartitions=1]
+
+2025-05-03 11:29:15,040 - INFO - [car_type_interaction_stats.py:200] - 开始处理表: honda_odyssey
+2025-05-03 11:29:15,114 - ERROR - [car_type_interaction_stats.py:229] - 处理表 honda_odyssey 时发生错误: [UNRESOLVED_COLUMN.WITH_SUGGESTION] A column or function parameter with name `digg_count` cannot be resolved. Did you mean one of the following? [`like_count`, `car_id`, `content`, `id`, `user_id`].;
+'Project [car_id#391, content#393, 'digg_count, 'comment_count]
++- Relation [id#390,car_id#391,user_id#392,content#393,like_count#394,sub_comment_count#395,sentiment_analysis_results#396] JDBCRelation(honda_odyssey) [numPartitions=1]
+
+2025-05-03 11:29:15,114 - INFO - [car_type_interaction_stats.py:200] - 开始处理表: toyota_sienna
+2025-05-03 11:29:15,176 - ERROR - [car_type_interaction_stats.py:229] - 处理表 toyota_sienna 时发生错误: [UNRESOLVED_COLUMN.WITH_SUGGESTION] A column or function parameter with name `digg_count` cannot be resolved. Did you mean one of the following? [`like_count`, `car_id`, `content`, `id`, `user_id`].;
+'Project [car_id#405, content#407, 'digg_count, 'comment_count]
++- Relation [id#404,car_id#405,user_id#406,content#407,like_count#408,sub_comment_count#409,sentiment_analysis_results#410] JDBCRelation(toyota_sienna) [numPartitions=1]
+
+2025-05-03 11:29:15,177 - INFO - [car_type_interaction_stats.py:200] - 开始处理表: saic_volkswagen_viloran
+2025-05-03 11:29:15,244 - ERROR - [car_type_interaction_stats.py:229] - 处理表 saic_volkswagen_viloran 时发生错误: [UNRESOLVED_COLUMN.WITH_SUGGESTION] A column or function parameter with name `digg_count` cannot be resolved. Did you mean one of the following? [`like_count`, `car_id`, `content`, `id`, `user_id`].;
+'Project [car_id#419, content#421, 'digg_count, 'comment_count]
++- Relation [id#418,car_id#419,user_id#420,content#421,like_count#422,sub_comment_count#423,sentiment_analysis_results#424] JDBCRelation(saic_volkswagen_viloran) [numPartitions=1]
+
+2025-05-03 11:29:15,244 - INFO - [car_type_interaction_stats.py:200] - 开始处理表: byd_han
+2025-05-03 11:29:15,328 - ERROR - [car_type_interaction_stats.py:229] - 处理表 byd_han 时发生错误: [UNRESOLVED_COLUMN.WITH_SUGGESTION] A column or function parameter with name `digg_count` cannot be resolved. Did you mean one of the following? [`like_count`, `car_id`, `content`, `id`, `user_id`].;
+'Project [car_id#433, content#435, 'digg_count, 'comment_count]
++- Relation [id#432,car_id#433,user_id#434,content#435,like_count#436,sub_comment_count#437,sentiment_analysis_results#438] JDBCRelation(byd_han) [numPartitions=1]
+
+2025-05-03 11:29:15,328 - INFO - [car_type_interaction_stats.py:200] - 开始处理表: gac_aion_aion_s
+2025-05-03 11:29:15,385 - ERROR - [car_type_interaction_stats.py:229] - 处理表 gac_aion_aion_s 时发生错误: [UNRESOLVED_COLUMN.WITH_SUGGESTION] A column or function parameter with name `digg_count` cannot be resolved. Did you mean one of the following? [`like_count`, `car_id`, `content`, `id`, `user_id`].;
+'Project [car_id#447, content#449, 'digg_count, 'comment_count]
++- Relation [id#446,car_id#447,user_id#448,content#449,like_count#450,sub_comment_count#451,sentiment_analysis_results#452] JDBCRelation(gac_aion_aion_s) [numPartitions=1]
+
+2025-05-03 11:29:15,385 - INFO - [car_type_interaction_stats.py:200] - 开始处理表: tesla_model_3
+2025-05-03 11:29:15,444 - ERROR - [car_type_interaction_stats.py:229] - 处理表 tesla_model_3 时发生错误: [UNRESOLVED_COLUMN.WITH_SUGGESTION] A column or function parameter with name `digg_count` cannot be resolved. Did you mean one of the following? [`like_count`, `car_id`, `content`, `id`, `user_id`].;
+'Project [car_id#461, content#463, 'digg_count, 'comment_count]
++- Relation [id#460,car_id#461,user_id#462,content#463,like_count#464,sub_comment_count#465,sentiment_analysis_results#466] JDBCRelation(tesla_model_3) [numPartitions=1]
+
+2025-05-03 11:29:15,444 - INFO - [car_type_interaction_stats.py:200] - 开始处理表: bmw_i3
+2025-05-03 11:29:15,503 - ERROR - [car_type_interaction_stats.py:229] - 处理表 bmw_i3 时发生错误: [UNRESOLVED_COLUMN.WITH_SUGGESTION] A column or function parameter with name `digg_count` cannot be resolved. Did you mean one of the following? [`like_count`, `car_id`, `content`, `id`, `user_id`].;
+'Project [car_id#475, content#477, 'digg_count, 'comment_count]
++- Relation [id#474,car_id#475,user_id#476,content#477,like_count#478,sub_comment_count#479,sentiment_analysis_results#480] JDBCRelation(bmw_i3) [numPartitions=1]
+
+2025-05-03 11:29:15,503 - INFO - [car_type_interaction_stats.py:200] - 开始处理表: mercedes_benz_eqc
+2025-05-03 11:29:15,571 - ERROR - [car_type_interaction_stats.py:229] - 处理表 mercedes_benz_eqc 时发生错误: [UNRESOLVED_COLUMN.WITH_SUGGESTION] A column or function parameter with name `digg_count` cannot be resolved. Did you mean one of the following? [`like_count`, `car_id`, `content`, `id`, `user_id`].;
+'Project [car_id#489, content#491, 'digg_count, 'comment_count]
++- Relation [id#488,car_id#489,user_id#490,content#491,like_count#492,sub_comment_count#493,sentiment_analysis_results#494] JDBCRelation(mercedes_benz_eqc) [numPartitions=1]
+
+2025-05-03 11:29:15,571 - INFO - [car_type_interaction_stats.py:200] - 开始处理表: byd_qin_plus_ev
+2025-05-03 11:29:15,626 - ERROR - [car_type_interaction_stats.py:229] - 处理表 byd_qin_plus_ev 时发生错误: [UNRESOLVED_COLUMN.WITH_SUGGESTION] A column or function parameter with name `digg_count` cannot be resolved. Did you mean one of the following? [`like_count`, `car_id`, `content`, `id`, `user_id`].;
+'Project [car_id#503, content#505, 'digg_count, 'comment_count]
++- Relation [id#502,car_id#503,user_id#504,content#505,like_count#506,sub_comment_count#507,sentiment_analysis_results#508] JDBCRelation(byd_qin_plus_ev) [numPartitions=1]
+
+2025-05-03 11:29:15,626 - INFO - [car_type_interaction_stats.py:200] - 开始处理表: nio_et5
+2025-05-03 11:29:15,685 - ERROR - [car_type_interaction_stats.py:229] - 处理表 nio_et5 时发生错误: [UNRESOLVED_COLUMN.WITH_SUGGESTION] A column or function parameter with name `digg_count` cannot be resolved. Did you mean one of the following? [`like_count`, `car_id`, `content`, `id`, `user_id`].;
+'Project [car_id#517, content#519, 'digg_count, 'comment_count]
++- Relation [id#516,car_id#517,user_id#518,content#519,like_count#520,sub_comment_count#521,sentiment_analysis_results#522] JDBCRelation(nio_et5) [numPartitions=1]
+
+2025-05-03 11:29:15,685 - INFO - [car_type_interaction_stats.py:200] - 开始处理表: xpeng_p7
+2025-05-03 11:29:15,754 - ERROR - [car_type_interaction_stats.py:229] - 处理表 xpeng_p7 时发生错误: [UNRESOLVED_COLUMN.WITH_SUGGESTION] A column or function parameter with name `digg_count` cannot be resolved. Did you mean one of the following? [`like_count`, `car_id`, `content`, `id`, `user_id`].;
+'Project [car_id#531, content#533, 'digg_count, 'comment_count]
++- Relation [id#530,car_id#531,user_id#532,content#533,like_count#534,sub_comment_count#535,sentiment_analysis_results#536] JDBCRelation(xpeng_p7) [numPartitions=1]
+
+2025-05-03 11:29:15,754 - INFO - [car_type_interaction_stats.py:200] - 开始处理表: xiaomi_su7
+2025-05-03 11:29:15,810 - ERROR - [car_type_interaction_stats.py:229] - 处理表 xiaomi_su7 时发生错误: [UNRESOLVED_COLUMN.WITH_SUGGESTION] A column or function parameter with name `digg_count` cannot be resolved. Did you mean one of the following? [`like_count`, `car_id`, `content`, `id`, `user_id`].;
+'Project [car_id#545, content#547, 'digg_count, 'comment_count]
++- Relation [id#544,car_id#545,user_id#546,content#547,like_count#548,sub_comment_count#549,sentiment_analysis_results#550] JDBCRelation(xiaomi_su7) [numPartitions=1]
+
+2025-05-03 11:29:15,810 - INFO - [car_type_interaction_stats.py:200] - 开始处理表: chery_fengyun_a8
+2025-05-03 11:29:15,869 - ERROR - [car_type_interaction_stats.py:229] - 处理表 chery_fengyun_a8 时发生错误: [UNRESOLVED_COLUMN.WITH_SUGGESTION] A column or function parameter with name `digg_count` cannot be resolved. Did you mean one of the following? [`like_count`, `car_id`, `content`, `id`, `user_id`].;
+'Project [car_id#559, content#561, 'digg_count, 'comment_count]
++- Relation [id#558,car_id#559,user_id#560,content#561,like_count#562,sub_comment_count#563,sentiment_analysis_results#564] JDBCRelation(chery_fengyun_a8) [numPartitions=1]
+
+2025-05-03 11:29:15,869 - INFO - [car_type_interaction_stats.py:200] - 开始处理表: byd_song_plus_ev
+2025-05-03 11:29:15,925 - ERROR - [car_type_interaction_stats.py:229] - 处理表 byd_song_plus_ev 时发生错误: [UNRESOLVED_COLUMN.WITH_SUGGESTION] A column or function parameter with name `digg_count` cannot be resolved. Did you mean one of the following? [`like_count`, `car_id`, `content`, `id`, `user_id`].;
+'Project [car_id#573, content#575, 'digg_count, 'comment_count]
++- Relation [id#572,car_id#573,user_id#574,content#575,like_count#576,sub_comment_count#577,sentiment_analysis_results#578] JDBCRelation(byd_song_plus_ev) [numPartitions=1]
+
+2025-05-03 11:29:15,925 - INFO - [car_type_interaction_stats.py:200] - 开始处理表: gac_aion_aion_y
+2025-05-03 11:29:15,989 - ERROR - [car_type_interaction_stats.py:229] - 处理表 gac_aion_aion_y 时发生错误: [UNRESOLVED_COLUMN.WITH_SUGGESTION] A column or function parameter with name `digg_count` cannot be resolved. Did you mean one of the following? [`like_count`, `car_id`, `content`, `id`, `user_id`].;
+'Project [car_id#587, content#589, 'digg_count, 'comment_count]
++- Relation [id#586,car_id#587,user_id#588,content#589,like_count#590,sub_comment_count#591,sentiment_analysis_results#592] JDBCRelation(gac_aion_aion_y) [numPartitions=1]
+
+2025-05-03 11:29:15,989 - INFO - [car_type_interaction_stats.py:200] - 开始处理表: tesla_model_y
+2025-05-03 11:29:16,051 - ERROR - [car_type_interaction_stats.py:229] - 处理表 tesla_model_y 时发生错误: [UNRESOLVED_COLUMN.WITH_SUGGESTION] A column or function parameter with name `digg_count` cannot be resolved. Did you mean one of the following? [`like_count`, `car_id`, `content`, `id`, `user_id`].;
+'Project [car_id#601, content#603, 'digg_count, 'comment_count]
++- Relation [id#600,car_id#601,user_id#602,content#603,like_count#604,sub_comment_count#605,sentiment_analysis_results#606] JDBCRelation(tesla_model_y) [numPartitions=1]
+
+2025-05-03 11:29:16,051 - INFO - [car_type_interaction_stats.py:200] - 开始处理表: nio_es6
+2025-05-03 11:29:16,108 - ERROR - [car_type_interaction_stats.py:229] - 处理表 nio_es6 时发生错误: [UNRESOLVED_COLUMN.WITH_SUGGESTION] A column or function parameter with name `digg_count` cannot be resolved. Did you mean one of the following? [`like_count`, `car_id`, `content`, `id`, `user_id`].;
+'Project [car_id#615, content#617, 'digg_count, 'comment_count]
++- Relation [id#614,car_id#615,user_id#616,content#617,like_count#618,sub_comment_count#619,sentiment_analysis_results#620] JDBCRelation(nio_es6) [numPartitions=1]
+
+2025-05-03 11:29:16,108 - INFO - [car_type_interaction_stats.py:200] - 开始处理表: xpeng_g6
+2025-05-03 11:29:16,166 - ERROR - [car_type_interaction_stats.py:229] - 处理表 xpeng_g6 时发生错误: [UNRESOLVED_COLUMN.WITH_SUGGESTION] A column or function parameter with name `digg_count` cannot be resolved. Did you mean one of the following? [`like_count`, `car_id`, `content`, `id`, `user_id`].;
+'Project [car_id#629, content#631, 'digg_count, 'comment_count]
++- Relation [id#628,car_id#629,user_id#630,content#631,like_count#632,sub_comment_count#633,sentiment_analysis_results#634] JDBCRelation(xpeng_g6) [numPartitions=1]
+
+2025-05-03 11:29:16,166 - INFO - [car_type_interaction_stats.py:200] - 开始处理表: voyah_dreamer
+2025-05-03 11:29:16,226 - ERROR - [car_type_interaction_stats.py:229] - 处理表 voyah_dreamer 时发生错误: [UNRESOLVED_COLUMN.WITH_SUGGESTION] A column or function parameter with name `digg_count` cannot be resolved. Did you mean one of the following? [`like_count`, `car_id`, `content`, `id`, `user_id`].;
+'Project [car_id#643, content#645, 'digg_count, 'comment_count]
++- Relation [id#642,car_id#643,user_id#644,content#645,like_count#646,sub_comment_count#647,sentiment_analysis_results#648] JDBCRelation(voyah_dreamer) [numPartitions=1]
+
+2025-05-03 11:29:16,226 - INFO - [car_type_interaction_stats.py:200] - 开始处理表: denza_d9
+2025-05-03 11:29:16,290 - ERROR - [car_type_interaction_stats.py:229] - 处理表 denza_d9 时发生错误: [UNRESOLVED_COLUMN.WITH_SUGGESTION] A column or function parameter with name `digg_count` cannot be resolved. Did you mean one of the following? [`like_count`, `car_id`, `content`, `id`, `user_id`].;
+'Project [car_id#657, content#659, 'digg_count, 'comment_count]
++- Relation [id#656,car_id#657,user_id#658,content#659,like_count#660,sub_comment_count#661,sentiment_analysis_results#662] JDBCRelation(denza_d9) [numPartitions=1]
+
+2025-05-03 11:29:16,290 - INFO - [car_type_interaction_stats.py:200] - 开始处理表: gac_trumpchi_e9
+2025-05-03 11:29:16,347 - ERROR - [car_type_interaction_stats.py:229] - 处理表 gac_trumpchi_e9 时发生错误: [UNRESOLVED_COLUMN.WITH_SUGGESTION] A column or function parameter with name `digg_count` cannot be resolved. Did you mean one of the following? [`like_count`, `car_id`, `content`, `id`, `user_id`].;
+'Project [car_id#671, content#673, 'digg_count, 'comment_count]
++- Relation [id#670,car_id#671,user_id#672,content#673,like_count#674,sub_comment_count#675,sentiment_analysis_results#676] JDBCRelation(gac_trumpchi_e9) [numPartitions=1]
+
+2025-05-03 11:29:16,347 - INFO - [car_type_interaction_stats.py:200] - 开始处理表: saic_roewe_imax8_ev
+2025-05-03 11:29:16,404 - ERROR - [car_type_interaction_stats.py:229] - 处理表 saic_roewe_imax8_ev 时发生错误: [UNRESOLVED_COLUMN.WITH_SUGGESTION] A column or function parameter with name `digg_count` cannot be resolved. Did you mean one of the following? [`like_count`, `car_id`, `content`, `id`, `user_id`].;
+'Project [car_id#685, content#687, 'digg_count, 'comment_count]
++- Relation [id#684,car_id#685,user_id#686,content#687,like_count#688,sub_comment_count#689,sentiment_analysis_results#690] JDBCRelation(saic_roewe_imax8_ev) [numPartitions=1]
+
+2025-05-03 11:29:16,404 - INFO - [car_type_interaction_stats.py:200] - 开始处理表: xpeng_x9
+2025-05-03 11:29:16,461 - ERROR - [car_type_interaction_stats.py:229] - 处理表 xpeng_x9 时发生错误: [UNRESOLVED_COLUMN.WITH_SUGGESTION] A column or function parameter with name `digg_count` cannot be resolved. Did you mean one of the following? [`like_count`, `car_id`, `content`, `id`, `user_id`].;
+'Project [car_id#699, content#701, 'digg_count, 'comment_count]
++- Relation [id#698,car_id#699,user_id#700,content#701,like_count#702,sub_comment_count#703,sentiment_analysis_results#704] JDBCRelation(xpeng_x9) [numPartitions=1]
+
+2025-05-03 11:29:16,463 - WARNING - [car_type_interaction_stats.py:351] - 没有成功处理任何数据表
+2025-05-03 11:29:16,463 - INFO - [car_type_interaction_stats.py:356] - 车型类别统计处理完成
+2025-05-03 11:29:16,463 - INFO - [car_type_interaction_stats.py:357] - 总耗时: 14.92 秒
+2025-05-03 11:29:16,463 - INFO - [car_type_interaction_stats.py:358] - 成功处理表数量: 0
+2025-05-03 11:29:16,463 - INFO - [car_type_interaction_stats.py:359] - 失败表数量: 50

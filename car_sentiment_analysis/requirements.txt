@@ -1,0 +1,47 @@
+# CUDA相关
+cudatoolkit=12.3      # NVIDIA CUDA工具包
+torch==2.5.1+cu121    # PyTorch深度学习框架（CUDA 12.1版本）
+torchaudio==2.5.1+cu121  # PyTorch音频处理库
+torchvision==0.20.1+cu121  # PyTorch计算机视觉库
+
+# 核心机器学习库
+transformers==4.38.2   # Hugging Face转换器库（包含BERT等预训练模型）
+accelerate==0.27.2     # 分布式训练加速库
+scikit-learn==1.4.0   # 机器学习工具库（数据分割与评估）
+scipy==1.13.1         # 科学计算库（用于数值计算和统计）
+
+# 数据处理与分析
+pandas==2.1.4         # 数据处理和分析库
+numpy==1.26.4         # 数值计算基础库
+matplotlib>=3.5.0     # 数据可视化库
+seaborn==0.13.2       # 统计数据可视化库
+
+# 自然语言处理
+jieba==0.42.1         # 中文分词库
+gensim==4.3.2         # 词向量和主题模型库
+OpenHowNet==2.0       # 知网义原词典接口
+opencc==1.1.7         # 中文简繁转换
+synonyms==3.23.5      # 中文同义词库
+
+# 数据库支持
+sqlalchemy==2.0.25    # 数据库ORM框架
+pymysql==1.1.1        # MySQL数据库连接驱动
+mysql-connector-python==9.2.0  # MySQL官方连接器
+
+# 工具和辅助库
+tqdm==4.66.1          # 进度条显示
+python-dotenv==1.0.0  # 环境变量配置
+requests==2.32.3      # HTTP请求库
+PyYAML==6.0.2         # YAML文件处理
+joblib==1.4.2         # 并行计算工具
+psutil==7.0.0         # 系统和进程监控
+
+# 文件和数据格式处理
+smart-open==7.1.0     # 智能文件打开工具
+filelock==3.13.1      # 文件锁定机制
+pillow==11.0.0        # 图像处理库
+
+# 类型提示和兼容性
+typing_extensions==4.12.2  # 类型提示扩展
+six==1.17.0           # Python 2和3兼容库
+packaging==24.2       # Python包和版本号处理
